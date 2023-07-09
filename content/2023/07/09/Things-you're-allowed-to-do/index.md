@@ -1,8 +1,9 @@
 ---
 title: "你被允许做的事情"
-date: 2023-07-03T09:37:21+08:00
+date: 2023-07-09T23:01:10+8:00
+tags: []
 ---
-原标题：Things you're allowed to do
+原标题：Things you're allowed to do 
 
 This is a list of things you’re allowed to do that you thought you couldn’t, or didn’t even know you could.  
 
@@ -17,25 +18,15 @@ I haven’t tried everything on this list, mainly due to cost. But you’d be su
 请注意，您几乎可以将下面所有地方的“租用”或“购买”替换为“物物交换”或“查找 DIY 指南”。例如。你可以打扫浴室，以换取你的室友为你做几个小时的研究。
 
 ### Learning and decision making  
-
 学习和决策
 
 -   Hire a researcher or expert consultant  
-    
     聘请研究员或专家顾问
-    
     -   I hired a researcher ([Elizabeth Van Nostrand](https://acesounderglass.com/), whom you can and should [hire](https://acesounderglass.com/hire-me/) too) to help write this very post, which is largely about how to hire people to do things!  
-        
         我聘请了一位研究员（Elizabeth Van Nostrand，你也可以而且应该聘请他）来帮助撰写这篇文章，这主要是关于如何雇用人们来做事！
-        
-    -   They can: 
-		
-		他们能：
-		
+    -   They can:  他们能：
         -   Help validate whether a crazy idea is possible  
-            
             帮助验证一个疯狂的想法是否可行
-            
         -   Do [epistemic spot checks](https://acesounderglass.com/tag/epistemicspotcheck/) of your work  
             对你的工作进行认知抽查
         -   Map the landscape of opinions on a topic  

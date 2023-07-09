@@ -2,6 +2,7 @@
 title: "在十年内自学编程"
 date: 2023-07-03T09:37:21+08:00
 ---
+原标题：Teach Yourself Programming in Ten Years
 
 Peter Norvig
 
@@ -247,4 +248,4 @@ T. Capey points out that the Complete Problem Solver page on Amazon now has the 
 
 T. Capey 指出，亚马逊上的“完整问题解决者”页面现在在“购买该商品的顾客也购买了这些商品”部分下提供了“21 天自学孟加拉语”和“自学语法和风格”书籍。我猜想看那本书的很大一部分人都是从这个页面来的。感谢罗斯·科恩对希波克拉底的帮助。
 
-原文链接: https://norvig.com/21-days.html
+原文链接: [https://norvig.com/21-days.html](https://norvig.com/21-days.html)
