@@ -8,7 +8,8 @@ authors = ["Jamyeins"]
 
 [output.html]
 git-repository-url = "https://github.com/Jamyein/clip"
-edit-url-template = "https://github.com/Jaymein/clip/edit/main/{path}"
+#edit-url-template = "https://github.com/Jaymein/clip/edit/main/{path}"
+additional-css = ["custom.css"]
 
 [output.html.search]
 enable = false
