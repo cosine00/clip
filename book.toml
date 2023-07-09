@@ -1,4 +1,4 @@
-base_url = "https://clip-template.vercel.app"
+base_url = "https://clip.citrusea.cc"
 [book]
 title = "Citrusea's Clip"
 description = "Citrusea's Clip"
@@ -7,8 +7,8 @@ language = "zh"
 authors = ["Jamyeins"]
 
 [output.html]
-git-repository-url = "https://github.com/theowenyoung/clip-template"
-edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
+git-repository-url = "https://github.com/Jamyein/clip"
+edit-url-template = "https://github.com/Jaymein/clip/edit/main/{path}"
 
 [output.html.search]
 enable = false
