@@ -1,10 +1,8 @@
 ---
-URL: https://collabfund.com/blog/100-little-ideas/
-创建时间: July 3, 2023 11:36 PM
+title: "100个小想法"
+date: 2023-07-03T09:37:21+08:00
 ---
-# 100 Little Ideas
-
-by [Morgan Housel](/blog/authors/morgan/)
+by [Morgan Housel]
 摩根·豪塞尔
 
 A list of ideas, in no particular order and from different fields, that help explain how the world works:

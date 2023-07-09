@@ -1,8 +1,6 @@
 ---
-date: 2023-07-09 
----
-# Things you're allowed to do --- 你被允许做的事情
-
+title: "你被允许做的事情"
+date: 2023-07-03T09:37:21+08:00
 ---
 This is a list of things you’re allowed to do that you thought you couldn’t, or didn’t even know you could.  
 这是您可以做但您认为不能或什至不知道自己可以做的事情的清单。

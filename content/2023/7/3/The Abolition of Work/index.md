@@ -1,5 +1,6 @@
 ---
-created: 2023-07-09T10:52:25 (UTC +08:00)
+title: "废除工作"
+date: 2023-07-03T09:37:21+08:00
 source: https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work
 author: Bob Black
 ---
