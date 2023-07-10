@@ -10,7 +10,7 @@
 该网站基于 [clip-template](https://github.com/theowenyoung/clip-template) 进行构建
 
 ## 目录
-- 2023-07-09 [100个小想法](obsidian://open?vault=content&file=2023%2F07%2F03%2F100-Little-Ideas%2Findex)
+- 2023-07-09 [100个小想法](vault=content&file=2023%2F07%2F03%2F100-Little-Ideas%2Findex)
 - 2023-07-09 []()
 - 2023-07-09 []()
 - 2023-07-09 []()
