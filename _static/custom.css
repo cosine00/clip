@@ -1,9 +1,9 @@
 html {
   font-family: 'Noto Serif SC', "LXGW WenKai", sans-serif;
 }
-.chapter li a .active {
+#html .chapter li a .active {
   color: #AB545A;
 }
-.light {
+#html .light {
   --sidebar-active: #AB545A;
 }
