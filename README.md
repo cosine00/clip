@@ -1,165 +1,29 @@
-# Clip
+# Citrusea's Clip
+这里是 Citrusea 的数字后花园，存放着我在网络上看到的值得收藏保留的文章。
 
-这是 <https://clip.owenyoung.com/> 网站的模版，里面收集了我觉得值得收藏的文章全文。本来是个人在使用，但是有朋友也想复制这个流程，所以我就抽出了这个干净的模板，让想用这套流程的朋友方便一点～
+这些文章有的是中午，有的是外文。外文文章会以中英双语样式保存。
 
-## 大概流程
+这里的文章 99.9% 都不是本人原创。所以如果侵权的话可以联系我进行删除。
 
-1. 浏览网页，比如 <https://www.owenyoung.com/inspires/>
-2. (可选)如果是英文文章，我会使用 [Immersive Translate](https://github.com/immersive-translate/immersive-translate) 浏览器扩展将网页翻译为双语文章
-3. 用[markdownload](https://github.com/theowenyoung/markdownload) 浏览器扩展，把双语文章保存下来。
-4. 使用 Git 把本地文件同步到远程仓库
-5. [Vercel](https://vercel.com/dashboard)会自动部署并发布。
+该网站基于 [clip-template](https://github.com/theowenyoung/clip-template) 进行构建
 
-Online Demo: <https://clip-template.vercel.app/>
-
-## 如何初始化
-
-> 注意：当前我只测试了 macOS 和 Linux，我没有 windows 机器，所以没有写 Windows 的脚本，但是欢迎贡献～
-
-1. 点此[Fork](https://github.com/theowenyoung/clip-template/fork) 本项目到你的自己的 Github 账户, 名称修改为`clip` (如果是其他的名字，后面的步骤中安装的插件的配置需要同步修改下)
-
-2. 把你 fork 后的项目克隆到本地，记得要克隆到本地的`~/Downloads`目录 (浏览器默认下载目录），
-
-   > 如果你自定义了其他目录作为浏览器的下载目录，那就克隆到你自定义的下载目录下。
-
-   > 这么做是因为浏览器只允许浏览器扩展将文件下载到`Downloads`目录，所以我们收藏的文章默认会保存到下载目录下的某个目录。
-
-   > 记得把下面的地址换成你 fork 后的 repo 地址：
-
-   ```bash
-   cd ~/Downloads
-   git clone git@github.com:theowenyoung/clip.git
-   ```
-
-3. 本地安装依赖，依赖的二进制完美都会安装在当前项目目录下的`bin`目录内，这样不会污染别的地方，这个命令会安装`mdbook`,`deno`到本地目录：
-
-   ```bash
-   cd ~/Downloads/clip
-   make install
-   ```
-
-4. 本地启动运行
-
-   ```bash
-   make serve
-   ```
-
-   此时，打开 <http://localhost:8000> 应该就能看到文章。
-
-   文章会保存在`content/2022/11/14/{slug}/index.md`，如果有图片，图片也会保存在该目录下。我使用我修改的一个[Markdownload 扩展](https://github.com/theowenyoung/markdownload)，它负责把文章保存到本地目录下。
-
-   ![](https://i.imgur.com/pTvQQ1h.png)
-
-5. 安装插件，请在<https://github.com/theowenyoung/markdownload/releases> 下载最新版插件，firefox 浏览器可以打开`about:addons`页面，选择从文件安装。 chrome 浏览器手动安装步骤请参考[这里](https://github.com/immersive-translate/immersive-translate/blob/main/readme.md#chrome-%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85)
-
-6. 安装后，可以从浏览器的扩展管理页面，进入该扩展的配置页面，拉到最后面，导入我的[配置文件](https://raw.githubusercontent.com/theowenyoung/clip-template/main/markdownload-config.json)，之后，可以按照你自己的需求修改配置。
-
-   现在可以打开一篇文章,比如：
-
-   <https://www.owenyoung.com/inspires/>
-
-   试试使用插件保存文章,保存后，本地运行：
-
-   ```bash
-   make serve
-   ```
-
-   就可以在浏览器中打开<http://localhost:8000> 看到预览页面。
-
-7. 发布到 Vercel，直接在 <https://vercel.com/dashboard> 新建一个项目，然后选择从 Github 中导入项目，不需要做额外配置，你可以在首次部署完成后，在 Vercel 的后台设置自定义域名。
-
-## 初始化之后的常规操作
-
-1. 看到想收藏的文章，点击扩展图标保存到本地
-2. 使用 Git 同步到远程仓库即可，Vercel 会自动部署最新的项目。
-
-## 如何保持与这个库的同步
-
-```bash
-git remote add upstream https://github.com/theowenyoung/clip-template.git
-git pull upstream main
-```
-
-这样即可合并上游`main`分支的代码
-
-## RSS 地址
-
-Mdbook 本身的目标是制作电子书，所以并不支持 RSS，但为了方便，我添加了输出 RSS 的功能，地址是根目录下的`feed.xml`，比如该 demo 的 RSS 地址：
-
-<https://clip-template.vercel.app/feed.xml>
-
-## 配置
-
-网站的标题之类的配置都在`book.toml`下，照猫画虎修改即可。 查看所有可配置的东西，请参阅[这里](https://rust-lang.github.io/mdBook/format/configuration/index.html)
-
-主要是修改你的网站名称，网址，作者以及 Git Repo 相关配置等等。
-
-如果你有静态文件需要提交放在网站根目录到话，可以放在`template/archive` 下，现在有一个 `robots.txt`, 默认只允许搜索引擎收录首页，其他页面一律不允许，因为考虑到 clip 的文章大都是收藏别人的文章，所以不让搜索引擎收录是一个合理的默认选择，你可以根据自己的需要修改。
-
-项目根目录下的`README.md` 文件被用于作为网站的首页。如果你不想用这个`README.md`,也可以在添加`template/archive/README.md`文件。
-
-## 插件配置
-
-我默认的 Markdown Frontmatter 遵循的是 [zola](https://www.getzola.org/) 的格式：
-
-```
----
-title: "{pageTitleWithoutSiteName}"
-date: {date:YYYY-MM-DDTHH:mm:ss}+08:00
-updated: {date:YYYY-MM-DDTHH:mm:ss}+08:00
-taxonomies:
-  tags: {tags}
-extra:
-  source: {baseURI}
-  hostname: {hostname}
-  author: {byline}
-  original_title: "{title}"
-  original_lang: {lang}
----
-```
-
-如果你需要别的 tags 的格式，可以改为：
-
-```
----
-title: "{pageTitleWithoutSiteName}"
-date: {date:YYYY-MM-DDTHH:mm:ss}+08:00
-updated: {date:YYYY-MM-DDTHH:mm:ss}+08:00
-tags: {tags}
-extra:
-  source: {baseURI}
-  hostname: {hostname}
-  author: {byline}
-  original_title: "{title}"
-  original_lang: {lang}
----
-```
-
-## Epub 相关配置(可选，默认不启用)
-
-我在这个项目里会使用 Github Actions，把当日的文章汇总成一个 epub 文件，然后发送 email 到我的 kindle 邮箱里，这样就能在 kindle 阅读这些保存下来的文章。
-
-如果你不修改相关配置的话，默认是不开启的。
-
-如果你想启用的话，需要把`.github/workflows/build-daily.yml`里面的注释去掉
-
-> 发送 email 需要用到 <https://www.mailjet.com/>的 API，免费额度每日 200 封，足够个人使用。 你需要注册一个账户，然后拿到 API ID 和 Secret
-
-我使用<https://orly.nanmu.me/>生成 epub 的封面图，你可以生成一个，然后替换 `templates/archive/cover.jpg` 以及 `templates/cover.jpg`
-
-本地测试生成 epub 文件可以运行如下命令：
-
-```bash
-make today
-```
-
-```bash
-make yesterday
-```
-
-```bash
-make day day=2022-11-21
-```
-
-具体配置可以参考我的 [clip 配置](https://github.com/theowenyoung/clip/blob/main/.github/workflows/build-daily.yml)，等有人需要，我再完善这部分文档吧，或者欢迎你贡献呀！
-
+## 目录
+<!-- Table of Content-->
+- 2023-07-10 [怀旧的悖论](2023/07/10/The-Paradoxes-of-Nostalgia/index.html)
+- 2023-07-10 [你一直感到焦虑的4个心理原因](2023/07/10/4-Psychological-Reasons-You-Feel-Anxious-All-the-Time/index.html)
+- 2023-07-10 [7个迹象表明你正在和一个情感不成熟的成年人约会](2023/07/10/7-Signs-You’re-Dating-an-Emotionally-Immature-Adult/index.html)
+- 2023-07-10 [如何更好地调节情绪](2023/07/10/How-to-Get-Better-At-Regulating-Your-Emotions/index.html)
+- 2023-07-09 [费曼技巧：掌握学习的艺术](2023/07/09/The-Feynman-Technique-Master-the-Art-of-Learning/index.html)
+- 2023-07-09 [你被允许做的事情](2023/07/09/Things-you're-allowed-to-do/index.html)
+- 2023-07-09 [你生命中最重要的事情](2023/07/09/The-Most-Important-Thing-in-Your-Life/index.html)
+- 2023-07-09 [你为什么很难喜欢上一个人？](2023/07/09/ni-wei-shen-me-hen-nan-xi-huan-shang-yi-ge-ren/index.html)
+- 2023-07-09 [我年度最喜欢的 10 个想法](2023/07/09/My-10-Favorite-Ideas-of-the-Year/index.html)
+- 2023-07-09 [一切都必须付两次钱](2023/07/09/Everything-Must-Be-Paid-for-Twice/index.html)
+- 2023-07-09 [这就是为什么当某人喜欢你时你就不再喜欢他们了](2023/07/09/Here’s-Why-You-Stop-Liking-Someone-When-They-Like-You-Back-HuffPost-Life/index.html)
+- 2023-07-09 [终有一天会是晴天](2023/07/09/It-will-be-sunny-one-day/index.html)
+- 2023-07-09 [到底有多少年轻人失业](2023/07/09/dao-di-you-duo-shao-qing-nian-ren-shi-ye/index.html)
+- 2023-07-09 [DARVO 的要点](2023/07/09/The-Point-of-DARVO/index.html)
+- 2023-07-03 [你被允许做的事](2023/07/03/Things-you're-allowed-to-do/index.html)
+- 2023-07-03 [在十年内自学编程](2023/07/03/Teach-Yourself-Programming-in-Ten-Years/index.html)
+- 2023-07-03 [废除工作](2023/07/03/The-Abolition-of-Work/index.html)
+- 2023-07-03 [100个小想法](2023/07/03/100-Little-Ideas/index.html)
