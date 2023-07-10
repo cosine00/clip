@@ -11,8 +11,6 @@ extra:
   original_title: "How to Get Better At Regulating Your Emotions"
   original_lang: en
 ---
-原标题：How to Get Better At Regulating Your Emotions
-
 [Reader Questions 读者问题](https://www.thefriendlymind.com/tag/reader-question/)
 
 A reader asks: 一位读者问：
@@ -61,5 +59,3 @@ For example: If you find yourself frequently getting very angry, that’s becaus
 
 Be aware of your emotions, validate them if you like, but stop trying to regulate them.  
 注意你的情绪，如果你愿意，可以验证它们，但不要试图调节它们。
-
-原文链接：[https://www.thefriendlymind.com/how-to-get-better-at-regulating-emotions/](https://www.thefriendlymind.com/how-to-get-better-at-regulating-emotions/?ck_subscriber_id=2239487501) 

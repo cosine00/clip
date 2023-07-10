@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "7个迹象表明你正在和一个情感不成熟的成年人约会"
 date: 2023-07-10T21:55:31+08:00
 updated: 2023-07-10T21:55:31+08:00
 taxonomies:
@@ -11,8 +11,6 @@ extra:
   original_title: "7 Signs You're Dating an Emotionally Immature Adult"
   original_lang: en-US
 ---
-原标题：7 Signs You're Dating an Emotionally Immature Adult
-
 As a therapist, I work with a lot of very unhappy people each day.  
 
 作为一名治疗师，我每天都和很多非常不快乐的人一起工作。
@@ -440,7 +438,3 @@ If you find yourself dating seriously and considering a long-term romantic relat
 Of course, everybody does these things *sometimes.* But if you find yourself dating someone who does several of them consistently, with no willingness to acknowledge them or work on them, just be careful.  
 
 当然，每个人有时都会做这些事情。但是，如果你发现自己和一个持续做其中几个的人约会，不愿意承认它们或努力，那就要小心了。
-
-No spam ever. Unsubscribe at any time.
-
-原文链接：[https://nickwignall.com/7-signs-youre-dating-an-emotionally-immature-adult/](https://nickwignall.com/7-signs-youre-dating-an-emotionally-immature-adult/) 
