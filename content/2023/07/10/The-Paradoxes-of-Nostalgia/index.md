@@ -1,0 +1,83 @@
+---
+title: "怀旧的悖论"
+date: 2023-07-10T21:35:45+08:00
+updated: 2023-07-10T21:35:45+08:00
+taxonomies:
+  tags: 
+extra:
+  source: https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/?ck_subscriber_id=2239487501
+  hostname: ravenmagazine.org
+  author: Kenny Walden
+                     肯尼·瓦尔登
+  original_title: "The Paradoxes of Nostalgia"
+  original_lang: en-US
+---
+原标题：The Paradoxes of Nostalgia  
+
+Nostalgia offers an escape from life’s burdens, but it can’t keep its promises.  
+
+怀旧提供了摆脱生活负担的方法，但它无法兑现承诺。
+
+By now we are all acquainted with the pandemic’s pathology of feeling. We know about the loneliness, the hopelessness, and the grief. But there are other reactions, less prominent but not rare. In my case, the past two years have been accompanied by a curiously persistent case of nostalgia. I go on little quests of memory, in search of images tediously generic and blazingly specific. Fall leaves brushing against school bus windows, the otherworldly glow of high-school football games at night, the slow crawl of school closures across the TV screen on snowy mornings. Sometimes these reminiscences turn obsessive. I look at maps of my old stomping grounds around the Seattle suburbs to recall minute details about the road from the bowling alley to the movie theater. I look up old newspaper stories to relive the thrill of a minor earthquake during a Mariners game from 1996. I fixate on one recollection in the hope that it will revive its slumbering brothers. The name of a Little League teammate: Jason Porter? Portman? Porterfield? The stickiness of middle school dances. The math problems I did at those dances to distract from the terror of actually dancing. The eye-licking frog on the cover of my biology book. The texture of my girlfriend’s thumbnail.  
+
+到现在为止，我们都熟悉了大流行的病态感觉。我们知道孤独、绝望和悲伤。但还有其他反应，不太突出，但并不罕见。就我而言，过去两年伴随着一种奇怪的持续怀旧。我继续小的记忆任务，寻找乏味的通用和炽热具体的图像。秋天的树叶拂过校车的窗户，夜晚高中橄榄球比赛的超凡脱俗的光芒，下雪的早晨学校关闭在电视屏幕上缓慢爬行。有时这些回忆会变得痴迷。我看着西雅图郊区我踩踏的旧场地的地图，回忆起从保龄球馆到电影院的道路的细节。我翻阅旧报纸的报道，重温1996年水手队比赛中小地震的快感。我专注于一个回忆，希望它能唤醒沉睡的兄弟。小联盟队友的名字：杰森波特？波特 曼？波特菲尔德？中学舞蹈的粘性。我在那些舞蹈中做的数学题分散了人们对实际跳舞的恐惧。我生物学书封面上那只舔眼的青蛙。我女朋友缩略图的纹理。
+
+I would like to know the meaning of these sojourns. What is this nostalgia about? What causes it, what sustains it, what anxieties does it betray?  
+
+我想知道这些逗留的意义。这种怀旧是关于什么的？是什么导致了它，是什么支撑了它，它背叛了什么焦虑？
+
+Conventional wisdom starts with the idea that nostalgia is a preference for the past. If you tell your friends you’re feeling nostalgic, they may agree with you—things were better back then. Or they may try to talk you out of it by reminding you about the cholera epidemic of 1832. But I think this conception is a mistake. A preference for how things used to be may be a symptom of nostalgia, but the underlying condition is not so simple. This point becomes clear once we observe how far nostalgia can stray from our opinions about value. I can be nostalgic for hardship, heartbreak, and the Macarena. I can have nostalgia for things that I didn’t like then and don’t like now. I can be nostalgic for things I was mostly indifferent to or barely aware of. Sometimes I think I feel nostalgic for Mel’s Drive-In and the St. Louis World’s Fair. Of course, we do sense a tension in the idea of nostalgia for the bad. So we look for silver linings, and sometimes we confabulate. We suffered in the old country, but life was so much simpler. Middle school was a pageant of indignities, but I didn’t have a mortgage or a job or kids, so it too was simpler. I think these are obvious rationalizations. Middle school is simple only if we trivialize the problems of middle schoolers, and I can be wistful about those times without truly desiring them.  
+
+传统智慧始于怀旧是对过去的偏好。如果你告诉你的朋友你感到怀旧，他们可能会同意你的看法——那时的情况要好得多。或者他们可能会试图通过提醒你1832年的霍乱流行来说服你摆脱它。但我认为这种观念是一个错误。对过去事物的偏好可能是怀旧的症状，但潜在的条件并不那么简单。一旦我们观察到怀旧会偏离我们对价值的看法，这一点就会变得清晰起来。我可以怀念艰辛、心碎和马卡丽娜。我可以怀念当时不喜欢和现在不喜欢的东西。我可以怀念我大多漠不关心或几乎没有意识到的事情。有时我想我怀念梅尔的免下车和圣路易斯世界博览会。当然，我们确实感觉到怀旧坏事的想法存在紧张感。所以我们寻找一线希望，有时我们会虚构。我们在古老的国家受苦，但生活要简单得多。中学是一场侮辱的盛会，但我没有抵押贷款、工作或孩子，所以它也更简单。我认为这些都是明显的合理化。只有当我们轻视中学生的问题时，中学才简单，我可以怀念那些时代，但并不真正渴望它们。
+
+The fact that we cite simplicity as the cardinal value of the past does hint at nostalgia’s true quarry. What we really seek in our nostalgic reveries, I want to suggest, is the inertness of the past. The present is a torrent: bills to pay, meals to cook, classes to teach, meetings to attend, children to mind. And more abstractly: projects to pursue, relationships to honor, selves to tend, puzzles to solve. These are the demands we labor under simply because we can do things; they are the burdens of agency. But the past has none of this. It is fixed, settled, complete. There is nothing for us to do because there is nothing that can be done. And for this reason, certain forms of retrospection can seem to offer relief from the burdens of agency. The sound of a dialup modem, the smell of a Blockbuster video store, and the smoothness of school bus vinyl are enchanting because of their exquisite stillness. Because they ask nothing of me.  
+
+我们引用简单作为过去的基本价值这一事实确实暗示了怀旧的真正采石场。我想说，我们在怀旧的遐想中真正寻求的是过去的惰性。礼物是一股洪流：要支付的账单，要做饭，要教课，要参加的会议，要思考的孩子。更抽象地说：追求的项目，荣誉的关系，倾向于自我，解决难题。这些是我们劳动的要求，仅仅是因为我们可以做事;它们是代理的负担。但过去没有这些。它是固定的，稳定的，完整的。我们无事可做，因为无能为力。出于这个原因，某些形式的回顾似乎可以减轻代理的负担。拨号调制解调器的声音，百视达音像店的气味，校车黑胶唱片的流畅度，因其精致的寂静而令人着迷。因为他们对我什么都不要求。
+
+ ![The Raven Feather](feather_1x.png)
+
+If I am right about this, then the relief we seek in nostalgia is not so different from another kind of respite, memorably described by Schopenhauer. For most of our lives, Schopenhauer says, we suffer under the lash of the will. We need things, want things, and hunger for things. When we get them, we have only a moment’s rest before being tossed off in pursuit of other things. But, Schopenhauer says, aesthetic experience offers an exception to this pattern. When I attend to something of beauty, my will is suspended, and my attention becomes freer and more disinterested. I do not think about what it might do for me. I experience it for its own sake. And this experience offers me something remarkable: a “Sabbath of the penal servitude of willing,” a moment when “the wheel of Ixion stands still.” 
+
+如果我是对的，那么我们在怀旧中寻求的解脱与叔本华描述的另一种喘息并没有太大区别。叔本华说，在我们生命的大部分时间里，我们都在意志的鞭笞下受苦。我们需要东西，想要东西，渴望东西。当我们得到它们时，我们只有片刻的休息时间，然后被扔掉去追求其他东西。但是，叔本华说，审美经验为这种模式提供了一个例外。当我关注一些美丽的事情时，我的意志被暂停了，我的注意力变得更加自由和无私。我不考虑它会为我做什么。我体验它本身就是为了它。这次经历给了我一些非凡的东西：“自愿的刑罚奴役的安息日”，一个“伊克西翁的车轮静止不动”的时刻。
+
+Unfortunately, this relief is not easily come by. The influence of the will on our perception is so persistent that it takes an object of unusual formal power—an object of beauty—to liberate us. But this is also why nostalgia is so tempting. If you can think of something sufficiently dead, something like the past, then you can have a holiday from agency almost any time you want. Just retreat to images of the past and let them wash over you. A virtue of this hypothesis is that it explains why we are especially prone to nostalgia in periods, such as the time of the pandemic, when we feel powerless and aesthetic opportunities are in short supply.  
+
+不幸的是，这种救济来之不易。意志对我们感知的影响是如此持久，以至于需要一个具有不同寻常的形式权力的对象——一个美的对象——来解放我们。但这也是怀旧如此诱人的原因。如果你能想到一些足够死的东西，比如过去的东西，那么你几乎可以随时从代理机构那里度假。只要退回到过去的图像中，让它们冲刷你。这个假设的一个优点是，它解释了为什么我们在大流行时期特别容易怀旧，当我们感到无能为力并且审美机会短缺时。
+
+Of course, we could seek relief from the burdens of agency in other places. We could take drugs. We could entertain thoughts about an even more distant past, the Battle of Agincourt or the first vertebrates. People do these things, but for many they are unsatisfying because the relief quickly devolves into tedium. Nostalgia, by contrast, promises to be perpetually fascinating because of its dazzling subject: me. The usual objects of nostalgia, even the most trivial, will hold a kind of default and inalienable significance for us because of their place in our identity.  
+
+当然，我们可以寻求减轻其他地方代理的负担。我们可以吸毒。我们可以想到更遥远的过去，阿金库尔战役或第一批脊椎动物。人们做这些事情，但对许多人来说，他们并不令人满意，因为解脱很快就会变成乏味。相比之下，怀旧承诺永远令人着迷，因为它的主题令人眼花缭乱：我。通常的怀旧对象，即使是最微不足道的，也会因为我们的身份而具有一种默认的和不可剥夺的意义。
+
+ ![The Raven Feather](feather_1x.png)
+
+Nostalgia seems to offer an unbeatable bargain. I can think about things that matter to me without feeling the burden of doing anything about them. I get relief from the rigors of agency without passing into complete apathy. But alas, like many great bargains, this one is premised on an illusion. To say that something is significant or that it matters is to say that it can make demands on us. The mud on the butler’s shoes is significant because it demands that we consider a new theory of the crime. Your betrayal is significant because it demands that I rethink our friendship. Likewise, the significance of all the loose rubble of the past is not a given potency. It is something that makes demands on me. At the very least, it demands that I recognize, affirm, or reject them. The nostalgic makes the mistake of thinking that things can matter to us without demanding anything from us—that if something is central enough to my life and identity it becomes meaningful automatically, without my having to do anything about it. But that, I am claiming, is impossible. This explains why the pleasures of nostalgia are so fleeting: as soon as I recognize something as mattering, I begin to wonder *how* it matters, and that ends my vacation from agency.  
+
+怀旧似乎提供了一个无与伦比的讨价还价。我可以思考对我重要的事情，而不会感到对它们做任何事情的负担。我从代理的严格要求中解脱出来，而不会完全冷漠。但可惜的是，像许多讨价还价一样，这个是以幻觉为前提的。说某件事很重要或重要就是说它可以对我们提出要求。管家鞋子上的泥土很重要，因为它要求我们考虑一种新的犯罪理论。你的背叛意义重大，因为它要求我重新思考我们的友谊。同样，过去所有松散的瓦砾的重要性也不是给定的效力。这是对我提出要求的东西。至少，它要求我承认、肯定或拒绝它们。怀旧者犯了一个错误，认为事情对我们很重要，而不需要我们做任何事情——如果某件事对我的生活和身份足够重要，它就会自动变得有意义，而我不必做任何事情。但是，我声称，这是不可能的。这就解释了为什么怀旧的乐趣如此短暂：一旦我认识到某件事很重要，我就开始想知道它有多重要，这结束了我从代理机构的假期。
+
+When this happens, the forces that push us toward nostalgia will tend to be sublimated in one of two ways. The first way gives up on the goal of relief. I may respond to my nostalgia by launching an inquiry into the demise of Blockbuster video or tracking down Beth from chemistry. I may affirm my youthful interests by buying *Star Wars* toys or listening to a podcast about the *Teenage Mutant Ninja Turtles*. I may come to regret a withered friendship and try to revive it. These pursuits are very much exercises of agency, so they will not satisfy the original temptation of nostalgia.  This failure creates a vicious cycle: exhaustion from the burdens of agency leads to nostalgia, which involves engagement with meaningful things from my past, but responding to this meaning in the normal way requires the exercise of my agency, and so the exhaustion remains. The process repeats, and after a while I am still exhausted but have a closet full of kitsch.  
+
+当这种情况发生时，推动我们走向怀旧的力量往往会以两种方式之一升华。第一种方式放弃了救济的目标。我可能会通过对百视达视频的消亡进行调查或从化学中追踪贝丝来回应我的怀旧情绪。我可以通过购买《星球大战》玩具或收听有关忍者神龟的播客来肯定我年轻时的兴趣。我可能会后悔一段枯萎的友谊，并试图恢复它。这些追求很大程度上是能动性的锻炼，所以它们不会满足原本怀旧的诱惑。这种失败造成了一个恶性循环：因能动性的负担而筋疲力尽导致怀旧，这涉及与我过去有意义的事物打交道，但以正常方式回应这种意义需要行使我的能动性，因此疲惫仍然存在。这个过程重复着，过了一会儿，我仍然筋疲力尽，但有一个装满媚俗的壁橱。
+
+The second form of sublimation is more nihilistic. We can hold on to the essential restfulness of nostalgia if we abandon the notion that our own past is significant. If I insist that certain events and ideas really don’t matter to me, that they are as dead to me as French cavalry and the Cambrian explosion, then I can continue to look to the past as a source of relief. But this comes at a heavy cost. I can achieve this relief from agency only through a kind of self-alienation—only by supposing that my own past self is of merely academic interest to me.  
+
+升华的第二种形式更加虚无主义。如果我们放弃我们自己的过去很重要的观念，我们就可以保持怀旧的本质宁静。如果我坚持认为某些事件和想法对我来说真的无关紧要，它们对我来说就像法国骑兵和寒武纪大爆发一样死气沉沉，那么我可以继续回顾过去作为解脱的源泉。但这需要付出沉重的代价。只有通过一种自我异化，我才能从能动性中获得这种解脱——只有通过假设我过去的自我对我来说仅仅是学术兴趣。
+
+This kind of nostalgia makes the past seem uncanny: something that looks alive, that should be brimming with meaning but turns out to be quite dead. The word ‘nostalgia’ actually suggests this dynamic. ‘Nostos’ is the Homeric word for homecoming, and ‘algos’ the word for pain. In the original *nostos*, Odysseus returns to Ithaca to find his home overrun by a pestilence: 108 young men eating his food, soiling his furniture, and courting his wife. This homecoming is painful not only because of the violation but because of its uncanniness. Odysseus’s home should be as the nostalgic imagines the past—an established and welcoming normative order. But the suitors have defiled it and made a true homecoming impossible. Odysseus discovers that Ithaca is not a home to return to but one more labor. That’s the pain of nostalgia: the realization that the significance of the past, like everything else, is not something given to us, but something left for us to create.  
+
+这种怀旧使过去看起来不可思议：一些看起来鲜活的东西，应该充满意义，但结果却很死。“怀旧”这个词实际上暗示了这种动态。“Nostos”是荷马语中“回家”的意思，“algos”是痛苦的意思。在最初的诺斯托斯中，奥德修斯回到伊萨卡，发现他的家被一场瘟疫所淹没：108个年轻人吃他的食物，弄脏他的家具，并向他的妻子求爱。这种回家是痛苦的，不仅因为侵犯，而且因为它的不可思议。奥德修斯的家应该是怀旧者想象的过去——一个既定的、受欢迎的规范秩序。但追求者玷污了它，使真正的回家变得不可能。奥德修斯发现伊萨卡不是一个可以返回的家，而是一个劳动者。这就是怀旧的痛苦：意识到过去的重要性，就像其他一切一样，不是赋予我们的东西，而是留给我们创造的东西。
+
+ ![The Raven Feather](feather_1x.png)
+
+For all nostalgia’s contradictions, there is something unquestionably cogent about its response to the burdens of agency. And so it seems cruel to respond to the chronic nostalgic by describing their error and insisting that they face up to their burdens. But then what should they do? The answer, I think, takes us back to Schopenhauer. I am not going to make the glib suggestion that we should seek beauty whenever we feel the tug of melancholy. We are going to have nostalgic fancies no matter how many flowers we see. What we can do, though, is make these retrospective episodes more like our experience of flowers.  
+
+尽管怀旧存在种种矛盾，但它对能动性负担的回应无疑是有说服力的。因此，通过描述他们的错误并坚持让他们正视自己的负担来回应长期的怀旧情绪似乎是残酷的。但是他们该怎么办呢？我想，答案会把我们带回到叔本华。我不会轻描淡写地建议，每当我们感到忧郁的拉扯时，我们就应该寻求美。无论我们看到多少朵花，我们都会有怀旧的幻想。然而，我们能做的是让这些回顾性事件更像我们对鲜花的体验。
+
+In other words, we can aestheticize our remembering. When we look at a painting or read a poem, we are not discovering a fixed and independent meaning. Whatever significance the artwork has depends on our interaction with it—on how we follow a heavy line in the painting or play with a metaphor in the poem, on what the work makes us think and feel. The same, I think, is true of our past selves. Instead of resting content with the received meanings of my memories and wallowing in them—in the immaculate innocence of first love or the angst of middle-school dances—I can do something more creative. I can occupy different perspectives on these memories. I can pluck them from context and compare them to other events. I can look for unseen resonances between them and other parts of my life—or others’ lives. I can search for thematic connections and alternative narrative forms. I should do these things not because I think the received view is wrong and I want to get it right. I should do them as a way of taking responsibility for myself. There is enough slack between my recollections and the meaning I ascribe to them for me to play with them—for me to approach my past with the same spirit of invention that I bring to a painting or poem. And when I do this, I am, to use Nietzsche’s phrase, *giving style* to myself.  
+
+换句话说，我们可以审美我们的记忆。当我们看一幅画或读一首诗时，我们并没有发现一个固定的、独立的意义。无论艺术作品具有什么意义，都取决于我们与它的互动——取决于我们如何遵循绘画中的沉重线条或诗中的隐喻，取决于作品让我们思考和感受的东西。我认为，我们过去的自己也是如此。与其满足于记忆中接受的意义并沉溺其中——初恋的完美纯真或中学舞蹈的焦虑——我可以做一些更有创意的事情。我可以对这些记忆有不同的看法。我可以从上下文中提取它们并将它们与其他事件进行比较。我可以在他们与我生活的其他部分或他人的生活之间寻找看不见的共鸣。我可以搜索主题联系和替代叙事形式。我应该做这些事情，不是因为我认为接受的观点是错误的，我想把它弄对。我应该这样做，作为对自己负责的一种方式。在我的回忆和我赋予它们的意义之间有足够的松弛，让我玩弄它们——让我以与绘画或诗歌相同的发明精神来对待我的过去。当我这样做时，用尼采的话来说，我就是给自己一种风格。
+
+But why, we might ask, should the weary nostalgic of all people be interested in this project—in what sounds like a lot of work? For the same reason that weary Odysseus slays the suitors. It’s the best he can do. Total relief from the burdens of agency is impossible. But aesthetic engagement offers the next best thing. It offers a holiday from the mundane forms of agency, the agency of embodied creatures who need to eat and sleep and take shelter, in favor of a form that is less servile. Our aesthetic agency is not in service of wants and needs. It a faculty for play, invention, and experimentation, and turning this kind of agency on our own selves is as close as we can come to satisfying nostalgia’s impossible temptation.  
+
+但是，我们可能会问，为什么所有疲惫的怀旧的人会对这个项目感兴趣——听起来像是很多工作？出于同样的原因，疲惫的奥德修斯杀死了追求者。这是他能做的最好的事情。完全免除代理负担是不可能的。但审美参与提供了下一个最好的东西。它提供了一个远离世俗形式的能动性的假期，这种能动性是需要吃饭、睡觉和避难的具身生物的能动性，有利于一种不那么奴性的形式。我们的审美机构不是为需求和需求服务的。它是游戏、发明和实验的能力，将这种机构转向我们自己，就像我们尽可能接近于满足怀旧不可能的诱惑。
+
+原文链接：[https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/](https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/?ck_subscriber_id=2239487501) 
