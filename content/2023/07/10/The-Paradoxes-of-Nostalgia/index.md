@@ -12,6 +12,8 @@ extra:
   original_title: "The Paradoxes of Nostalgia"
   original_lang: en-US
 ---
+原标题：The Paradoxes of Nostalgia  
+
 Nostalgia offers an escape from life’s burdens, but it can’t keep its promises.  
 怀旧提供了摆脱生活负担的方法，但它无法兑现承诺。
 
@@ -62,3 +64,5 @@ In other words, we can aestheticize our remembering. When we look at a painting 
 
 But why, we might ask, should the weary nostalgic of all people be interested in this project—in what sounds like a lot of work? For the same reason that weary Odysseus slays the suitors. It’s the best he can do. Total relief from the burdens of agency is impossible. But aesthetic engagement offers the next best thing. It offers a holiday from the mundane forms of agency, the agency of embodied creatures who need to eat and sleep and take shelter, in favor of a form that is less servile. Our aesthetic agency is not in service of wants and needs. It a faculty for play, invention, and experimentation, and turning this kind of agency on our own selves is as close as we can come to satisfying nostalgia’s impossible temptation.  
 但是，我们可能会问，为什么所有疲惫的怀旧的人会对这个项目感兴趣——听起来像是很多工作？出于同样的原因，疲惫的奥德修斯杀死了追求者。这是他能做的最好的事情。完全免除代理负担是不可能的。但审美参与提供了下一个最好的东西。它提供了一个远离世俗形式的能动性的假期，这种能动性是需要吃饭、睡觉和避难的具身生物的能动性，有利于一种不那么奴性的形式。我们的审美机构不是为需求和需求服务的。它是游戏、发明和实验的能力，将这种机构转向我们自己，就像我们尽可能接近于满足怀旧不可能的诱惑。
+
+原文链接：[https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/](https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/?ck_subscriber_id=2239487501) 

@@ -11,6 +11,8 @@ extra:
   original_title: "4 Psychological Reasons You Feel Anxious All the Time - Nick Wignall"
   original_lang: en-US
 ---
+原标题：4 Psychological Reasons You Feel Anxious All the Time - Nick Wignall
+
 If you struggle with anxiety, you’ve probably heard the usual advice:  
 如果你在焦虑中挣扎，你可能听说过通常的建议：
 
@@ -297,3 +299,5 @@ Manage your stressors, not your stress.
 
 Be assertive about your own wants and needs.  
 对自己的需求和需求保持自信。
+
+原文链接：[https://nickwignall.com/4-psychological-reasons-you-feel-anxious-all-the-time/](https://nickwignall.com/4-psychological-reasons-you-feel-anxious-all-the-time/)
