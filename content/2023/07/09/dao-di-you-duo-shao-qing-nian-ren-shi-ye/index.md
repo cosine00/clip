@@ -6,8 +6,6 @@ tags: []
 
 就业乃经济发展的首要目标，也是经济发展成果的最真实晴雨表，不能有效解决就业问题的GDP增长，都不能视为有效的增长
 
-![640](https://mmbiz.qpic.cn/mmbiz_png/1j8dLsI7H2Iib9l3NhwwHQDo1hlUIRlPcCgRCFhTU2CNBfx5zPfrVwWJvzYibTq5cgU8TT8CHibCjcRXs1wkolNFw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
 **文｜王明远**
 
 **主要结论：**

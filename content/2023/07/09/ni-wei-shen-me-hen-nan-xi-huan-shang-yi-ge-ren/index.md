@@ -16,8 +16,6 @@ _**——毛姆《爱德华·巴纳德的堕落》**_
 
 于是我开始好奇，为什么对于不同的人来说，打开“喜欢”这个开关的难度可以这么不一样？又是为什么，有些人似乎特别难喜欢上别人呢？今天我想来和大家聊聊这个话题。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/Mz0ovPEFMRJiaLK0jHtzyZcSeeicE1cl3U7SbxAkLe1DM6ib03vP2gWdtp7Gdib0JklIWJAfvkPN9xqhgL1cJbzjnA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
-
 **喜欢是什么？**
 
 ## **什么叫作“很难喜欢上一个人”？**
