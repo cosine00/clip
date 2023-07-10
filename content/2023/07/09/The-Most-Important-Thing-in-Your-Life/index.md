@@ -14,9 +14,9 @@ Join millions of readers and subscribe to [The Breakthrough](https://markmanson.
 Your information is protected and I never spam, ever. You can view my privacy policy [here](https://markmanson.net/privacy-policy).  
 您的信息受到保护，我永远不会发送垃圾邮件。您可以在这里查看我的隐私政策。
 
-**96 people had breakthroughs so far this week. Will one of them be you?  
+**96 people had breakthroughs so far this week. Will one of them be you?**  
 
-本周到目前为止，已有 96 人取得突破。你会是其中之一吗？**
+本周到目前为止，已有 96 人取得突破。你会是其中之一吗？
 
 ## Two things for you to think about  
 您需要考虑的两件事
@@ -129,8 +129,8 @@ Until next week, 直到下周，
 
 Mark Manson 马克·曼森
 
-_#1 New York Times Bestselling Author  
+*#1 New York Times Bestselling Author*  
 
-#1 纽约时报畅销书作家_  
+*#1 纽约时报畅销书作家*
 
 原文链接: [https://markmanson.net/breakthrough/024-the-most-important-thing-in-your-life](https://markmanson.net/breakthrough/024-the-most-important-thing-in-your-life) 

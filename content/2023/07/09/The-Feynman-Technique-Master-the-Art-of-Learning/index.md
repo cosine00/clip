@@ -116,7 +116,7 @@ When you’re happy with your understanding, take the page you created with a si
 
 当您对自己的理解感到满意时，请将您创建的带有简单说明的页面放入活页夹中。遵循这种技巧来完成你所学到的一切，会给你一个充满学习内容的活页夹，你可以每年复习几次。
 
-\*\*\*
+<center>***</center>
 
 Simplicity is the hallmark of true understanding. Challenge others who use jargon to explain concepts in simple terms, and their reactions may reveal their comprehension (or lack thereof).  
 
