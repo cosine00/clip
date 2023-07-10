@@ -8,7 +8,7 @@
 该网站基于 [clip-template](https://github.com/theowenyoung/clip-template) 进行构建
 
 ## 目录
-<!-- Table of Content-->
+<!-- Table of Content
 - 2023-07-10 [怀旧的悖论](2023/07/10/The-Paradoxes-of-Nostalgia/index.html)
 - 2023-07-10 [你一直感到焦虑的4个心理原因](2023/07/10/4-Psychological-Reasons-You-Feel-Anxious-All-the-Time/index.html)
 - 2023-07-10 [7个迹象表明你正在和一个情感不成熟的成年人约会](2023/07/10/7-Signs-You’re-Dating-an-Emotionally-Immature-Adult/index.html)
@@ -27,3 +27,4 @@
 - 2023-07-03 [在十年内自学编程](2023/07/03/Teach-Yourself-Programming-in-Ten-Years/index.html)
 - 2023-07-03 [废除工作](2023/07/03/The-Abolition-of-Work/index.html)
 - 2023-07-03 [100个小想法](2023/07/03/100-Little-Ideas/index.html)
+-->

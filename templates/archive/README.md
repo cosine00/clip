@@ -8,7 +8,10 @@
 该网站基于 [clip-template](https://github.com/theowenyoung/clip-template) 进行构建
 
 ## 目录
-
+- 2023-07-10 [怀旧的悖论](2023/07/10/The-Paradoxes-of-Nostalgia/index.html)
+- 2023-07-10 [你一直感到焦虑的4个心理原因](2023/07/10/4-Psychological-Reasons-You-Feel-Anxious-All-the-Time/index.html)
+- 2023-07-10 [7个迹象表明你正在和一个情感不成熟的成年人约会](2023/07/10/7-Signs-You’re-Dating-an-Emotionally-Immature-Adult/index.html)
+- 2023-07-10 [如何更好地调节情绪](2023/07/10/How-to-Get-Better-At-Regulating-Your-Emotions/index.html)
 - 2023-07-09 [费曼技巧：掌握学习的艺术](2023/07/09/The-Feynman-Technique-Master-the-Art-of-Learning/index.html)
 - 2023-07-09 [你被允许做的事情](2023/07/09/Things-you're-allowed-to-do/index.html)
 - 2023-07-09 [你生命中最重要的事情](2023/07/09/The-Most-Important-Thing-in-Your-Life/index.html)
