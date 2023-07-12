@@ -8,6 +8,21 @@
 该网站基于 [clip-template](https://github.com/theowenyoung/clip-template) 进行构建
 
 ## 目录
+
+- 2023-07-12 [马修·劳伦斯 (Mathew Lawrence) 阐述英国私有化为何代价高昂的失败](https://clip.citrusea.cc/2023/07/12/Mathew-Lawrence-on-why-privatisation-has-been-a-costly-failure-in-Britain/index.html#马修劳伦斯-mathew-lawrence-阐述英国私有化为何代价高昂的失败)
+- 2023-07-12 [证明你可以做困难的事](https://clip.citrusea.cc/2023/07/12/Proof-You-Can-Do-Hard-Things/index.html#证明你可以做困难的事)
+- 2023-07-12 [画家是否会下意识地将自己描绘到作品中？](https://clip.citrusea.cc/2023/07/12/Do-painters-subconsciously-paint-themselves-into-their-work/index.html#画家是否会下意识地将自己描绘到作品中)
+- 2023-07-12 [理解是凸性（反脆弱性）的不良替代品](https://clip.citrusea.cc/2023/07/12/UNDERSTANDING-IS-A-POOR-SUBSTITUTE-FOR-CONVEXITY%20(ANTIFRAGILITY)/index.html#理解是凸性反脆弱性的不良替代品)
+- 2023-07-12 [分数膨胀：上升的必然下降](https://clip.citrusea.cc/2023/07/12/Grade-Inflation-What-Goes-Up-Must-Come-Down/index.html#分数膨胀上升的必然下降)
+- 2023-07-12 [聪明人说的聪明事](https://clip.citrusea.cc/2023/07/12/Smart-Things-Smart-People-Said/index.html#聪明人说的聪明事)
+- 2023-07-12 [您需要多少睡眠？每个年龄段改善睡眠的秘诀](https://clip.citrusea.cc/2023/07/12/How-Much-Sleep-Do-You-Need-Tips-for-Better-Slumber-at-Every-Age/index.html)
+- 2023-07-12 [游乐园能教会我们关于中央银行的知识](https://clip.citrusea.cc/2023/07/12/What-an-amusement-park-can-teach-us-about-central-banks/index.html#游乐园能教会我们关于中央银行的知识)
+- 2023-07-12 [价值观澄清](https://clip.citrusea.cc/2023/07/12/Values-Clarification/index.html#价值观澄清)
+- 2023-07-12 [拖延](https://clip.citrusea.cc/2023/07/12/Procrastination/index.html#拖延)
+- 2023-07-12 [超负荷、头晕、眩晕、恍惚](https://clip.citrusea.cc/2023/07/12/Overload-Dizziness-Vertigo-Trance/index.html#超负荷头晕眩晕恍惚)
+- 2023-07-12 [不要让他们也偷这个](2023/07/12/Dont-Let-Them-Steal-This-Too/index.html)
+- 2023-07-12 [提供有效反馈的 5 种方法](/2023/07/12/5-ways-to-give-effective-feedback/index.html)
+- 2023-07-12 [为什么要匹配学校和学生的排名？](/2023/07/12/Why-Match-School-And-Student-Rank/index.html)
 - 2023-07-10 [怀旧的悖论](2023/07/10/The-Paradoxes-of-Nostalgia/index.html)
 - 2023-07-10 [你一直感到焦虑的4个心理原因](2023/07/10/4-Psychological-Reasons-You-Feel-Anxious-All-the-Time/index.html)
 - 2023-07-10 [7个迹象表明你正在和一个情感不成熟的成年人约会](2023/07/10/7-Signs-You’re-Dating-an-Emotionally-Immature-Adult/index.html)

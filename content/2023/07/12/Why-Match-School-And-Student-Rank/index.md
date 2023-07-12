@@ -1,5 +1,5 @@
 ---
-title: "Why Match School And Student Rank? - by Scott Alexander --- 为什么要匹配学校和学生的排名？- 斯科特·亚历山大"
+title: "为什么要匹配学校和学生的排名？"
 date: 2023-07-12T21:04:45+08:00
 updated: 2023-07-12T21:04:45+08:00
 taxonomies:
