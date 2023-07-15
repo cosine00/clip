@@ -9,6 +9,13 @@
 
 ## 目录
 
+- 2023-07-15 [＃153：重新思考“周末计划](2023/07/15/153-Rethinking-“weekend-plans”/index.html)
+- 2023-07-15 [《2007 年南加州大学法学院毕业典礼致辞》](2023/07/15/2007-USC-Law-School-Commencement-Address/index.html)
+- 2023-07-15 [放大它](2023/07/15/Amp-It-Up/index.html)
+- 2023-07-15 [如何做好工作](2023/07/15/How-to-Do-Great-Work/index.html)
+- 2023-07-15 [学习如何学习](2023/07/15/Learning-how-to-learn/index.html)
+- 2023-07-15 [剪刀石头布的心理深度](2023/07/15/The-Psychological-Depths-of-Rock-Paper-Scissors/index.html)
+- 2023-07-15 [将对失败的恐惧转化为好奇心的增长](2023/07/15/Turning-Fear-of-Failure-into-Increments-of-Curiosity/index.html)
 - 2023-07-12 [马修·劳伦斯 (Mathew Lawrence) 阐述英国私有化为何代价高昂的失败](https://clip.citrusea.cc/2023/07/12/Mathew-Lawrence-on-why-privatisation-has-been-a-costly-failure-in-Britain/index.htm)
 - 2023-07-12 [证明你可以做困难的事](https://clip.citrusea.cc/2023/07/12/Proof-You-Can-Do-Hard-Things/index.html)
 - 2023-07-12 [画家是否会下意识地将自己描绘到作品中？](https://clip.citrusea.cc/2023/07/12/Do-painters-subconsciously-paint-themselves-into-their-work/index.html)
