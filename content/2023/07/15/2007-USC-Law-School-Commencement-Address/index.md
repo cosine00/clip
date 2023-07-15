@@ -8,8 +8,8 @@ extra:
   source: https://jamesclear.com/great-speeches/2007-usc-law-school-commencement-address-by-charlie-munger
   hostname: jamesclear.com
   author: 
-  original_title: ""2007 USC Law School Commencement Address""
-  
+  original_title: "2007 USC Law School Commencement Address"
+  original_lang: en-US
 ---
 ## Background 背景
 
