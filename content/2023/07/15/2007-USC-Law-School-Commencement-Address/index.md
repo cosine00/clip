@@ -9,7 +9,7 @@ extra:
   hostname: jamesclear.com
   author: 
   original_title: ""2007 USC Law School Commencement Address""
-  original_lang: en-US
+  
 ---
 ## Background 背景
 
