@@ -31,7 +31,8 @@ Here are my 10 favorite ideas from the first half of 2023…
 以下是 2023 年上半年我最喜欢的 10 个想法……
 
 ## Overcome Your Fear: The Spotlight Effect
-**克服恐惧：聚光灯效应** 
+
+**克服恐惧：聚光灯效应**
 
 There are two big mistakes in life:
 
@@ -72,6 +73,7 @@ To “dim” the spotlight:要“调暗”聚光灯：
 （更多内容请阅读原文）
 
 ## How to Start Journaling: The 1-1-1 Method
+
 **如何开始写日记：1-1-1 方法**
 
 Journaling is an extremely powerful tool for improving mental health and clarity. Unfortunately, it’s a positive habit that eludes many people because it feels intimidating to start.
@@ -107,7 +109,8 @@ With a simple structure and a low time burden, the 1-1-1 Method is an easy way t
 （更多内容请阅读原文）
 
 ## The Productivity Tool: The Eisenhower Matrix
-**生产力工具：艾森豪威尔矩阵** 
+
+**生产力工具：艾森豪威尔矩阵**
 
 Dwight Eisenhower was known for his prolific productivity. His secret? “What is important is seldom urgent and what is urgent is seldom important.”
 
@@ -130,6 +133,7 @@ The Goal: Spend more time on the important tasks that contribute to your long-te
 In simple terms:
 
 简单来说：
+
 - Manage top-right
 
 管理右上角
@@ -147,6 +151,7 @@ In simple terms:
 （更多内容请阅读原文）
 
 ## How to Ride the Waves: The Surfer Mentality
+
 **如何乘风破浪：冲浪者心态**
 
 When a surfer gets up on a wave, they enjoy the present moment, even though they know with certainty that the wave will eventually end. They fully enjoy THIS wave, with the wisdom and awareness that there are always more waves coming.
@@ -172,6 +177,7 @@ Finally, the surfer knows that the only way to live is by putting themself out t
 （更多内容请阅读原文）
 
 ## How to Learn Anything: The Feynman Technique
+
 **如何学习任何东西：费曼技巧**
 
 The Feynman Technique is a learning model that leverages teaching and prioritizes simplicity to help you develop a deep understanding of any topic.
@@ -211,6 +217,7 @@ Use the Feynman Technique: Find beauty in simplicity.
 （更多内容请阅读原文）
 
 ## How to Get Lucky: The 4 Types of Luck
+
 **如何获得幸运：四种幸运**
 
 In 1978, a neurologist named Dr. James Austin published a book entitled Chase, Chance, & Creativity: The Lucky Art of Novelty.
@@ -256,6 +263,7 @@ Drex_JPG 的可视化​
 （更多内容请阅读原文）
 
 ## Embrace Ordinary: The Trap of the Extraordinary
+
 **拥抱平凡：非凡的陷阱**
 
 The Trap of the Extraordinary is that we conflate success with the *achievement* of the extraordinary. Winners are those who achieve the extraordinary, losers are those who do not.
@@ -287,6 +295,7 @@ Make the ordinary come alive and the extraordinary will take care of itself.
 （更多内容请阅读原文）
 
 ## Be the Main Character: Character Invention
+
 **成为主角：角色发明**
 
 Create a character in your mind who can show up in the way you want to and teach yourself to “flip the switch” to become this character when necessary.
@@ -318,6 +327,7 @@ Remember: Your daily actions shape your identity. When you embrace this, your wh
 （更多内容请阅读原文）
 
 ## How to Unlock New Growth: The Think Day
+
 **如何释放新的增长：思考日**
 
 Free time to think is a “call option” on future interesting opportunities. When you have free time built into your schedule, you have the headspace and bandwidth to dream up and pursue high upside ideas.
@@ -365,6 +375,7 @@ Depending on your professional and life constraints, you can scale the Think Day
 （更多内容请阅读原文）
 
 ## Your Ultimate Currency: The Time Billionaire
+
 **你的终极货币：亿万富翁时代**
 
 *“A million seconds is 11 days. A billion seconds is slightly over 31 years…I feel like in our culture, we’re so obsessed, as a culture, with money. And we deify dollar billionaires in a way…And I was thinking of time billionaires that when I see, sometimes, 20-year-olds—the thought I had was they probably have two billion seconds left. But they aren’t relating to themselves as time billionaires.” - Graham Duncan on The Tim Ferriss Show
@@ -388,6 +399,7 @@ Most of us fail to realize the value of this asset until it is gone.
 （更多内容请阅读原文）
 
 ## Finishing 2023 Strong
+
 **强势完成 2023 年**
 
 Those were my 10 favorite ideas shared in this newsletter in the first half of 2023.
@@ -402,4 +414,4 @@ Onward and upward, friends!
 
 前进，向上，朋友们！
 
-原文链接: [https://www.sahilbloom.com/newsletter/my-10-favorite-ideas-of-the-year](https://www.sahilbloom.com/newsletter/my-10-favorite-ideas-of-the-year) 
+原文链接: [https://www.sahilbloom.com/newsletter/my-10-favorite-ideas-of-the-year](https://www.sahilbloom.com/newsletter/my-10-favorite-ideas-of-the-year)

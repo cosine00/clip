@@ -11,6 +11,7 @@ extra:
   original_title: "Turning Fear of Failure into Increments of Curiosity"
   original_lang: en
 ---
+
 When I was younger, I badly wanted to live in Japan. Japan is a country with very strict immigration laws, but my university had an exchange program where you could go spend a semester and study in another country.  
 
 当我年轻的时候，我非常想住在日本。日本是一个移民法非常严格的国家，但我的大学有一个交换项目，你可以去另一个国家度过一个学期并学习。

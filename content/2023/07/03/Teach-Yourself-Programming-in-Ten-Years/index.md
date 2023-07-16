@@ -2,6 +2,7 @@
 title: "在十年内自学编程"
 date: 2023-07-03T09:37:21+08:00
 ---
+
 原标题：Teach Yourself Programming in Ten Years
 
 Peter Norvig
@@ -13,6 +14,7 @@ Peter Norvig
 Why is everyone in such a rush?
 
 ---
+
 Walk into any bookstore, and you’ll see how to *Teach Yourself Java in 24 Hours* alongside endless variations offering to teach C, SQL, Ruby, Algorithms, and so on in a few days or hours. The Amazon advanced search for \[title: teach, yourself, hours, since: 2000 and found 512 such books. Of the top ten, nine are programming books (the other is about bookkeeping). Similar results come from replacing “teach yourself” with “learn” or “hours” with “days.”
 
 走进任何一家书店，您都会看到如何在 24 小时内自学 Java，以及提供在几天或几小时内教授 C、SQL、Ruby、算法等的无数变体。亚马逊高级搜索\[标题：教，你自己，时间，自：2000年以来，找到了512本这样的书。前十名中，九本是编程书籍（另一本是关于簿记的）。将“自学”替换为“学习”或将“小时”替换为“天”，也会得到类似的结果。
@@ -26,17 +28,23 @@ Let’s analyze what a title like *Teach Yourself C++ in 24 Hours* could mean:
 让我们分析一下《24 小时自学 C++》这样的标题可能意味着什么：
 
 - **Teach Yourself:** In 24 hours you won’t have time to write several significant programs, and learn from your successes and failures with them. You won’t have time to work with an experienced programmer and understand what it is like to live in a C++ environment. In short, you won’t have time to learn much. So the book can only be talking about a superficial familiarity, not a deep understanding. As Alexander Pope said, a little learning is a dangerous thing.
-    
+
+
     自学：在 24 小时内，您将没有时间编写几个重要的程序，并从它们的成功和失败中学习。您将没有时间与经验丰富的程序员一起工作并了解生活在 C++ 环境中的感觉。简而言之，你没有时间学习太多东西。所以这本书只能讲表面的熟悉，而不是深入的理解。正如亚历山大·波普所说，学习一点点是一件危险的事情。
-    
+
+
 - **C++:** In 24 hours you might be able to learn some of the syntax of C++ (if you already know another language), but you couldn’t learn much about how to use the language. In short, if you were, say, a Basic programmer, you could learn to write programs in the style of Basic using C++ syntax, but you couldn’t learn what C++ is actually good (and bad) for. So what’s the point? Alan Perlis once said: “A language that doesn’t affect the way you think about programming, is not worth knowing”. One possible point is that you have to learn a tiny bit of C++ (or more likely, something like JavaScript or Processing) because you need to interface with an existing tool to accomplish a specific task. But then you’re not learning how to program; you’re learning to accomplish that task.
-    
+
+
     C++：24小时内你也许能够学习C++的一些语法（如果你已经了解另一种语言），但你无法了解如何使用该语言。简而言之，如果您是一名 Basic 程序员，您可以学习使用 C++ 语法以 Basic 风格编写程序，但您无法了解 C++ 实际上有什么好处（和坏处）。那么有什么意义呢？ Alan Perlis 曾经说过：“一种不影响你思考编程方式的语言，不值得了解”。一个可能的观点是，您必须学习一点点 C++（或更可能是 JavaScript 或处理之类的东西），因为您需要与现有工具交互才能完成特定任务。但这样你就不是在学习如何编程；而是在学习如何编程。你正在学习完成这项任务。
-    
+
+
 - **in 24 Hours:** Unfortunately, this is not enough, as the next section shows.
-    
+
+
     24 小时内：不幸的是，这还不够，如下一节所示。
-    
+
+
 
 ## 十年自学编程
 
@@ -63,45 +71,65 @@ Here’s my recipe for programming success:
 这是我成功编程的秘诀：
 
 - Get **interested** in programming, and do some because it is fun. Make sure that it keeps being enough fun so that you will be willing to put in your ten years/10,000 hours.
-    
+
+
     对编程感兴趣，并且因为它很有趣而去做一些事情。确保它保持足够的乐趣，这样你才会愿意投入十年/一万个小时。
-    
+
+
 - **Program**. The best kind of learning is learning by doing. To put it more technically, “the maximal level of performance for individuals in a given domain is not attained automatically as a function of extended experience, but the level of performance can be increased even by highly experienced individuals as a result of deliberate efforts to improve.” (p. 366) and “the most effective learning requires a well-defined task with an appropriate difficulty level for the particular individual, informative feedback, and opportunities for repetition and corrections of errors.” (p. 20-21) The book *Cognition in Practice: Mind, Mathematics, and Culture in Everyday Life* is an interesting reference for this viewpoint.
-    
+
+
     程序。最好的学习方式是边做边学。更专业地说，“在给定领域中，个人的最高绩效水平并不是随着丰富的经验而自动达到的，但即使是经验丰富的个人，也可以通过刻意努力提高绩效水平来提高” ”。 （第366页）和“最有效的学习需要明确的任务，对特定个人有适当的难度，信息丰富的反馈，以及重复和纠正错误的机会。” （第 20-21 页）《实践中的认知：日常生活中的思维、数学和文化》一书是这一观点的有趣参考。
-    
+
+
 - **Talk with** other programmers; read other programs. This is more important than any book or training course.
-    
+
+
     与其他程序员交谈；阅读其他程序。这比任何书籍或培训课程都更重要。
-    
+
+
 - If you want, put in four years at a **college** (or more at a graduate school). This will give you access to some jobs that require credentials, and it will give you a deeper understanding of the field, but if you don’t enjoy school, you can (with some dedication) get similar experience on your own or on the job. In any case, book learning alone won’t be enough. “Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter” says Eric Raymond, author of *The New Hacker’s Dictionary*. One of the best programmers I ever hired had only a High School degree; he’s produced a lot of great software, has his own news group, and made enough in stock options to buy his own nightclub.
-    
+
+
     如果你愿意，可以在大学学习四年（或者在研究生院学习更长的时间）。这将使您能够获得一些需要证书的工作，并且将使您对该领域有更深入的了解，但如果您不喜欢上学，您可以（通过一些奉献）自己或在工作中获得类似的经验。无论如何，仅靠书本学习是不够的。 《新黑客词典》的作者埃里克·雷蒙德说：“计算机科学教育不能使任何人成为专家程序员，就像学习画笔和颜料不能使人成为专家画家一样。”我雇用过的最好的程序员之一只有高中学历；他开发了许多出色的软件，拥有自己的新闻组，并赚了足够的股票期权来购买自己的夜总会。
-    
+
+
 - Work on **projects with** other programmers. Be the best programmer on some projects; be the worst on some others. When you’re the best, you get to test your abilities to lead a project, and to inspire others with your vision. When you’re the worst, you learn what the masters do, and you learn what they don’t like to do (because they make you do it for them).
-    
+
+
     与其他程序员一起开发项目。成为某些项目上最好的程序员；对其他人来说是最糟糕的。当你成为最优秀的人时，你就可以测试自己领导项目的能力，并用你的愿景激励他人。当你最差的时候，你会了解大师做什么，你会了解他们不喜欢做什么（因为他们让你为他们做）。
-    
+
+
 - Work on **projects *after*** other programmers. Understand a program written by someone else. See what it takes to understand and fix it when the original programmers are not around. Think about how to design your programs to make it easier for those who will maintain them after you.
-    
+
+
     跟随其他程序员从事项目。理解别人写的程序。看看当原始程序员不在时，如何理解并修复它。考虑如何设计您的程序，以便让您之后的维护者更轻松地维护它们。
-    
+
+
 - Learn at least a half dozen **programming languages**. Include one language that emphasizes class abstractions (like Java or C++), one that emphasizes functional abstraction (like Lisp or ML or Haskell), one that supports syntactic abstraction (like Lisp), one that supports declarative specifications (like Prolog or C++ templates), and one that emphasizes parallelism (like Clojure or Go).
-    
+
+
     学习至少六种编程语言。包括一种强调类抽象的语言（如 Java 或 C++）、一种强调函数抽象的语言（如 Lisp、ML 或 Haskell）、一种支持句法抽象的语言（如 Lisp）、一种支持声明性规范的语言（如 Prolog 或 C++ 模板） ，以及强调并行性的一种（如 Clojure 或 Go）。
-    
+
+
 - Remember that there is a “**computer**” in “computer science”. Know how long it takes your computer to execute an instruction, fetch a word from memory (with and without a cache miss), read consecutive words from disk, and seek to a new location on disk. (Answers here.)
-    
+
+
     请记住，“计算机科学”中有一个“计算机”。了解计算机执行一条指令、从内存中获取一个字（有或没有缓存未命中）、从磁盘读取连续的字以及在磁盘上寻找新位置需要多长时间。 （答案在这里。）
-    
+
+
 - Get involved in a language **standardization** effort. It could be the ANSI C++ committee, or it could be deciding if your local coding style will have 2 or 4 space indentation levels. Either way, you learn about what other people like in a language, how deeply they feel so, and perhaps even a little about why they feel so.
-    
+
+
     参与语言标准化工作。它可能是 ANSI C++ 委员会，也可能决定您的本地编码风格是否具有 2 个或 4 个空格缩进级别。无论哪种方式，您都会了解其他人喜欢某种语言的内容，他们的感受有多深，甚至可能会了解他们为什么会有这样的感受。
-    
+
+
 - Have the good sense to **get off** the language standardization effort as quickly as possible.
-    
+
+
     要有良好的判断力，尽快完成语言标准化工作。
-    
+
+
 
 With all that in mind, its questionable how far you can get just by book learning. Before my first child was born, I read all the *How To* books, and still felt like a clueless novice. 30 Months later, when my second child was due, did I go back to the books for a refresher? No. Instead, I relied on my personal experience, which turned out to be far more useful and reassuring to me than the thousands of pages written by experts.
 
@@ -112,17 +140,23 @@ Fred Brooks, in his essay *No Silver Bullet* identified a three-part plan for fi
 Fred Brooks 在他的文章《No Silver Bullet》中提出了一个由三部分组成的寻找优秀软件设计师的计划：
 
 1. Systematically identify top designers as early as possible.
-    
+
+
     尽早系统地甄别顶尖设计师。
-    
+
+
 2. Assign a career mentor to be responsible for the development of the prospect and carefully keep a career file.
-    
+
+
     指派一名职业导师负责潜在客户的发展，并仔细保存职业档案。
-    
+
+
 3. Provide opportunities for growing designers to interact and stimulate each other.
-    
+
+
     为成长中的设计师提供互动和互相激励的机会。
-    
+
+
 
 This assumes that some people already have the qualities necessary for being a great designer; the job is to properly coax them along. Alan Perlis put it more succinctly: “Everyone can be taught to sculpt: Michelangelo would have had to be taught how not to. So it is with the great programmers”. Perlis is saying that the greats have some internal quality that transcends their training. But where does the quality come from? Is it innate? Or do they develop it through diligence? As Auguste Gusteau (the fictional chef in *Ratatouille*) puts it, “anyone can cook, but only the fearless can be great.” I think of it more as willingness to devote a large portion of one’s life to deliberative practice. But maybe *fearless* is a way to summarize that. Or, as Gusteau’s critic, Anton Ego, says: “Not everyone can become a great artist, but a great artist can come from anywhere.”
 

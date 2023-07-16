@@ -2,6 +2,7 @@
 title: "100个小想法"
 date: 2023-07-03T09:37:21+08:00
 ---
+
 原标题：100 Little Ideas
 
 by [Morgan Housel](https://collabfund.com/blog/authors/morgan/)
@@ -386,4 +387,4 @@ Apophenia：倾向于感知不相关事物之间的相关性，因为你的大�
 
 情感能力：识别他人情绪并有效回应的能力。比听起来更难、更罕见。
 
-原文链接: [https://collabfund.com/blog/100-little-ideas/](https://collabfund.com/blog/100-little-ideas/) 
+原文链接: [https://collabfund.com/blog/100-little-ideas/](https://collabfund.com/blog/100-little-ideas/)
