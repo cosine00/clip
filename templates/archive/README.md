@@ -7,6 +7,8 @@
 
 该网站基于 [clip-template](https://github.com/theowenyoung/clip-template) 进行构建
 
+[RSS 订阅](https://clip.citrusea.cc/feed.xml)
+
 ## 目录
 
 - 2023-07-16 [激发亚当·斯密灵感的小玩意和小玩意](2023/07/16/Gadgets-and-Gizmos-That-Inspired-Adam-Smith/index.html)
