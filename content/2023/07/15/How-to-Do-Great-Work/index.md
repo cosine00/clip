@@ -14,6 +14,7 @@ extra:
 July 2023 2023 年 7 月
 
 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it.
+
 如果您收集了在许多不同领域取得出色工作的技术列表，那么交集会是什么样子？我决定通过制作来找出答案。
 
 Partly my goal was to create a guide that could be used by someone working in any field. But I was also curious about the shape of the intersection. And one thing this exercise shows is that it does have a definite shape; it's not just a point labelled "work hard."
@@ -31,9 +32,8 @@ The first step is to decide what to work on. The work you choose needs to have t
   
 第一步是决定要做什么。你选择的工作需要具备三个品质：它必须是你有天赋的东西，你对此有浓厚的兴趣，并且提供了完成伟大工作的空间。
 
-In practice you don't have to worry much about the third criterion. Ambitious people are if anything already too conservative about it. So all you need to do is find something you have an aptitude for and great interest in.
+In practice you don't have to worry much about the third criterion. Ambitious people are if anything already too conservative about it. So all you need to do is find something you have an aptitude for and great interest in.\[[1](http://paulgraham.com/greatwork.html#f1n)\]  
 
-\[[1](http://paulgraham.com/greatwork.html#f1n)\]  
 实际上，您不必太担心第三个标准。雄心勃勃的人对此已经过于保守了。因此，您需要做的就是找到您有天赋并且非常感兴趣的东西。 \[1\]
 
 That sounds straightforward, but it's often quite difficult. When you're young you don't know what you're good at or what different kinds of work are like. Some kinds of work you end up doing may not even exist yet. So while some people know what they want to do at 14, most have to figure it out.
@@ -71,9 +71,8 @@ Once you've found something you're excessively interested in, the next step is t
   
 一旦你发现了你非常感兴趣的东西，下一步就是充分了解它，让你到达知识的前沿之一。知识呈分形扩展，从远处看，它的边缘看起来很光滑，但一旦你学到了足够多的知识，接近一个边缘，就会发现它们充满了间隙。
 
-The next step is to notice them. This takes some skill, because your brain wants to ignore such gaps in order to make a simpler model of the world. Many discoveries have come from asking questions about things that everyone else took for granted.
+The next step is to notice them. This takes some skill, because your brain wants to ignore such gaps in order to make a simpler model of the world. Many discoveries have come from asking questions about things that everyone else took for granted.\[[2](http://paulgraham.com/greatwork.html#f2n)\]  
 
-\[[2](http://paulgraham.com/greatwork.html#f2n)\]  
 下一步是注意它们。这需要一些技巧，因为你的大脑想要忽略这些差距，以便建立一个更简单的世界模型。许多发现都来自于对其他人认为理所当然的事情提出问题。 \[2\]
 
 If the answers seem strange, so much the better. Great work often has a tincture of strangeness. You see this from painting to math. It would be affected to try to manufacture it, but if it appears, embrace it.
@@ -81,9 +80,8 @@ If the answers seem strange, so much the better. Great work often has a tincture
   
 如果答案看起来很奇怪，那就更好了。伟大的作品常常带有一丝陌生的味道。从绘画到数学你都能看到这一点。尝试制造它会受到影响，但如果它出现，就拥抱它。
 
-Boldly chase outlier ideas, even if other people aren't interested in them — in fact, especially if they aren't. If you're excited about some possibility that everyone else ignores, and you have enough expertise to say precisely what they're all overlooking, that's as good a bet as you'll find.
+Boldly chase outlier ideas, even if other people aren't interested in them — in fact, especially if they aren't. If you're excited about some possibility that everyone else ignores, and you have enough expertise to say precisely what they're all overlooking, that's as good a bet as you'll find.\[[3](http://paulgraham.com/greatwork.html#f3n)\]  
 
-\[[3](http://paulgraham.com/greatwork.html#f3n)\]  
 大胆地追寻离奇的想法，即使其他人对此不感兴趣——事实上，尤其是如果他们不感兴趣的话。如果你对其他人都忽略的某种可能性感到兴奋，并且你有足够的专业知识来准确说出他们都忽略的事情，那么这就是你会发现的最好的选择。 \[3\]
 
 Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising ones. This is how practically everyone who's done great work has done it, from painters to physicists.
@@ -106,9 +104,8 @@ The big prize is to discover a new fractal bud. You notice a crack in the surfac
   
 最大的奖励是发现一个新的分形芽。你注意到知识表面有一条裂缝，把它撬开，里面有一个完整的世界。
 
-Let's talk a little more about the complicated business of figuring out what to work on. The main reason it's hard is that you can't tell what most kinds of work are like except by doing them. Which means the four steps overlap: you may have to work at something for years before you know how much you like it or how good you are at it. And in the meantime you're not doing, and thus not learning about, most other kinds of work. So in the worst case you choose late based on very incomplete information.
+Let's talk a little more about the complicated business of figuring out what to work on. The main reason it's hard is that you can't tell what most kinds of work are like except by doing them. Which means the four steps overlap: you may have to work at something for years before you know how much you like it or how good you are at it. And in the meantime you're not doing, and thus not learning about, most other kinds of work. So in the worst case you choose late based on very incomplete information.\[[4](http://paulgraham.com/greatwork.html#f4n)\]  
 
-\[[4](http://paulgraham.com/greatwork.html#f4n)\]  
 让我们多谈谈弄清楚要做什么的复杂事情。其困难的主要原因是，除非亲自去做，否则你无法辨别大多数类型的工作是什么样的。这意味着这四个步骤是重叠的：你可能需要在某件事上工作多年才能知道你有多喜欢它或者你有多擅长它。与此同时，你并没有做，因此也没有学习大多数其他类型的工作。因此，在最坏的情况下，您会根据非常不完整的信息选择延迟。 \[4\]
 
 The nature of ambition exacerbates this problem. Ambition comes in two forms, one that precedes interest in the subject and one that grows out of it. Most people who do great work have a mix, and the more you have of the former, the harder it will be to decide what to do.
@@ -126,9 +123,8 @@ It would be better if they at least admitted it — if they admitted that the sy
   
 如果他们至少承认这一点那就更好了——如果他们承认这个系统不仅不能帮助你弄清楚该做什么，而且它的设计假设你在青少年时期会以某种方式神奇地猜测。他们不会告诉你，但我会告诉你：当谈到弄清楚要做什么时，你得靠自己。有些人很幸运，确实猜对了，但其他人会发现自己在假设每个人都这样做的情况下沿着对角线爬行。
 
-What should you do if you're young and ambitious but don't know what to work on? What you should not do is drift along passively, assuming the problem will solve itself. You need to take action. But there is no systematic procedure you can follow. When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions.
+What should you do if you're young and ambitious but don't know what to work on? What you should not do is drift along passively, assuming the problem will solve itself. You need to take action. But there is no systematic procedure you can follow. When you read biographies of people who've done great work, it's remarkable how much luck is involved. They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions.\[[5](http://paulgraham.com/greatwork.html#f5n)\]  
 
-\[[5](http://paulgraham.com/greatwork.html#f5n)\]  
 如果你年轻、有抱负但不知道该做什么，你该怎么办？你不应该做的是被动地随波逐流，假设问题会自行解决。你需要采取行动。但没有可以遵循的系统程序。当你阅读那些做出了伟大工作的人的传记时，你会发现其中涉及到多少运气。他们通过一次偶然的机会，或者通过读一本他们偶然拿起的书来发现要做什么。所以你需要让自己成为一个幸运的大目标，而做到这一点的方法就是保持好奇心。尝试很多事情，认识很多人，读很多书，问很多问题。 \[5\]
 
 When in doubt, optimize for interestingness. Fields change as you learn more about them. What mathematicians do, for example, is very different from what you do in high school math classes. So you need to give different types of work a chance to show you what they're like. But a field should become *increasingly* interesting as you learn more about it. If it doesn't, it's probably not for you.
@@ -156,9 +152,8 @@ If you're making something for people, make sure it's something they actually wa
   
 如果你要为人们做一些东西，请确保这是他们真正想要的东西。做到这一点的最好方法就是做一些你自己想要的东西。写下你想读的故事；构建您想要使用的工具。由于您的朋友可能有相似的兴趣，这也将为您带来最初的受众。
 
-This *should* follow from the excitingness rule. Obviously the most exciting story to write will be the one you want to read. The reason I mention this case explicitly is that so many people get it wrong. Instead of making what they want, they try to make what some imaginary, more sophisticated audience wants. And once you go down that route, you're lost.
+This *should* follow from the excitingness rule. Obviously the most exciting story to write will be the one you want to read. The reason I mention this case explicitly is that so many people get it wrong. Instead of making what they want, they try to make what some imaginary, more sophisticated audience wants. And once you go down that route, you're lost.\[[6](http://paulgraham.com/greatwork.html#f6n)\]  
 
-\[[6](http://paulgraham.com/greatwork.html#f6n)\]  
 这应该遵循令人兴奋的规则。显然，最令人兴奋的故事将是您想读的故事。我之所以明确提及这个案例，是因为很多人都误解了。他们没有制作他们想要的东西，而是尝试制作一些想象中的、更复杂的观众想要的东西。一旦你沿着这条路走下去，你就会迷路。 \[6\]
 
 There are a lot of forces that will lead you astray when you're trying to figure out what to work on. Pretentiousness, fashion, fear, money, politics, other people's wishes, eminent frauds. But if you stick to what you find genuinely interesting, you'll be proof against all of them. If you're interested, you're not astray.
@@ -231,14 +226,12 @@ Try to finish what you start, though, even if it turns out to be more work than 
   
 不过，尝试完成你开始做的事情，即使结果比你预期的要多。完成事情不仅仅是一种整洁或自律的练习。在许多项目中，许多最好的工作都发生在最后阶段。
 
-Another permissible lie is to exaggerate the importance of what you're working on, at least in your own mind. If that helps you discover something new, it may turn out not to have been a lie after all.
+Another permissible lie is to exaggerate the importance of what you're working on, at least in your own mind. If that helps you discover something new, it may turn out not to have been a lie after all.\[[7](http://paulgraham.com/greatwork.html#f7n)\]  
 
-\[[7](http://paulgraham.com/greatwork.html#f7n)\]  
 另一个允许的谎言是夸大你正在做的事情的重要性，至少在你自己看来是这样。如果这能帮助你发现新的东西，那么它可能根本就不是谎言。 \[7\]
 
-Since there are two senses of starting work — per day and per project — there are also two forms of procrastination. Per-project procrastination is far the more dangerous. You put off starting that ambitious project from year to year because the time isn't quite right. When you're procrastinating in units of years, you can get a lot not done.
+Since there are two senses of starting work — per day and per project — there are also two forms of procrastination. Per-project procrastination is far the more dangerous. You put off starting that ambitious project from year to year because the time isn't quite right. When you're procrastinating in units of years, you can get a lot not done.\[[8](http://paulgraham.com/greatwork.html#f8n)\]  
 
-\[[8](http://paulgraham.com/greatwork.html#f8n)\]  
 由于开始工作有两种感觉——每天和每个项目——所以拖延也有两种形式。每个项目的拖延要危险得多。你年复一年地推迟启动这个雄心勃勃的项目，因为时间不太合适。当你以年为单位拖延时，你可能会做很多事情没有完成。 \[8\]
 
 One reason per-project procrastination is so dangerous is that it usually camouflages itself as work. You're not just sitting around doing nothing; you're working industriously on something else. So per-project procrastination doesn't set off the alarms that per-day procrastination does. You're too busy to notice it.
@@ -246,9 +239,8 @@ One reason per-project procrastination is so dangerous is that it usually camouf
   
 每个项目的拖延如此危险的原因之一是它通常将自己伪装成工作。你不只是坐在那里无所事事；你正在勤奋地做其他事情。因此，按项目拖延不会像按天拖延那样引发警报。你太忙了，没有注意到它。
 
-The way to beat it is to stop occasionally and ask yourself: Am I working on what I most want to work on?" When you're young it's ok if the answer is sometimes no, but this gets increasingly dangerous as you get older.
+The way to beat it is to stop occasionally and ask yourself: Am I working on what I most want to work on?" When you're young it's ok if the answer is sometimes no, but this gets increasingly dangerous as you get older.\[[9](http://paulgraham.com/greatwork.html#f9n)\]  
 
-\[[9](http://paulgraham.com/greatwork.html#f9n)\]  
 战胜它的方法是偶尔停下来问自己：我正在做我最想做的事情吗？”当你年轻的时候，如果答案有时是否定的，那也没关系，但随着年龄的增长，这种情况会变得越来越危险。 \[9\]
 
 Great work usually entails spending what would seem to most people an unreasonable amount of time on a problem. You can't think of this time as a cost, or it will seem too high. You have to find the work sufficiently engaging as it's happening.
@@ -286,9 +278,8 @@ Work doesn't just happen when you're trying to. There's a kind of undirected thi
   
 工作不会在你努力的时候发生。当你走路、洗澡或躺在床上时，你会产生一种非常强大的无向思维。通过让你的思绪稍微游离一下，你通常会解决正面攻击无法解决的问题。
 
-You have to be working hard in the normal way to benefit from this phenomenon, though. You can't just walk around daydreaming. The daydreaming has to be interleaved with deliberate work that feeds it questions.
+You have to be working hard in the normal way to benefit from this phenomenon, though. You can't just walk around daydreaming. The daydreaming has to be interleaved with deliberate work that feeds it questions.\[[10](http://paulgraham.com/greatwork.html#f10n)\]  
 
-\[[10](http://paulgraham.com/greatwork.html#f10n)\]  
 不过，你必须以正常的方式努力工作才能从这种现象中受益。你不能只是到处走走做白日梦。白日梦必须与那些为其提出问题的深思熟虑的工作交织在一起。 \[10\]
 
 Everyone knows to avoid distractions at work, but it's also important to avoid them in the other half of the cycle. When you let your mind wander, it wanders to whatever you care about most at that moment. So avoid the kind of distraction that pushes your work out of the top spot, or you'll waste this valuable type of thinking on the distraction instead. (Exception: Don't avoid love.)
@@ -301,9 +292,8 @@ Consciously cultivate your taste in the work done in your field. Until you know 
   
 有意识地培养你对自己领域工作的品味。除非您知道哪一个是最好的以及是什么让它如此，否则您不知道自己的目标是什么。
 
-And that *is* what you're aiming for, because if you don't try to be the best, you won't even be good. This observation has been made by so many people in so many different fields that it might be worth thinking about why it's true. It could be because ambition is a phenomenon where almost all the error is in one direction — where almost all the shells that miss the target miss by falling short. Or it could be because ambition to be the best is a qualitatively different thing from ambition to be good. Or maybe being good is simply too vague a standard. Probably all three are true.
+And that *is* what you're aiming for, because if you don't try to be the best, you won't even be good. This observation has been made by so many people in so many different fields that it might be worth thinking about why it's true. It could be because ambition is a phenomenon where almost all the error is in one direction — where almost all the shells that miss the target miss by falling short. Or it could be because ambition to be the best is a qualitatively different thing from ambition to be good. Or maybe being good is simply too vague a standard. Probably all three are true.\[[11](http://paulgraham.com/greatwork.html#f11n)\]  
 
-\[[11](http://paulgraham.com/greatwork.html#f11n)\]  
 这就是你的目标，因为如果你不努力成为最好的，你就不会优秀。许多不同领域的许多人都做出了这一观察，因此可能值得思考为什么它是正确的。这可能是因为野心是一种现象，几乎所有的错误都在一个方向上——几乎所有未击中目标的炮弹都因未能达到目标而错过。或者可能是因为“成为最好的”的野心与“成为优秀的人”的野心有本质上的不同。或者，也许“善良”这个标准太模糊了。也许这三个都是真的。 \[11\]
 
 Fortunately there's a kind of economy of scale here. Though it might seem like you'd be taking on a heavy burden by trying to be the best, in practice you often end up net ahead. It's exciting, and also strangely liberating. It simplifies things. In some ways it's easier to try to be the best than to try merely to be good.
@@ -326,9 +316,8 @@ Style is doing things in a distinctive way without trying to. Trying to is affec
   
 风格是以独特的方式做事而不是尝试。尝试就是做作。
 
-Affectation is in effect to pretend that someone other than you is doing the work. You adopt an impressive but fake persona, and while you're pleased with the impressiveness, the fakeness is what shows in the work.
+Affectation is in effect to pretend that someone other than you is doing the work. You adopt an impressive but fake persona, and while you're pleased with the impressiveness, the fakeness is what shows in the work.\[[12](http://paulgraham.com/greatwork.html#f12n)\]  
 
-\[[12](http://paulgraham.com/greatwork.html#f12n)\]  
 装腔作势实际上是假装是别人在做这项工作，而不是你。你采用了一个令人印象深刻但虚假的角色，虽然你对这种印象很满意，但作品中却表现出了虚假。 \[12\]
 
 The temptation to be someone else is greatest for the young. They often feel like nobodies. But you never need to worry about that problem, because it's self-solving if you work on sufficiently ambitious projects. If you succeed at an ambitious project, you're not a nobody; you're the person who did it. So just do the work and your identity will take care of itself.
@@ -346,9 +335,8 @@ The core of being earnest is being intellectually honest. We're taught as childr
   
 认真的核心是理智上的诚实。我们从小就被教导要诚实，这是一种无私的美德，也是一种牺牲。但事实上它也是一种力量的来源。要看到新的想法，你需要有一双敏锐的眼睛来发现真相。你正试图看到比其他人迄今为止看到的更多的真相。如果你在智力上不诚实，你怎么能有敏锐的洞察力呢？
 
-One way to avoid intellectual dishonesty is to maintain a slight positive pressure in the opposite direction. Be aggressively willing to admit that you're mistaken. Once you've admitted you were mistaken about something, you're free. Till then you have to carry it.
+One way to avoid intellectual dishonesty is to maintain a slight positive pressure in the opposite direction. Be aggressively willing to admit that you're mistaken. Once you've admitted you were mistaken about something, you're free. Till then you have to carry it.\[[13](http://paulgraham.com/greatwork.html#f13n)\]  
 
-\[[13](http://paulgraham.com/greatwork.html#f13n)\]  
 避免智力欺诈的一种方法是在相反方向保持轻微的正压力。积极主动地承认自己的错误。一旦你承认自己在某件事上犯了错误，你就自由了。到那时你必须携带它。 \[13\]
 
 Another more subtle component of earnestness is informality. Informality is much more important than its grammatically negative name implies. It's not merely the absence of something. It means focusing on what matters instead of what doesn't.
@@ -371,9 +359,8 @@ There may be some jobs where it's an advantage to be cynical and pessimistic, bu
   
 在某些工作中，愤世嫉俗和悲观可能是一种优势，但如果你想做好工作，乐观是一种优势，尽管这意味着你有时会冒着看起来像个傻瓜的风险。有一种反其道而行之的古老传统。旧约说最好保持安静，以免看起来像个傻瓜。但这是显得聪明的建议。如果你真的想发现新事物，最好冒险告诉别人你的想法。
 
-Some people are naturally earnest, and with others it takes a conscious effort. Either kind of earnestness will suffice. But I doubt it would be possible to do great work without being earnest. It's so hard to do even if you are. You don't have enough margin for error to accommodate the distortions introduced by being affected, intellectually dishonest, orthodox, fashionable, or cool.
+Some people are naturally earnest, and with others it takes a conscious effort. Either kind of earnestness will suffice. But I doubt it would be possible to do great work without being earnest. It's so hard to do even if you are. You don't have enough margin for error to accommodate the distortions introduced by being affected, intellectually dishonest, orthodox, fashionable, or cool.\[[14](http://paulgraham.com/greatwork.html#f14n)\]  
 
-\[[14](http://paulgraham.com/greatwork.html#f14n)\]  
 有些人天生就很认真，而另一些人则需要有意识的努力。任何一种认真就足够了。但我怀疑，如果不认真，就不可能做出伟大的工作。即使你是这样，也很难做到。你没有足够的容错余地来适应因受影响、智力上的不诚实、正统、时尚或酷而带来的扭曲。 \[14\]
 
 Great work is consistent not only with who did it, but with itself. It's usually all of a piece. So if you face a decision in the middle of working on something, ask which choice is more consistent.
@@ -456,9 +443,8 @@ If the thing they're focused on is something they don't understand very well, th
   
 如果他们关注的事情是他们不太理解的事情，那么这些新想法可能不好。我认识的一位最具原创性的思想家在离婚后决定专注于约会。他对约会的了解与一般 15 岁的人大致相同，而且约会的结果也非常丰富多彩。但看到原创性与专业知识如此分离，它的本质就变得更加清晰。
 
-I don't know if it's possible to cultivate originality, but there are definitely ways to make the most of however much you have. For example, you're much more likely to have original ideas when you're working on something. Original ideas don't come from trying to have original ideas. They come from trying to build or understand something slightly too difficult.
+I don't know if it's possible to cultivate originality, but there are definitely ways to make the most of however much you have. For example, you're much more likely to have original ideas when you're working on something. Original ideas don't come from trying to have original ideas. They come from trying to build or understand something slightly too difficult.\[[15](http://paulgraham.com/greatwork.html#f15n)\]  
 
-\[[15](http://paulgraham.com/greatwork.html#f15n)\]  
 我不知道是否有可能培养原创性，但肯定有方法可以充分利用你所拥有的一切。例如，当你在做某事时，你更有可能产生原创想法。原创想法并不是来自尝试拥有原创想法。它们来自于尝试构建或理解一些稍微困难的东西。 \[15\]
 
 Talking or writing about the things you're interested in is a good way to generate new ideas. When you try to put ideas into words, a missing idea creates a sort of vacuum that draws it out of you. Indeed, there's a kind of thinking that can only be done by writing.
@@ -466,9 +452,8 @@ Talking or writing about the things you're interested in is a good way to genera
   
 谈论或写下你感兴趣的事情是产生新想法的好方法。当你试图把想法变成文字时，一个缺失的想法会产生一种真空，将你的想法从你身上吸走。确实，有一种思考只能通过写作来完成。
 
-Changing your context can help. If you visit a new place, you'll often find you have new ideas there. The journey itself often dislodges them. But you may not have to go far to get this benefit. Sometimes it's enough just to go for a walk.
+Changing your context can help. If you visit a new place, you'll often find you have new ideas there. The journey itself often dislodges them. But you may not have to go far to get this benefit. Sometimes it's enough just to go for a walk.\[[16](http://paulgraham.com/greatwork.html#f16n)\]  
 
-\[[16](http://paulgraham.com/greatwork.html#f16n)\]  
 改变你的背景会有帮助。如果你去一个新地方，你经常会发现那里有新的想法。旅程本身常常让他们感到流离失所。但您可能不需要走很远就能获得这种好处。有时候，只是去散步就足够了。 \[16\]
 
 It also helps to travel in topic space. You'll have more new ideas if you explore lots of different topics, partly because it gives the angle grinder more surface area to work on, and partly because analogies are an especially fruitful source of new ideas.
@@ -476,9 +461,8 @@ It also helps to travel in topic space. You'll have more new ideas if you explor
   
 它还有助于在主题空间中旅行。如果您探索许多不同的主题，您将会有更多的新想法，部分原因是它为角磨机提供了更多的工作空间，部分原因是类比是新想法特别富有成效的来源。
 
-Don't divide your attention *evenly* between many topics though, or you'll spread yourself too thin. You want to distribute it according to something more like a power law.
+Don't divide your attention *evenly* between many topics though, or you'll spread yourself too thin. You want to distribute it according to something more like a power law.\[[17](http://paulgraham.com/greatwork.html#f17n)\] Be professionally curious about a few topics and idly curious about many more.  
 
-\[[17](http://paulgraham.com/greatwork.html#f17n)\] Be professionally curious about a few topics and idly curious about many more.  
 不过，不要将你的注意力平均分配到许多主题上，否则你的注意力就会分散。你想根据更像幂律的东西来分配它。 \[17\] 对一些主题保持职业好奇，并对更多主题保持闲散好奇。
 
 Curiosity and originality are closely related. Curiosity feeds originality by giving it new things to work on. But the relationship is closer than that. Curiosity is itself a kind of originality; it's roughly to questions what originality is to answers. And since questions at their best are a big component of answers, curiosity at its best is a creative force.
@@ -561,9 +545,8 @@ You could also discover overlooked ideas by working in the other direction: by s
   
 您还可以通过朝另一个方向努力来发现被忽视的想法：从掩盖它们的事物开始。每一个被珍视但被错误的原则都被有价值的想法的死区所包围，这些想法因为与原则相矛盾而未被探索。
 
-Religions are collections of cherished but mistaken principles. So anything that can be described either literally or metaphorically as a religion will have valuable unexplored ideas in its shadow. Copernicus and Darwin both made discoveries of this type.
+Religions are collections of cherished but mistaken principles. So anything that can be described either literally or metaphorically as a religion will have valuable unexplored ideas in its shadow. Copernicus and Darwin both made discoveries of this type.\[[18](http://paulgraham.com/greatwork.html#f18n)\]  
 
-\[[18](http://paulgraham.com/greatwork.html#f18n)\]  
 宗教是珍贵但错误的原则的集合。因此，任何可以从字面上或隐喻上描述为宗教的事物，都将在其阴影下蕴藏着有价值的、未经探索的思想。哥白尼和达尔文都做出了此类发现。 \[18\]
 
 What are people in your field religious about, in the sense of being too attached to some principle that might not be as self-evident as they think? What becomes possible if you discard it?
@@ -631,9 +614,8 @@ This is one of the places where actual expertise differs most from the popular p
   
 这是实际专业知识与流行图片最不同的地方之一。在流行的图景中，专家们是肯定的。但实际上，你越困惑越好，只要（a）你困惑的事情很重要，（b）其他人也没有理解它们。
 
-Think about what's happening at the moment just before a new idea is discovered. Often someone with sufficient expertise is puzzled about something. Which means that originality consists partly of puzzlement — of confusion! You have to be comfortable enough with the world being full of puzzles that you're willing to see them, but not so comfortable that you don't want to solve them.
+Think about what's happening at the moment just before a new idea is discovered. Often someone with sufficient expertise is puzzled about something. Which means that originality consists partly of puzzlement — of confusion! You have to be comfortable enough with the world being full of puzzles that you're willing to see them, but not so comfortable that you don't want to solve them.\[[20](http://paulgraham.com/greatwork.html#f20n)\]  
 
-\[[20](http://paulgraham.com/greatwork.html#f20n)\]  
 想想在发现新想法之前此刻正在发生什么。具有足够专业知识的人常常会对某些事情感到困惑。这意味着原创性部分地包含着困惑——混乱！你必须对这个充满谜题的世界感到足够舒服，以至于你愿意看到它们，但又不能太舒服以至于你不想解决它们。 \[20\]
 
 It's a great thing to be rich in unanswered questions. And this is one of those situations where the rich get richer, because the best way to acquire new questions is to try answering existing ones. Questions don't just lead to answers, but also to more questions.
@@ -651,9 +633,8 @@ It's better to be promiscuously curious — to pull a little bit on a lot of thr
   
 最好保持好奇心——在很多线索上稍微拉一点，看看会发生什么。大事从小事做起。大事情的最初版本通常只是实验、副项目或谈话，然后发展成为更大的事情。所以要从很多小事做起。
 
-Being prolific is underrated. The more different things you try, the greater the chance of discovering something new. Understand, though, that trying lots of things will mean trying lots of things that don't work. You can't have a lot of good ideas without also having a lot of bad ones.
+Being prolific is underrated. The more different things you try, the greater the chance of discovering something new. Understand, though, that trying lots of things will mean trying lots of things that don't work. You can't have a lot of good ideas without also having a lot of bad ones.\[[21](http://paulgraham.com/greatwork.html#f21n)\]  
 
-\[[21](http://paulgraham.com/greatwork.html#f21n)\]  
 多产被低估了。你尝试的不同事物越多，发现新事物的机会就越大。但要明白，尝试很多事情就意味着尝试很多行不通的事情。你不可能在拥有很多好想法的同时也有很多坏想法。 \[21\]
 
 Though it sounds more responsible to begin by studying everything that's been done before, you'll learn faster and have more fun by trying stuff. And you'll understand previous work better when you do look at it. So err on the side of starting. Which is easier when starting means starting small; those two ideas fit together like two puzzle pieces.
@@ -681,9 +662,8 @@ Don't try to cram too much new stuff into any one version. There are names for d
   
 不要试图在任一版本中塞入太多新内容。对于第一个版本（发布时间太长）和第二个版本（第二个系统效果）有一些名称，但这些都只是更普遍原则的实例。
 
-An early version of a new project will sometimes be dismissed as a toy. It's a good sign when people do this. That means it has everything a new idea needs except scale, and that tends to follow.
+An early version of a new project will sometimes be dismissed as a toy. It's a good sign when people do this. That means it has everything a new idea needs except scale, and that tends to follow.\[[22](http://paulgraham.com/greatwork.html#f22n)\]  
 
-\[[22](http://paulgraham.com/greatwork.html#f22n)\]  
 新项目的早期版本有时会被视为玩具而被抛弃。当人们这样做时，这是一个好兆头。这意味着它拥有新想法所需的一切，除了规模之外，而规模往往会随之而来。 \[22\]
 
 The alternative to starting with something small and evolving it is to plan in advance what you're going to do. And planning does usually seem the more responsible choice. It sounds more organized to say "we're going to do x and then y and then z" than "we're going to try x and see what happens." And it is more *organized*; it just doesn't work as well.
@@ -721,14 +701,12 @@ The old also have the advantage of knowing which advantages they have. The young
   
 老年人还有一个好处，就是知道自己有哪些优势。年轻人常常在没有意识到的情况下拥有它们。最大的可能是时间。年轻人不知道自己的时间有多丰富。把这段时间变成优势的最好方法是以稍微无聊的方式来利用它：学习一些你不需要知道的东西，只是出于好奇，或者尝试构建一些东西只是因为它很酷，或者为了变得异常擅长某事。
 
-That "slightly" is an important qualification. Spend time lavishly when you're young, but don't simply waste it. There's a big difference between doing something you worry might be a waste of time and doing something you know for sure will be. The former is at least a bet, and possibly a better one than you think.
+That "slightly" is an important qualification. Spend time lavishly when you're young, but don't simply waste it. There's a big difference between doing something you worry might be a waste of time and doing something you know for sure will be. The former is at least a bet, and possibly a better one than you think.\[[23](http://paulgraham.com/greatwork.html#f23n)\]  
 
-\[[23](http://paulgraham.com/greatwork.html#f23n)\]  
 这个“稍微”是一个重要的限定条件。年轻时要大肆挥霍时间，但不要简单地浪费它。做一些你担心可能会浪费时间的事情和做一些你肯定会浪费时间的事情之间有很大的区别。前者至少是一个赌注，而且可能比你想象的更好。 \[23\]
 
-The most subtle advantage of youth, or more precisely of inexperience, is that you're seeing everything with fresh eyes. When your brain embraces an idea for the first time, sometimes the two don't fit together perfectly. Usually the problem is with your brain, but occasionally it's with the idea. A piece of it sticks out awkwardly and jabs you when you think about it. People who are used to the idea have learned to ignore it, but you have the opportunity not to.
+The most subtle advantage of youth, or more precisely of inexperience, is that you're seeing everything with fresh eyes. When your brain embraces an idea for the first time, sometimes the two don't fit together perfectly. Usually the problem is with your brain, but occasionally it's with the idea. A piece of it sticks out awkwardly and jabs you when you think about it. People who are used to the idea have learned to ignore it, but you have the opportunity not to.\[[24](http://paulgraham.com/greatwork.html#f24n)\]  
 
-\[[24](http://paulgraham.com/greatwork.html#f24n)\]  
 年轻的最微妙的优势，或者更准确地说，缺乏经验的最微妙的优势是，你可以用新鲜的眼光看待一切。当你的大脑第一次接受一个想法时，有时两者并不完美地结合在一起。通常问题出在你的大脑上，但有时问题出在想法上。当你想到它的时候，它的一块笨拙地伸出来，刺痛你。习惯了这个想法的人已经学会了忽视它，但你有机会不这样做。 \[24\]
 
 So when you're learning about something for the first time, pay attention to things that seem wrong or missing. You'll be tempted to ignore them, since there's a 99% chance the problem is with you. And you may have to set aside your misgivings temporarily to keep progressing. But don't forget about them. When you've gotten further into the subject, come back and check if they're still there. If they're still viable in the light of your present knowledge, they probably represent an undiscovered idea.
@@ -786,9 +764,8 @@ People new to a field will often copy existing work. There's nothing inherently 
   
 刚接触某个领域的人经常会抄袭现有的作品。这本身并没有什么坏处。要了解某事物是如何工作的，没有比尝试重现它更好的方法了。抄袭也不一定会使你的作品失去原创性。原创性是新想法的存在，而不是旧想法的缺失。
 
-There's a good way to copy and a bad way. If you're going to copy something, do it openly instead of furtively, or worse still, unconsciously. This is what's meant by the famously misattributed phrase "Great artists steal." The really dangerous kind of copying, the kind that gives copying a bad name, is the kind that's done without realizing it, because you're nothing more than a train running on tracks laid down by someone else. But at the other extreme, copying can be a sign of superiority rather than subordination.
+There's a good way to copy and a bad way. If you're going to copy something, do it openly instead of furtively, or worse still, unconsciously. This is what's meant by the famously misattributed phrase "Great artists steal." The really dangerous kind of copying, the kind that gives copying a bad name, is the kind that's done without realizing it, because you're nothing more than a train running on tracks laid down by someone else. But at the other extreme, copying can be a sign of superiority rather than subordination.\[[25](http://paulgraham.com/greatwork.html#f25n)\]  
 
-\[[25](http://paulgraham.com/greatwork.html#f25n)\]  
 复制有一种好方法，也有一种坏方法。如果你要复制某些东西，请公开地进行，而不是偷偷地进行，或者更糟糕的是，无意识地进行。这就是著名的错误说法“伟大的艺术家偷窃”的含义。真正危险的抄袭，也就是给抄袭带来坏名声的抄袭，是在没有意识到的情况下进行的，因为你只不过是一列在别人铺设的轨道上行驶的火车。但在另一个极端，抄袭可能是优越而非从属的标志。 \[25\]
 
 In many fields it's almost inevitable that your early work will be in some sense based on other people's. Projects rarely arise in a vacuum. They're usually a reaction to previous work. When you're first starting out, you don't have any previous work; if you're going to react to something, it has to be someone else's. Once you're established, you can react to your own. But while the former gets called derivative and the latter doesn't, structurally the two cases are more similar than they seem.
@@ -831,9 +808,8 @@ Negative examples can be as inspiring as positive ones. In fact you can sometime
   
 反面例子和正面例子一样鼓舞人心。事实上，有时你可以从做得不好的事情中学到比做得好的事情更多的东西；有时只有当缺少什么时才清楚需要什么。
 
-If a lot of the best people in your field are collected in one place, it's usually a good idea to visit for a while. It will increase your ambition, and also, by showing you that these people are human, increase your self-confidence.
+If a lot of the best people in your field are collected in one place, it's usually a good idea to visit for a while. It will increase your ambition, and also, by showing you that these people are human, increase your self-confidence.\[[26](http://paulgraham.com/greatwork.html#f26n)\]  
 
-\[[26](http://paulgraham.com/greatwork.html#f26n)\]  
 如果您所在领域的许多最优秀的人都聚集在一个地方，那么访问一段时间通常是个好主意。它会增加你的野心，并且通过向你展示这些人是人，增加你的自信心。 \[26\]
 
 If you're earnest you'll probably get a warmer welcome than you might expect. Most people who are very good at something are happy to talk about it with anyone who's genuinely interested. If they're really good at their work, then they probably have a hobbyist's interest in it, and hobbyists always want to talk about their hobbies.
@@ -866,9 +842,8 @@ How do you know when you have sufficiently good colleagues? In my experience, wh
   
 你怎么知道你是否拥有足够优秀的同事？根据我的经验，当你这样做时，你就知道了。这意味着如果您不确定，您可能就不确定。但也许可以给出比这更具体的答案。这是一种尝试：足够优秀的同事提供令人惊讶的见解。他们可以看到并做你看不到的事情。因此，如果你有几个同事足以让你在这个意义上保持警惕，那么你可能已经跨过了门槛。
 
-Most of us can benefit from collaborating with colleagues, but some projects require people on a larger scale, and starting one of those is not for everyone. If you want to run a project like that, you'll have to become a manager, and managing well takes aptitude and interest like any other kind of work. If you don't have them, there is no middle path: you must either force yourself to learn management as a second language, or avoid such projects.
+Most of us can benefit from collaborating with colleagues, but some projects require people on a larger scale, and starting one of those is not for everyone. If you want to run a project like that, you'll have to become a manager, and managing well takes aptitude and interest like any other kind of work. If you don't have them, there is no middle path: you must either force yourself to learn management as a second language, or avoid such projects.\[[27](http://paulgraham.com/greatwork.html#f27n)\]  
 
-\[[27](http://paulgraham.com/greatwork.html#f27n)\]  
 我们大多数人都可以从与同事的合作中受益，但有些项目需要更大规模的人员，而启动其中一个项目并不适合所有人。如果你想管理这样的项目，你就必须成为一名经理，而像任何其他类型的工作一样，良好的管理需要天赋和兴趣。如果你没有它们，就没有中间道路：你必须强迫自己学习管理作为第二语言，或者避免此类项目。 \[27\]
 
 Husband your morale. It's the basis of everything when you're working on ambitious projects. You have to nurture and protect it like a living organism.
@@ -916,9 +891,8 @@ An audience is a critical component of morale. If you're a scholar, your audienc
   
 观众是士气的重要组成部分。如果你是学者，你的听众可能是你的同行；在艺术上，可能是传统意义上的观众。不管怎样，它不需要很大。观众的价值不会随其规模线性增长。如果你很有名，这就是个坏消息，但如果你刚刚起步，这就是个好消息，因为这意味着少量但专注的观众足以支撑你。如果有少数人真正喜欢你所做的事情，那就足够了。
 
-To the extent you can, avoid letting intermediaries come between you and your audience. In some types of work this is inevitable, but it's so liberating to escape it that you might be better off switching to an adjacent type if that will let you go direct.
+To the extent you can, avoid letting intermediaries come between you and your audience. In some types of work this is inevitable, but it's so liberating to escape it that you might be better off switching to an adjacent type if that will let you go direct.\[[28](http://paulgraham.com/greatwork.html#f28n)\]  
 
-\[[28](http://paulgraham.com/greatwork.html#f28n)\]  
 尽可能避免让中间人介入您和观众之间。在某些类型的工作中，这是不可避免的，但逃避它是如此自由，如果可以让你直接进行，你最好切换到相邻的类型。 \[28\]
 
 The people you spend time with will also have a big effect on your morale. You'll find there are some who increase your energy and others who decrease it, and the effect someone has is not always what you'd expect. Seek out the people who increase your energy and avoid those who decrease it. Though of course if there's someone you need to take care of, that takes precedence.
@@ -931,9 +905,8 @@ Don't marry someone who doesn't understand that you need to work, or sees your w
   
 不要嫁给一个不明白你需要工作，或者认为你的工作是对你注意力的竞争的人。如果你有野心，你需要努力；这几乎就像一种健康状况；所以不让你工作的人要么不理解你，要么理解你但不在乎。
 
-Ultimately morale is physical. You think with your body, so it's important to take care of it. That means exercising regularly, eating and sleeping well, and avoiding the more dangerous kinds of drugs. Running and walking are particularly good forms of exercise because they're good for thinking.
+Ultimately morale is physical. You think with your body, so it's important to take care of it. That means exercising regularly, eating and sleeping well, and avoiding the more dangerous kinds of drugs. Running and walking are particularly good forms of exercise because they're good for thinking.\[[29](http://paulgraham.com/greatwork.html#f29n)\]  
 
-\[[29](http://paulgraham.com/greatwork.html#f29n)\]  
 最终，士气是身体上的。你用你的身体思考，所以照顾好它很重要。这意味着定期锻炼、良好饮食和睡眠，并避免使用更危险的药物。跑步和步行是特别好的锻炼方式，因为它们有利于思考。 \[29\]
 
 People who do great work are not necessarily happier than everyone else, but they're happier than they'd be if they didn't. In fact, if you're smart and ambitious, it's dangerous *not* to be productive. People who are smart and ambitious but don't achieve much tend to become bitter.
@@ -1019,15 +992,19 @@ The discoveries are out there, waiting to be made. Why not by you?
 **Notes 笔记**
 
 \[1\] I don't think you could give a precise definition of what counts as great work. Doing great work means doing something important so well that you expand people's ideas of what's possible. But there's no threshold for importance. It's a matter of degree, and often hard to judge at the time anyway. So I'd rather people focused on developing their interests rather than worrying about whether they're important or not. Just try to do something amazing, and leave it to future generations to say if you succeeded.  
+
 \[1\] 我认为你无法对什么是伟大的工作给出准确的定义。出色的工作意味着将重要的事情做得很好，从而扩展人们对可能性的想法。但重要性没有门槛。这是一个程度问题，而且当时通常很难判断。所以我宁愿人们专注于发展自己的兴趣，而不是担心它们是否重要。尝试做一些令人惊奇的事情，并让子孙后代来评判你是否成功。
 
 \[2\] A lot of standup comedy is based on noticing anomalies in everyday life. "Did you ever notice...?" New ideas come from doing this about nontrivial things. Which may help explain why people's reaction to a new idea is often the first half of laughing: Ha!  
+
 \[2\] 许多单口喜剧都是基于注意到日常生活中的异常现象。 “你有没有注意到……？”新的想法来自于对不平凡的事情这样做。这可能有助于解释为什么人们对新想法的反应往往是前半部分大笑：哈！
 
 \[3\] That second qualifier is critical. If you're excited about something most authorities discount, but you can't give a more precise explanation than "they don't get it," then you're starting to drift into the territory of cranks.  
+
 \[3\] 第二场预选赛至关重要。如果你对大多数权威人士都忽视的东西感到兴奋，但你无法给出比“他们不明白”更精确的解释，那么你就开始陷入怪人的领域。
 
 \[4\] Finding something to work on is not simply a matter of finding a match between the current version of you and a list of known problems. You'll often have to coevolve with the problem. That's why it can sometimes be so hard to figure out what to work on. The search space is huge. It's the cartesian product of all possible types of work, both known and yet to be discovered, and all possible future versions of you.  
+
 \[4\] 找到需要解决的问题并不仅仅是在你当前的版本和一系列已知问题之间找到匹配的问题。你常常必须与问题共同发展。这就是为什么有时很难弄清楚该做什么。搜索空间巨大。它是所有可能的工作类型（已知的和尚未发现的）以及所有可能的未来版本的笛卡尔积。
 
 There's no way you could search this whole space, so you have to rely on heuristics to generate promising paths through it and hope the best matches will be clustered. Which they will not always be; different types of work have been collected together as much by accidents of history as by the intrinsic similarities between them.
@@ -1036,51 +1013,65 @@ There's no way you could search this whole space, so you have to rely on heurist
 您无法搜索整个空间，因此您必须依靠启发式方法来生成有希望的路径，并希望能够聚集最佳匹配。但他们不会永远如此；不同类型的作品之所以被聚集在一起，既是由于历史的偶然性，也是由于它们之间的内在相似性。
 
 \[5\] There are many reasons curious people are more likely to do great work, but one of the more subtle is that, by casting a wide net, they're more likely to find the right thing to work on in the first place.  
+
 \[5\] 好奇的人更有可能做出出色的工作，原因有很多，但其中一个更微妙的原因是，通过广泛撒网，他们更有可能在一开始就找到正确的事情。
 
 \[6\] It can also be dangerous to make things for an audience you feel is less sophisticated than you, if that causes you to talk down to them. You can make a lot of money doing that, if you do it in a sufficiently cynical way, but it's not the route to great work. Not that anyone using this m.o. would care.  
 \[6\] 为你认为不如你成熟的观众制作东西也可能是危险的，如果这会导致你居高临下地与他们交谈。如果你以一种足够愤世嫉俗的方式去做的话，你可以赚很多钱，但这并不是通往伟大工作的道路。并不是说有人使用这个 m.o.会关心的。
 
 \[7\] This idea I learned from Hardy's *A Mathematician's Apology*, which I recommend to anyone ambitious to do great work, in any field.  
+
 \[7\] 这个想法是我从哈代的《数学家的道歉》中学到的，我向任何有志于在任何领域做出伟大工作的人推荐这本书。
 
 \[8\] Just as we overestimate what we can do in a day and underestimate what we can do over several years, we overestimate the damage done by procrastinating for a day and underestimate the damage done by procrastinating for several years.  
+
 \[8\] 正如我们高估一天能做的事情，低估几年能做的事情一样，我们高估了拖延一天造成的损害，低估了拖延几年造成的损害。
 
 \[9\] You can't usually get paid for doing exactly what you want, especially early on. There are two options: get paid for doing work close to what you want and hope to push it closer, or get paid for doing something else entirely and do your own projects on the side. Both can work, but both have drawbacks: in the first approach your work is compromised by default, and in the second you have to fight to get time to do it.  
 \[9\] 你通常无法因为完全按照自己的意愿去做而获得报酬，尤其是在早期。有两种选择：通过做接近你想要的事情并希望更接近你想要的事情来获得报酬，或者通过完全做其他事情来获得报酬并兼职做你自己的项目。两者都可以工作，但都有缺点：在第一种方法中，默认情况下你的工作会受到影响，而在第二种方法中，你必须争取时间来完成它。
 
 \[10\] If you set your life up right, it will deliver the focus-relax cycle automatically. The perfect setup is an office you work in and that you walk to and from.  
+
 \[10\] 如果你的生活安排得当，它会自动实现专注-放松的循环。完美的环境是您工作、步行往返的办公室。
 
 \[11\] There may be some very unworldly people who do great work without consciously trying to. If you want to expand this rule to cover that case, it becomes: Don't try to be anything except the best.  
+
 \[11\] 可能有一些非常不谙世事的人在没有有意识地努力的情况下做出了伟大的工作。如果你想扩展这条规则来涵盖这种情况，它就会变成：除了最好之外，不要试图成为任何人。
 
 \[12\] This gets more complicated in work like acting, where the goal is to adopt a fake persona. But even here it's possible to be affected. Perhaps the rule in such fields should be to avoid *unintentional* affectation.  
+
 \[12\] 这在表演等工作中变得更加复杂，其目标是采用假角色。但即使在这里也可能受到影响。也许这些领域的规则应该是避免无意识的矫揉造作。
 
 \[13\] It's safe to have beliefs that you treat as unquestionable if and only if they're also unfalsifiable. For example, it's safe to have the principle that everyone should be treated equally under the law, because a sentence with a "should" in it isn't really a statement about the world and is therefore hard to disprove. And if there's no evidence that could disprove one of your principles, there can't be any facts you'd need to ignore in order to preserve it.  
+
 \[13\] 当且仅当它们也是不可证伪的时，你认为无可置疑的信念才是安全的。例如，遵循法律面前人人平等的原则是安全的，因为带有“应该”的句子实际上并不是关于世界的陈述，因此很难反驳。如果没有证据可以反驳你的一项原则，那么你就不需要为了维护它而忽略任何事实。
 
 \[14\] Affectation is easier to cure than intellectual dishonesty. Affectation is often a shortcoming of the young that burns off in time, while intellectual dishonesty is more of a character flaw.  
+
 \[14\] 矫揉造作比理智上的不诚实更容易治愈。矫揉造作往往是年轻人的一个缺点，随着时间的推移就会消失，而理智上的不诚实则更多的是一种性格缺陷。
 
-\15\] Obviously you don't have to be working at the exact moment you have the idea, but you'll probably have been working fairly recently.  
+\[15\] Obviously you don't have to be working at the exact moment you have the idea, but you'll probably have been working fairly recently.  
+
 \[15\] 显然，你不必在产生想法的那一刻开始工作，但你可能最近才开始工作。
 
 \[16\] Some say psychoactive drugs have a similar effect. I'm skeptical, but also almost totally ignorant of their effects.  
+
 \[16\] 有人说精神药物也有类似的效果。我对此表示怀疑，但也几乎完全不知道它们的影响。
 
 \[17\] For example you might give the nth most important topic (m-1)/m^n of your attention, for some m > 1. You couldn't allocate your attention so precisely, of course, but this at least gives an idea of a reasonable distribution.  
+
 \[17\] 例如，您可能会给出您注意力的第 n 个最重要的主题 (m-1)/m^n，对于某些 m > 1。当然，您无法如此精确地分配您的注意力，但这至少给出了合理分配的想法。
 
 \[18\] The principles defining a religion have to be mistaken. Otherwise anyone might adopt them, and there would be nothing to distinguish the adherents of the religion from everyone else.  
+
 \[18\] 定义宗教的原则一定是错误的。否则任何人都可能采用它们，那么就没有什么可以将宗教信徒与其他人区分开来。
 
 \[19\] It might be a good exercise to try writing down a list of questions you wondered about in your youth. You might find you're now in a position to do something about some of them.  
+
 \[19\] 尝试写下你年轻时想知道的问题清单可能是一个很好的练习。您可能会发现您现在可以对其中一些问题采取一些措施。
 
 \[20\] The connection between originality and uncertainty causes a strange phenomenon: because the conventional-minded are more certain than the independent-minded, this tends to give them the upper hand in disputes, even though they're generally stupider.  
+
 \[20\] 原创性和不确定性之间的联系导致了一个奇怪的现象：因为传统思维的人比独立思维的人更有确定性，这往往使他们在争论中占据上风，尽管他们通常更愚蠢。
 
 > The best lack all conviction, while the worst  
@@ -1089,28 +1080,37 @@ There's no way you could search this whole space, so you have to rely on heurist
 > 都充满了热情的强度。
 
 \[21\] Derived from Linus Pauling's "If you want to have good ideas, you must have many ideas."  
+
 \[21\] 源自莱纳斯·鲍林的“如果你想有好想法，你必须有很多想法”。
 
 \[22\] Attacking a project as a "toy" is similar to attacking a statement as "inappropriate." It means that no more substantial criticism can be made to stick.  
+
 \[22\] 将项目攻击为“玩具”类似于将声明攻击为“不恰当”。这意味着不能再提出更多实质性的批评了。
 
 \[23\] One way to tell whether you're wasting time is to ask if you're producing or consuming. Writing computer games is less likely to be a waste of time than playing them, and playing games where you create something is less likely to be a waste of time than playing games where you don't.  
+
 \[23\] 判断你是否在浪费时间的一种方法是询问你是否在生产或消费。编写电脑游戏比玩电脑游戏更不可能浪费时间，而玩你自己创造的游戏比玩你不创造的游戏更不可能浪费时间。
 
 \[24\] Another related advantage is that if you haven't said anything publicly yet, you won't be biased toward evidence that supports your earlier conclusions. With sufficient integrity you could achieve eternal youth in this respect, but few manage to. For most people, having previously published opinions has an effect similar to ideology, just in quantity 1.  
+
 \[24\] 另一个相关的优势是，如果你还没有公开说过任何话，你就不会偏向支持你之前结论的证据。只要有足够的正直，你就可以在这方面实现永葆青春，但很少有人能做到。对于大多数人来说，之前发表过的观点具有与意识形态类似的效果，只是数量为 1。
 
 \[25\] In the early 1630s Daniel Mytens made a painting of Henrietta Maria handing a laurel wreath to Charles I. Van Dyck then painted his own version to show how much better he was.  
+
 \[25\] 1630 年代初，丹尼尔·迈滕斯 (Daniel Mytens) 创作了一幅亨丽埃塔·玛丽亚 (Henrietta Maria) 向查理一世 (Charles I) 递上月桂花环的画作。范戴克 (Van Dyck) 随后画了自己的版本，以显示自己的进步有多大。
 
 \[26\] I'm being deliberately vague about what a place is. As of this writing, being in the same physical place has advantages that are hard to duplicate, but that could change.  
+
 \[26\] 我故意对“地方”一词含糊其辞。截至撰写本文时，处于同一个物理位置具有难以复制的优势，但这种情况可能会改变。
 
 \[27\] This is false when the work the other people have to do is very constrained, as with SETI@home or Bitcoin. It may be possible to expand the area in which it's false by defining similarly restricted protocols with more freedom of action in the nodes.  
+
 \[27\] 当其他人必须做的工作非常有限时，就像 SETI@home 或比特币一样，这是错误的。通过定义类似的限制协议并在节点中提供更多的行动自由度，可以扩大错误的范围。
 
 \[28\] Corollary: Building something that enables people to go around intermediaries and engage directly with their audience is probably a good idea.  
+
 \[28\] 推论：建立一些能让人们绕过中介并直接与受众互动的东西可能是一个好主意。
 
 \[29\] It may be helpful always to walk or run the same route, because that frees attention for thinking. It feels that way to me, and there is some historical evidence for it.  
+
 \[29\] 始终走或跑同一条路线可能会有所帮助，因为这样可以释放思考的注意力。我有这种感觉，并且有一些历史证据可以证明这一点。
