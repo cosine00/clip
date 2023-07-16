@@ -9,6 +9,7 @@
 
 ## 目录
 
+- 2023-07-16 [激发亚当·斯密灵感的小玩意和小玩意](2023/07/16/Gadgets-and-Gizmos-That-Inspired-Adam-Smith/index.html)
 - 2023-07-15 [＃153：重新思考“周末计划](2023/07/15/153-Rethinking-“weekend-plans”/index.html)
 - 2023-07-15 [《2007 年南加州大学法学院毕业典礼致辞》](2023/07/15/2007-USC-Law-School-Commencement-Address/index.html)
 - 2023-07-15 [放大它](2023/07/15/Amp-It-Up/index.html)
