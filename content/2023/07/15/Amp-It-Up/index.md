@@ -84,11 +84,11 @@ Here are some [questions](https://longform.asmartbear.com/posts/extreme-question
 -   If we had 10x the money, what would we do differently?  
     如果我们有十倍的钱，我们会采取什么不同的做法？
 
-The slower a company moves, the more people suffer from the “End of History Illusion,” where they think the company’s reached its apex of progress. Speed of innovation shows people how radically different the future can be. Fighting The End of History Illusion is why Jeff Bezos wrote “It’s Always Day 1” in his first shareholder letter. At Amazon, he worked in a building called Day 1, and he took the name with him when he moved offices.<sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">2</a></sup>  
+The slower a company moves, the more people suffer from the “End of History Illusion,” where they think the company’s reached its apex of progress. Speed of innovation shows people how radically different the future can be. Fighting The End of History Illusion is why Jeff Bezos wrote “It’s Always Day 1” in his first shareholder letter. At Amazon, he worked in a building called Day 1, and he took the name with him when he moved offices.[^2]
 
 公司发展得越慢，就有越多的人遭受“历史终结幻觉”的困扰，他们认为公司已经达到了进步的顶峰。创新的速度向人们展示了未来有多么的不同。与历史终结幻想作斗争是杰夫·贝佐斯在他的第一封股东信中写下“永远是第一天”的原因。在亚马逊，他在一座名为 Day 1 的大楼里工作，当他搬迁办公室时，他也带着这个名字。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">2</a></sup>
 
-Speed matters in business. Day 1 companies make quick, high-quality decisions. Day 2 companies make them slowly. Day 2 companies are slow because they’re culturally uncomfortable making decisions with limited information. Bezos says most decisions should be made with roughly 70% of the information you wish you had. If you’re always waiting for 90%, you’ll move too slowly. And besides, the costs of being wrong are usually less than you think, so long as you quickly course-correct.<sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">3</a></sup>  
+Speed matters in business. Day 1 companies make quick, high-quality decisions. Day 2 companies make them slowly. Day 2 companies are slow because they’re culturally uncomfortable making decisions with limited information. Bezos says most decisions should be made with roughly 70% of the information you wish you had. If you’re always waiting for 90%, you’ll move too slowly. And besides, the costs of being wrong are usually less than you think, so long as you quickly course-correct.[^3] 
 
 速度在商业中很重要。第一天公司就做出快速、高质量的决策。第二天公司慢慢地制作它们。第二天的公司进展缓慢，因为他们在文化上不习惯利用有限的信息做出决策。贝索斯表示，大多数决策应该根据您希望掌握的大约 70% 的信息来做出。如果你总是等待 90%，你就会进展得太慢。此外，只要你能迅速纠正方向，犯错的代价通常比你想象的要低。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">3</a></sup>
 
@@ -188,15 +188,15 @@ People resist focus because they can’t decide what’s important. Prioritizati
 
 人们抗拒集中注意力，因为他们无法决定什么是重要的。优先顺序让他们感到害怕。他们得了“闪亮物体综合症”，即他们涌向热门的新事物，而不是在最终重要的事情上加倍、三倍或四倍的努力。每个人的范围都会扩大，除非你用明确而具体的目标来限制它。
 
-My friend Joe, the principal of Alpha School, says his three commitments over and over again because repetition is the twin sister of prioritization.<sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">4</a></sup> If you can’t remember it, you can’t prioritize it. This is why nearly every successful entrepreneur masters the art of repetition. They’re memelords — they identify the most important variables for their company, codify them into principles, and relentlessly repeat them without ever losing chutzpah. The right mantras, said repeatedly, are mind-viruses. They change society by changing minds.  
+My friend Joe, the principal of Alpha School, says his three commitments over and over again because repetition is the twin sister of prioritization.[^4] If you can’t remember it, you can’t prioritize it. This is why nearly every successful entrepreneur masters the art of repetition. They’re memelords — they identify the most important variables for their company, codify them into principles, and relentlessly repeat them without ever losing chutzpah. The right mantras, said repeatedly, are mind-viruses. They change society by changing minds.  
 
 我的朋友乔，阿尔法学校的校长，一遍又一遍地说出他的三项承诺，因为重复是优先顺序的孪生姐妹。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">4</a></sup> 如果你不记得它，你就无法优先考虑它。这就是为什么几乎每个成功的企业家都掌握了重复的艺术。他们是记忆大师——他们确定公司最重要的变量，将其编入原则，并不断地重复它们，但又不失肆无忌惮。人们一再强调，正确的咒语是心灵病毒。他们通过改变思想来改变社会。
 
-Prioritize prioritization. Move faster by focusing more. A company isn’t focused enough unless it’s heartbroken about the projects it’s rejecting (this is good writing advice too).<sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">5</a></sup>优
+Prioritize prioritization. Move faster by focusing more. A company isn’t focused enough unless it’s heartbroken about the projects it’s rejecting (this is good writing advice too).[^5]
 
-先排序。通过更加集中注意力，移动得更快。除非一家公司对其拒绝的项目感到心碎，否则它就不够专注（这也是很好的写作建议）。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">5</a></sup>  
+优先排序。通过更加集中注意力，移动得更快。除非一家公司对其拒绝的项目感到心碎，否则它就不够专注（这也是很好的写作建议）。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">5</a></sup>  
 
-The sharper the point of an object, the faster it can travel. The Concorde had the sharpest point of all and is the fastest commercial jetliner of all-time. Bullet trains are the same. Focus makes organizations fast by making them pointy. Every additional project creates drag. Yes, every single one.<sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">6</a></sup>  
+The sharper the point of an object, the faster it can travel. The Concorde had the sharpest point of all and is the fastest commercial jetliner of all-time. Bullet trains are the same. Focus makes organizations fast by making them pointy. Every additional project creates drag. Yes, every single one.[^6]
 
 物体的尖端越锋利，它的移动速度就越快。协和式飞机拥有所有飞机中最锋利的点，并且是有史以来速度最快的商用喷气式飞机。子弹头列车也是一样的。专注使组织变得尖锐，从而使组织变得更快。每增加一个项目都会产生阻力。是的，每一个。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">6</a></sup>
 
@@ -276,7 +276,7 @@ Strategy is important, but you shouldn’t hire “strategists.” Operators sho
 
 战略很重要，但你不应该雇佣“战略家”。运营商应该制定策略。问题在于运营商和战略家的激励措施不一致。斯洛特曼说，伟大的经营者生活、呼吸并拥有自己的策略。
 
-Strategy begins at the top.<sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">7</a></sup> The Chief Executive Officer is the Chief Strategy Officer too. Many companies employ people who do nothing but set strategy. They’re effectively in-house consultants with no operational responsibilities. When the going gets tough, some of them even delegate their strategy to suits at consulting firms who can tell them what to do.  
+Strategy begins at the top.[^7] The Chief Executive Officer is the Chief Strategy Officer too. Many companies employ people who do nothing but set strategy. They’re effectively in-house consultants with no operational responsibilities. When the going gets tough, some of them even delegate their strategy to suits at consulting firms who can tell them what to do.  
 
 战略从高层开始。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">7</a></sup> 首席执行官也是首席战略官。许多公司雇佣的员工除了制定战略之外什么都不做。他们实际上是内部顾问，没有运营责任。当事情变得艰难时，他们中的一些人甚至将他们的策略委托给咨询公司的高管，他们可以告诉他们该怎么做。
 
@@ -288,7 +288,7 @@ Every company makes hiring mistakes. Most first-time founders fire poor performe
 
 每个公司都会犯招聘错误。大多数首次创始人解雇表现不佳的员工的速度太慢。杀死你组织的不是 C 级人才。每个人都知道他们需要离开。是 B 级玩家毁掉了它。他们是平庸的人，足够优秀，可以留下来，但他们昏昏欲睡。它们使组织变得庞大，从而减慢组织的速度。
 
-And the decline doesn’t just come from slowness. It comes from a failure to uphold the quality bar too. Standards fall. The work loses its magic. When commitment to excellence fades, the top performers look for other jobs.<sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">8</a></sup>  
+And the decline doesn’t just come from slowness. It comes from a failure to uphold the quality bar too. Standards fall. The work loses its magic. When commitment to excellence fades, the top performers look for other jobs.[^8]
 
 下降不仅仅源于缓慢。这也源于未能坚持质量标准。标准下降。作品失去了魔力。当对卓越的承诺消失时，表现最好的人就会寻找其他工作。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes">8</a></sup>
 
@@ -348,26 +348,42 @@ Amp It Up 是 Write of Passage 的座右铭之一。当你运用“Amp It Up”�
 脚注
 
 [^1]: As Venkatesh Rao once wrote: “Sustainable growth only comes from renewal of core. Otherwise you’re not growing, you’re harvesting. Discovery vs growth as an either/or is the ossification trap.”  
+
     正如 Venkatesh Rao 曾经写道：“可持续增长只能来自于核心的更新。否则你就不是在成长，而是在收获。发现与增长的非此即彼是僵化陷阱。”  
     [Jump back 跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note1)
-2.  The more concrete the vision, the more inspiring it’ll be. In the case of Amazon, it’s hard to get excited about another online bookstore. It’s easy to get excited about “The Everything Store.”  
+
+[^2]: The more concrete the vision, the more inspiring it’ll be. In the case of Amazon, it’s hard to get excited about another online bookstore. It’s easy to get excited about “The Everything Store.”  
+
     愿景越具体，就越鼓舞人心。就亚马逊而言，很难对另一家在线书店感到兴奋。人们很容易对“万能商店”感到兴奋。  
     [Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note2)
-3.  In the war against incrementalism, Slootman likes to ask CEOs: “How fast can the company grow if they pull all the stops? Can the business start amping up and go \[exponential\] at some point? When?” Rarely do they have compelling answers to these questions, which implies a lack of transcendent thinking.  
+
+[^3]: In the war against incrementalism, Slootman likes to ask CEOs: “How fast can the company grow if they pull all the stops? Can the business start amping up and go \[exponential\] at some point? When?” Rarely do they have compelling answers to these questions, which implies a lack of transcendent thinking.  
+
     在反对渐进主义的战争中，斯洛特曼喜欢问首席执行官们：“如果他们全力以赴，公司能增长多快？业务能否开始加速并在某个时候呈指数级增长？什么时候？”他们很少对这些问题给出令人信服的答案，这意味着他们缺乏超越性的思维。  
     [Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note3)
-4.  Alpha’s commitments are (1) love school, (2) learn twice as fast, and (3) learn life skills. We’ve adopted something similar for our Flagship program.  
+
+[^4]: Alpha’s commitments are (1) love school, (2) learn twice as fast, and (3) learn life skills. We’ve adopted something similar for our Flagship program.  
+
     Alpha 的承诺是 (1) 热爱学校，(2) 学习速度加倍，以及 (3) 学习生活技能。我们的旗舰计划采用了类似的方法。  
     [Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note4)
-5.  Stephen King famously said “kill your darlings.”  
+
+[^5]: Stephen King famously said “kill your darlings.”  
+
     斯蒂芬·金有句名言：“杀死你的宝贝”。  
     [Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note5)
-6.  At Google X, their Moonshots division, they dedicate one day per year to celebrating the projects they’ve killed because it means they’re focusing.  
+
+[^6]: At Google X, their Moonshots division, they dedicate one day per year to celebrating the projects they’ve killed because it means they’re focusing.  
+
     在 Google X，他们的 Moonshots 部门，他们每年专门有一天来庆祝他们已经终止的项目，因为这意味着他们正在专注。  
     [Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note6)
-7.   I once had a conversation with a very successful public equities investor. When a friend successfully refuted his argument, he immediately changed his mind. No pride. No ego. No emotional attachment. The ability to change your mind is a surprisingly rare skill, and it’s one reason why he’s such a successful investor. Leaders must be able to change their minds too. You don’t get points for coming up with the solution. You get points for being right and building a successful business. It doesn’t matter who comes up with the idea. In business, as with investing, you’re going to get things wrong. It’s okay if you’re quick to recognize and correct your mistakes.  
+
+
+[^7]: I once had a conversation with a very successful public equities investor. When a friend successfully refuted his argument, he immediately changed his mind. No pride. No ego. No emotional attachment. The ability to change your mind is a surprisingly rare skill, and it’s one reason why he’s such a successful investor. Leaders must be able to change their minds too. You don’t get points for coming up with the solution. You get points for being right and building a successful business. It doesn’t matter who comes up with the idea. In business, as with investing, you’re going to get things wrong. It’s okay if you’re quick to recognize and correct your mistakes.  
+
     我曾经与一位非常成功的公共股票投资者进行过交谈。当一位朋友成功反驳了他的论点后，他立即改变了主意。没有骄傲。没有自我。没有情感依恋。改变主意的能力是一种罕见的技能，这也是他成为如此成功的投资者的原因之一。领导者也必须能够改变想法。你不会因提出解决方案而获得积分。您因正确并建立成功的企业而获得积分。谁想出这个主意并不重要。在商业中，就像投资一样，你可能会犯错。如果你能很快认识到并改正自己的错误，那也没关系。  
     [Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note7)
-8.   You can only get higher standards and faster speeds if you narrow the focus.   
+
+[^8]: You can only get higher standards and faster speeds if you narrow the focus.  
+ 
     只有缩小焦点，才能获得更高的标准和更快的速度。  
     [Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note8)
