@@ -369,5 +369,5 @@ Alpha 的承诺是 (1) 热爱学校，(2) 学习速度加倍，以及 (3) 学习
 [^7]: I once had a conversation with a very successful public equities investor. When a friend successfully refuted his argument, he immediately changed his mind. No pride. No ego. No emotional attachment. The ability to change your mind is a surprisingly rare skill, and it’s one reason why he’s such a successful investor. Leaders must be able to change their minds too. You don’t get points for coming up with the solution. You get points for being right and building a successful business. It doesn’t matter who comes up with the idea. In business, as with investing, you’re going to get things wrong. It’s okay if you’re quick to recognize and correct your mistakes.  
 我曾经与一位非常成功的公共股票投资者进行过交谈。当一位朋友成功反驳了他的论点后，他立即改变了主意。没有骄傲。没有自我。没有情感依恋。改变主意的能力是一种罕见的技能，这也是他成为如此成功的投资者的原因之一。领导者也必须能够改变想法。你不会因提出解决方案而获得积分。您因正确并建立成功的企业而获得积分。谁想出这个主意并不重要。在商业中，就像投资一样，你可能会犯错。如果你能很快认识到并改正自己的错误，那也没关系。
 
-[^8]: You can only get higher standards and faster speeds if you narrow the focus.  
+[ ^8 ]: You can only get higher standards and faster speeds if you narrow the focus.  
 只有缩小焦点，才能获得更高的标准和更快的速度。  
