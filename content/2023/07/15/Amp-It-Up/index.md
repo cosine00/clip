@@ -59,9 +59,9 @@ People who work incrementally inch forward instead of taking bold leaps. They ma
 
 人们会循序渐进地前进，而不是大胆跨越。他们做出胆怯的决定是因为他们厌恶风险。他们在恐惧中工作，因为大多数公司的失误都会受到严厉的惩罚。但如果你只追求边际改进，那么你只会取得边际进步。渐进主义会杀死你的公司，逐渐使其陷入停滞和停滞。  
 
-Avoiding risk is the riskiest strategy of all. Companies, like living organisms, need to constantly reinvent themselves.<sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes" data-type="internal" data-id="#footnotes">1</a></sup>  
+Avoiding risk is the riskiest strategy of all. Companies, like living organisms, need to constantly reinvent themselves.[^1]
 
-避免风险是所有策略中风险最大的。公司就像生物体一样，需要不断地重塑自我。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://writeofpassage.school/2023/02/10/amp-it-up/#footnotes" data-type="internal" data-id="#footnotes">1</a></sup>
+避免风险是所有策略中风险最大的。公司就像生物体一样，需要不断地重塑自我。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://clip.citrusea.cc/2023/07/15/Amp-it-up/#footnotes" data-type="internal" data-id="#footnotes">1</a></sup>
 
 Push people to achieve their goals way faster than they think is possible. The need for speed inspires innovation. Ask somebody to do something 20% faster, and they’ll use conventional strategies. Linear progress is the best you’ll get. But if you ask them to do something 2,000% faster, they’ll have to question all their base-level assumptions and innovate.  
 
@@ -344,9 +344,10 @@ Amp It Up is one of those mantras for us at Write of Passage. When you apply the
 
 Amp It Up 是 Write of Passage 的座右铭之一。当你运用“Amp It Up”理念时，人们会散发出雄心、紧迫感、大胆和热情。加快节奏，提高标准，缩小焦点。
 
-#### Footnotes 脚注
+#### Footnotes
+脚注
 
-1.  As Venkatesh Rao once wrote: “Sustainable growth only comes from renewal of core. Otherwise you’re not growing, you’re harvesting. Discovery vs growth as an either/or is the ossification trap.”  
+[^1].  As Venkatesh Rao once wrote: “Sustainable growth only comes from renewal of core. Otherwise you’re not growing, you’re harvesting. Discovery vs growth as an either/or is the ossification trap.”  
     正如 Venkatesh Rao 曾经写道：“可持续增长只能来自于核心的更新。否则你就不是在成长，而是在收获。发现与增长的非此即彼是僵化陷阱。”  
     [Jump back 跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note1)
 2.  The more concrete the vision, the more inspiring it’ll be. In the case of Amazon, it’s hard to get excited about another online bookstore. It’s easy to get excited about “The Everything Store.”  
