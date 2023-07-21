@@ -61,7 +61,7 @@ People who work incrementally inch forward instead of taking bold leaps. They ma
 
 Avoiding risk is the riskiest strategy of all. Companies, like living organisms, need to constantly reinvent themselves.[^1]
 
-避免风险是所有策略中风险最大的。公司就像生物体一样，需要不断地重塑自我。 <sup data-immersive-translate-effect="1" data-immersive_translate_walked="aa5cdc84-c78b-4ead-9c4a-04e497777b14"><a href="https://clip.citrusea.cc/2023/07/15/Amp-It-Up/index.html#footnotes" data-type="internal" data-id="#footnotes">1</a></sup>
+避免风险是所有策略中风险最大的。公司就像生物体一样，需要不断地重塑自我。[1](#mos1)
 
 Push people to achieve their goals way faster than they think is possible. The need for speed inspires innovation. Ask somebody to do something 20% faster, and they’ll use conventional strategies. Linear progress is the best you’ll get. But if you ask them to do something 2,000% faster, they’ll have to question all their base-level assumptions and innovate.  
 
@@ -349,7 +349,7 @@ Amp It Up 是 Write of Passage 的座右铭之一。当你运用“Amp It Up”�
 脚注
 
 [^1]: As Venkatesh Rao once wrote: “Sustainable growth only comes from renewal of core. Otherwise you’re not growing, you’re harvesting. Discovery vs growth as an either/or is the ossification trap.”  
-正如 Venkatesh Rao 曾经写道：“可持续增长只能来自于核心的更新。否则你就不是在成长，而是在收获。发现与增长的非此即彼是僵化陷阱。”[返回](https://clip.citrusea.cc/2023/07/15/Amp-It-Up/index.html#note1)
+正如 Venkatesh Rao 曾经写道：“可持续增长只能来自于核心的更新。否则你就不是在成长，而是在收获。发现与增长的非此即彼是僵化陷阱。”[返回](https://clip.citrusea.cc/2023/07/15/Amp-It-Up/index.html#mos1)
 
 [^2]: The more concrete the vision, the more inspiring it’ll be. In the case of Amazon, it’s hard to get excited about another online bookstore. It’s easy to get excited about “The Everything Store.”  
 愿景越具体，就越鼓舞人心。就亚马逊而言，很难对另一家在线书店感到兴奋。人们很容易对“万能商店”感到兴奋。
@@ -369,5 +369,5 @@ Alpha 的承诺是 (1) 热爱学校，(2) 学习速度加倍，以及 (3) 学习
 [^7]: I once had a conversation with a very successful public equities investor. When a friend successfully refuted his argument, he immediately changed his mind. No pride. No ego. No emotional attachment. The ability to change your mind is a surprisingly rare skill, and it’s one reason why he’s such a successful investor. Leaders must be able to change their minds too. You don’t get points for coming up with the solution. You get points for being right and building a successful business. It doesn’t matter who comes up with the idea. In business, as with investing, you’re going to get things wrong. It’s okay if you’re quick to recognize and correct your mistakes.  
 我曾经与一位非常成功的公共股票投资者进行过交谈。当一位朋友成功反驳了他的论点后，他立即改变了主意。没有骄傲。没有自我。没有情感依恋。改变主意的能力是一种罕见的技能，这也是他成为如此成功的投资者的原因之一。领导者也必须能够改变想法。你不会因提出解决方案而获得积分。您因正确并建立成功的企业而获得积分。谁想出这个主意并不重要。在商业中，就像投资一样，你可能会犯错。如果你能很快认识到并改正自己的错误，那也没关系。
 
-[ ^8 ]: You can only get higher standards and faster speeds if you narrow the focus.  
+[^8]: You can only get higher standards and faster speeds if you narrow the focus.  
 只有缩小焦点，才能获得更高的标准和更快的速度。  
