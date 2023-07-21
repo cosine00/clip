@@ -348,41 +348,18 @@ Amp It Up 是 Write of Passage 的座右铭之一。当你运用“Amp It Up”�
 
 脚注
 
-[^1]: As Venkatesh Rao once wrote: “Sustainable growth only comes from renewal of core. Otherwise you’re not growing, you’re harvesting. Discovery vs growth as an either/or is the ossification trap.”  
+[^1]: As Venkatesh Rao once wrote: “Sustainable growth only comes from renewal of core. Otherwise you’re not growing, you’re harvesting. Discovery vs growth as an either/or is the ossification trap.”  正如 Venkatesh Rao 曾经写道：“可持续增长只能来自于核心的更新。否则你就不是在成长，而是在收获。发现与增长的非此即彼是僵化陷阱。”
 
-正如 Venkatesh Rao 曾经写道：“可持续增长只能来自于核心的更新。否则你就不是在成长，而是在收获。发现与增长的非此即彼是僵化陷阱。”  
-[Jump back 跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note1)
+[^2]: The more concrete the vision, the more inspiring it’ll be. In the case of Amazon, it’s hard to get excited about another online bookstore. It’s easy to get excited about “The Everything Store.”  愿景越具体，就越鼓舞人心。就亚马逊而言，很难对另一家在线书店感到兴奋。人们很容易对“万能商店”感到兴奋。
 
-[^2]: The more concrete the vision, the more inspiring it’ll be. In the case of Amazon, it’s hard to get excited about another online bookstore. It’s easy to get excited about “The Everything Store.”  
+[^3]: In the war against incrementalism, Slootman likes to ask CEOs: “How fast can the company grow if they pull all the stops? Can the business start amping up and go \[exponential\] at some point? When?” Rarely do they have compelling answers to these questions, which implies a lack of transcendent thinking.  在反对渐进主义的战争中，斯洛特曼喜欢问首席执行官们：“如果他们全力以赴，公司能增长多快？业务能否开始加速并在某个时候呈指数级增长？什么时候？”他们很少对这些问题给出令人信服的答案，这意味着他们缺乏超越性的思维。
 
-愿景越具体，就越鼓舞人心。就亚马逊而言，很难对另一家在线书店感到兴奋。人们很容易对“万能商店”感到兴奋。  
-[Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note2)
+[^4]: Alpha’s commitments are (1) love school, (2) learn twice as fast, and (3) learn life skills. We’ve adopted something similar for our Flagship program.  Alpha 的承诺是 (1) 热爱学校，(2) 学习速度加倍，以及 (3) 学习生活技能。我们的旗舰计划采用了类似的方法。
 
-[^3]: In the war against incrementalism, Slootman likes to ask CEOs: “How fast can the company grow if they pull all the stops? Can the business start amping up and go \[exponential\] at some point? When?” Rarely do they have compelling answers to these questions, which implies a lack of transcendent thinking.  
+[^5]: Stephen King famously said “kill your darlings.”  斯蒂芬·金有句名言：“杀死你的宝贝”。
 
-在反对渐进主义的战争中，斯洛特曼喜欢问首席执行官们：“如果他们全力以赴，公司能增长多快？业务能否开始加速并在某个时候呈指数级增长？什么时候？”他们很少对这些问题给出令人信服的答案，这意味着他们缺乏超越性的思维。  
-[Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note3)
+[^6]: At Google X, their Moonshots division, they dedicate one day per year to celebrating the projects they’ve killed because it means they’re focusing.  在 Google X，他们的 Moonshots 部门，他们每年专门有一天来庆祝他们已经终止的项目，因为这意味着他们正在专注。
 
-[^4]: Alpha’s commitments are (1) love school, (2) learn twice as fast, and (3) learn life skills. We’ve adopted something similar for our Flagship program.  
+[^7]: I once had a conversation with a very successful public equities investor. When a friend successfully refuted his argument, he immediately changed his mind. No pride. No ego. No emotional attachment. The ability to change your mind is a surprisingly rare skill, and it’s one reason why he’s such a successful investor. Leaders must be able to change their minds too. You don’t get points for coming up with the solution. You get points for being right and building a successful business. It doesn’t matter who comes up with the idea. In business, as with investing, you’re going to get things wrong. It’s okay if you’re quick to recognize and correct your mistakes.  我曾经与一位非常成功的公共股票投资者进行过交谈。当一位朋友成功反驳了他的论点后，他立即改变了主意。没有骄傲。没有自我。没有情感依恋。改变主意的能力是一种罕见的技能，这也是他成为如此成功的投资者的原因之一。领导者也必须能够改变想法。你不会因提出解决方案而获得积分。您因正确并建立成功的企业而获得积分。谁想出这个主意并不重要。在商业中，就像投资一样，你可能会犯错。如果你能很快认识到并改正自己的错误，那也没关系。
 
-Alpha 的承诺是 (1) 热爱学校，(2) 学习速度加倍，以及 (3) 学习生活技能。我们的旗舰计划采用了类似的方法。  
-[Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note4)
-
-[^5]: Stephen King famously said “kill your darlings.”  
-
-斯蒂芬·金有句名言：“杀死你的宝贝”。  
-[Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note5)
-
-[^6]: At Google X, their Moonshots division, they dedicate one day per year to celebrating the projects they’ve killed because it means they’re focusing.  
-
-在 Google X，他们的 Moonshots 部门，他们每年专门有一天来庆祝他们已经终止的项目，因为这意味着他们正在专注。  [Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note6)
-
-
-[^7]: I once had a conversation with a very successful public equities investor. When a friend successfully refuted his argument, he immediately changed his mind. No pride. No ego. No emotional attachment. The ability to change your mind is a surprisingly rare skill, and it’s one reason why he’s such a successful investor. Leaders must be able to change their minds too. You don’t get points for coming up with the solution. You get points for being right and building a successful business. It doesn’t matter who comes up with the idea. In business, as with investing, you’re going to get things wrong. It’s okay if you’re quick to recognize and correct your mistakes.  
-
-我曾经与一位非常成功的公共股票投资者进行过交谈。当一位朋友成功反驳了他的论点后，他立即改变了主意。没有骄傲。没有自我。没有情感依恋。改变主意的能力是一种罕见的技能，这也是他成为如此成功的投资者的原因之一。领导者也必须能够改变想法。你不会因提出解决方案而获得积分。您因正确并建立成功的企业而获得积分。谁想出这个主意并不重要。在商业中，就像投资一样，你可能会犯错。如果你能很快认识到并改正自己的错误，那也没关系。  [Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note7)
-
-[^8]: You can only get higher standards and faster speeds if you narrow the focus.  
- 
-只有缩小焦点，才能获得更高的标准和更快的速度。  
-[Jump back  跳回](#8)
+[^8]: You can only get higher standards and faster speeds if you narrow the focus.  只有缩小焦点，才能获得更高的标准和更快的速度。  
