@@ -61,7 +61,7 @@ People who work incrementally inch forward instead of taking bold leaps. They ma
 
 Avoiding risk is the riskiest strategy of all. Companies, like living organisms, need to constantly reinvent themselves.[^1]
 
-避免风险是所有策略中风险最大的。公司就像生物体一样，需要不断地重塑自我。[1](#mos1)
+避免风险是所有策略中风险最大的。公司就像生物体一样，需要不断地重塑自我。[1](id=#mos1)
 
 Push people to achieve their goals way faster than they think is possible. The need for speed inspires innovation. Ask somebody to do something 20% faster, and they’ll use conventional strategies. Linear progress is the best you’ll get. But if you ask them to do something 2,000% faster, they’ll have to question all their base-level assumptions and innovate.  
 
