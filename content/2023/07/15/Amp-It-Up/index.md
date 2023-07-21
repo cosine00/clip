@@ -385,4 +385,4 @@ Alpha 的承诺是 (1) 热爱学校，(2) 学习速度加倍，以及 (3) 学习
 [^8]: You can only get higher standards and faster speeds if you narrow the focus.  
  
 只有缩小焦点，才能获得更高的标准和更快的速度。  
-[Jump back  跳回](https://writeofpassage.school/2023/02/10/amp-it-up/#note8)
+[Jump back  跳回](#8)
