@@ -349,7 +349,7 @@ Amp It Up 是 Write of Passage 的座右铭之一。当你运用“Amp It Up”�
 脚注
 
 [^1]: As Venkatesh Rao once wrote: “Sustainable growth only comes from renewal of core. Otherwise you’re not growing, you’re harvesting. Discovery vs growth as an either/or is the ossification trap.”  
-正如 Venkatesh Rao 曾经写道：“可持续增长只能来自于核心的更新。否则你就不是在成长，而是在收获。发现与增长的非此即彼是僵化陷阱。”[返回](https://clip.citrusea.cc/2023/07/15/Amp-It-Up/index.html/#1)
+正如 Venkatesh Rao 曾经写道：“可持续增长只能来自于核心的更新。否则你就不是在成长，而是在收获。发现与增长的非此即彼是僵化陷阱。”[返回](https://clip.citrusea.cc/2023/07/15/Amp-It-Up/index.html#note1)
 
 [^2]: The more concrete the vision, the more inspiring it’ll be. In the case of Amazon, it’s hard to get excited about another online bookstore. It’s easy to get excited about “The Everything Store.”  
 愿景越具体，就越鼓舞人心。就亚马逊而言，很难对另一家在线书店感到兴奋。人们很容易对“万能商店”感到兴奋。
