@@ -11,6 +11,14 @@
 
 ## 目录
 
+- 2023-07-30 [险恶的罢工](2023/07/30/Sinister-strike/index.html)
+- 2023-07-30 [好好读书](2023/07/30/Reading-Well/index.html)
+- 2023-07-30 [少量多多](2023/07/30/A-lot-with-a-little/index.html)
+- 2023-07-29 [如何放松自己的规则心灵指南](2023/07/29/How-to-relax-your-own rules- Psyche-Guides/index.html)
+- 2023-07-29 [忽略情绪的 4 个充分理由](2023/07/29/4-Perfectly-Good-Reasons-to-Ignore-Your-Emotions/index.html)
+- 2023-07-26 [启蒙与陶醉](2023/07/26/Enlightenment-And-Intoxication/index.html)
+- 2023-07-26 [对人权的不同看法：洛美四世辩论（1988-1990）](2023/07/26/Differing-Views-on-Human-Rights-The-Lomé-IV-Debate-(1988-1990)/index.html)
+- 2023-07-26 [共产主义就是自由](2023/07/26/Communism-is-Freedom/index.html)
 - 2023-07-20 [是时候实行 A 计划了？](2023/07/20/Is-It-Time-for-Plan-A？/index.html)
 - 2023-07-20 [如何说“不”](2023/07/20/How-to-Say-No/index.html)
 - 2023-07-16 [激发亚当·斯密灵感的小玩意和小玩意](2023/07/16/Gadgets-and-Gizmos-That-Inspired-Adam-Smith/index.html)
