@@ -14,7 +14,7 @@
 - 2023-07-30 [险恶的罢工](2023/07/30/Sinister-strike/index.html)
 - 2023-07-30 [好好读书](2023/07/30/Reading-Well/index.html)
 - 2023-07-30 [少量多多](2023/07/30/A-lot-with-a-little/index.html)
-- 2023-07-29 [如何放松自己的规则心灵指南](2023/07/29/How-to-relax-your-own-rules- Psyche-Guides/index.html)
+- 2023-07-29 [如何放松自己的规则心灵指南](2023/07/29/How-to-relax-your-own-rules-Psyche-Guides/index.html)
 - 2023-07-29 [忽略情绪的 4 个充分理由](2023/07/29/4-Perfectly-Good-Reasons-to-Ignore-Your-Emotions/index.html)
 - 2023-07-26 [启蒙与陶醉](2023/07/26/Enlightenment-And-Intoxication/index.html)
 - 2023-07-26 [对人权的不同看法：洛美四世辩论（1988-1990）](2023/07/26/Differing-Views-on-Human-Rights-The-Lomé-IV-Debate-(1988-1990)/index.html)
