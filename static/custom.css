@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600&display=swap');
 html {
-  font-family: 'Noto Serif SC', serif;
+  font-family: 'Noto Serif SC', serif, "LXGW WenKai", sans-serif;
 }
 #html .chapter li a .active {
   color: #AB545A;
