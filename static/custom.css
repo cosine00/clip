@@ -32,3 +32,7 @@ html {
   --searchresults-li-bg: #e4f2fe;
   --search-mark-bg: #a2cff5;
 }
+
+#searchresults a, .content a:link, a:visited, a > .hljs {
+  color: #AB545A;
+}
