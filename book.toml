@@ -1,18 +1,25 @@
-base_url = "https://clip.citrusea.cc"
+base_url = "https://clip.citrusea.cc/"
 [book]
 title = "Citrusea's Clip"
 description = "Citrusea's Clip"
 src = "content"
 language = "zh"
-authors = ["Jamyeins"]
+authors = ["Jamyein"]
 
 [output.html]
-git-repository-url = "https://github.com/Jamyein/clip"
-#edit-url-template = "https://github.com/Jaymein/clip/edit/main/{path}"
+default-theme = "light"
+git-repository-url = "https://github.com/helloChenLei/clip"
+# edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
 additional-css = ["custom.css"]
 
+
 [output.html.search]
-enable = false
+enable = true
+
+[output.html.print]
+enable = false    # include support for printable output
+page-break = false # insert page-break after each chapter
+
 
 [output.markdown]
 enable = true
@@ -20,8 +27,8 @@ enable = true
 [mail]
 # false will diasble mail sending
 enable = false
-from_email = "bot@owenyoung.com"
-from_name = "Owen"
+#from_email = "bot@owenyoung.com"
+#from_name = "Owen"
 # you can set the mailjet contact list id here
 # mailjet_contact_list_id = "17669"
 # or directly set the to_email, seperated by comma
