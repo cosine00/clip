@@ -402,9 +402,7 @@ async function main() {
         if (title && extra && extra.original_title) {
           // is same
           if (title !== extra.original_title) {
-            // markdownContent += `原文标题：**${extra.original_title}**\n\n`;
-            markdownContent += `\n\n原文链接：<a target = "blank" href="${extra.source}"> ${extra.source} </a>\n\n`;
-
+            markdownContent += `原文标题：**${extra.original_title}**\n\n`;
           }
         }
       }
@@ -564,16 +562,18 @@ async function main() {
 
     let summary = `# Summary\n\n`;
     if (book.introduction) {
-      summary += `[${book.introduction.title}](${formatMarkdownPath(book.introduction.path)
-        })\n\n`;
+      summary += `[${book.introduction.title}](${
+        formatMarkdownPath(book.introduction.path)
+      })\n\n`;
     }
     for (const section of book.summary) {
       summary += `- [${section.title}](${formatMarkdownPath(section.path)})\n`;
 
       if (section.subSections) {
         for (const subSection of section.subSections) {
-          summary += `  - [${subSection.title}](${formatMarkdownPath(subSection.path)
-            })\n`;
+          summary += `  - [${subSection.title}](${
+            formatMarkdownPath(subSection.path)
+          })\n`;
         }
       }
     }
@@ -654,8 +654,9 @@ async function main() {
 
           dayNoteContent += `- [${subSection.title}](${subSection.source})`;
           if (subSection.title !== subSection.originalTitle) {
-            dayNoteContent += ` ([双语机翻译文](${baseUrl}/${subSection.path.slice(0, -8)
-              }))`;
+            dayNoteContent += ` ([双语机翻译文](${baseUrl}/${
+              subSection.path.slice(0, -8)
+            }))`;
           }
           dayNoteContent += "\n";
         }
@@ -773,7 +774,8 @@ ${body}
       await fs.ensureDir(distDir);
       const epubNewPath = path.join(
         distDir,
-        `${slug(originalBookConfig.book.title as string)
+        `${
+          slug(originalBookConfig.book.title as string)
         }-${keyType}-${key}.epub`,
       );
       await Deno.copyFile(epubPath, epubNewPath);
@@ -792,7 +794,8 @@ ${body}
           "-q",
           path.join(
             distDir,
-            `${slug(originalBookConfig.book.title as string)
+            `${
+              slug(originalBookConfig.book.title as string)
             }-${keyType}-${key}-html.zip`,
           ),
           "./",
