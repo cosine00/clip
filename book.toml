@@ -8,7 +8,7 @@ authors = ["Jamyein"]
 
 [output.html]
 default-theme = "light"
-git-repository-url = "https://github.com/helloChenLei/clip"
+git-repository-url = "https://github.com/Jamyein/clip"
 # edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
 additional-css = ["custom.css"]
 
