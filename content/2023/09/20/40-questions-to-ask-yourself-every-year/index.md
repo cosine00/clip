@@ -1,0 +1,119 @@
+---
+title: "每年问自己的40个问题"
+date: 2023-09-20T14:35:02+08:00
+updated: 2023-09-20T14:35:02+08:00
+taxonomies:
+  tags: []
+extra:
+  source: https://stephango.com/40-questions?utm_source=substack&utm_medium=email
+  hostname: stephango.com
+  author: Steph Ango
+  original_title: "40 questions to ask yourself every year"
+  original_lang: und
+---
+
+
+
+One of my rituals at the end of the year is asking myself these forty questions. I have made them available as [a Markdown file](https://github.com/kepano/40-questions) which has been [translated in several languages](https://github.com/kepano/40-questions/tree/master/translations).  
+
+我在年末的仪式之一就是问自己这四十个问题。我已将它们制作成 Markdown 文件，并翻译成多种语言。
+
+It usually takes me about a week to work my way through all of them. I find it to be one of the most valuable exercises to reflect on what happened, good and bad, and how I hope the year ahead will shape up.  
+
+我通常需要一周的时间来完成所有的问题。我发现这是最有价值的练习之一，可以让我反思发生了什么，好的和坏的，以及我希望来年如何发展。
+
+What is more interesting than each individual answer are the trends that emerge after years of answering the same questions. I’ve shared this list with my family and closest friends, and always enjoy discussing answers as we reflect on the year.  
+
+比每个人的回答更有趣的是，在多年回答同样的问题之后，我们会发现一些趋势。我与家人和最亲密的朋友分享过这份清单，在反思这一年时，我们总是乐于讨论答案。
+
+Feel free to add or remove questions, and [share your edits with me](https://www.twitter.com/kepano). This is first and foremost a personal exercise, so make it a tradition you can enjoy for years to come. See also my [40 questions to ask yourself every decade](https://stephango.com/40-questions-decade).  
+
+欢迎添加或删除问题，并与我分享您的修改意见。这首先是一项个人练习，因此请将其作为一项传统，在今后的岁月里享受其中。另请参阅我的 "每十年问自己的 40 个问题"。
+
+___
+1. What did you do this year that you’d never done before?  
+    今年你做了什么你以前从未做过的事情？
+2. Did you keep your new year’s resolutions?  
+    你遵守新年愿望了吗？
+3. Did anyone close to you give birth?  
+    你身边有人生育了吗？
+4. Did anyone close to you die?  
+    你身边有人去世了吗？
+5. What cities/states/countries did you visit?  
+    您去过哪些城市/州/国家？
+6. What would you like to have next year that you lacked this year?  
+    明年您希望拥有哪些今年缺少的东西？
+7. What date(s) from this year will remain etched upon your memory, and why?  
+    今年的哪一天会让你记忆犹新，为什么？
+8. What was your biggest achievement of the year?  
+    你今年最大的成就是什么？
+9. What was your biggest failure?  
+    最大的失败是什么？
+10. What other hardships did you face?  
+    你还遇到了哪些困难？
+11. Did you suffer illness or injury?  
+    您是否生病或受伤？
+12. What was the best thing you bought?  
+    你买的最好的东西是什么？
+13. Whose behavior merited celebration?  
+    谁的行为值得庆祝？
+14. Whose behavior made you appalled?  
+    谁的行为让你感到震惊？
+15. Where did most of your money go?  
+    你的钱都花到哪里去了？？
+16. What did you get really, really, really excited about?  
+    什么事让你非常、非常、非常兴奋？
+17. What song will always remind you of this year?  
+    哪首歌会让你永远想起这一年？
+18. Compared to this time last year, are you: happier or sadder? Thinner or fatter? Richer or poorer?  
+    与去年此时相比，你是：更快乐还是更悲伤？更瘦还是更胖？更富有还是更贫穷？
+19. What do you wish you’d done more of?  
+    你希望自己多做什么？
+20. What do you wish you’d done less of?  
+    你希望少做什么？
+21. How are you spending the holidays?  
+    你如何度过假期？
+22. Did you fall in love this year?  
+    你今年谈恋爱了吗？
+23. Do you hate anyone now that you didn’t hate this time last year?  
+    你现在讨厌去年这个时候不讨厌的人吗？
+24. What was your favorite show?  
+    你最喜欢的节目是什么？
+25. What was the best book you read?  
+    你读过的最好的书是什么？
+26. What was your greatest musical discovery of the year?  
+    你今年最大的音乐发现是什么？
+27. What was your favorite film?  
+    你最喜欢的电影是什么？
+28. What was your favorite meal?  
+    最喜欢吃什么？
+29. What did you want and get?  
+    你想要并得到什么？
+30. What did you want and not get?  
+    你想要但没有得到的是什么？
+31. What did you do on your birthday?  
+    生日那天你做了什么？
+32. What one thing would have made your year immeasurably more satisfying?  
+    哪件事会让你这一年无比满足？
+33. How would you describe your personal fashion this year?  
+    你如何描述今年的个人时尚？
+34. What kept you sane?  
+    是什么让你保持清醒？
+35. Which celebrity/public figure did you admire the most?  
+    你最欣赏哪位名人/公众人物？
+36. What political issue stirred you the most?  
+    哪个政治问题最让你激动？
+37. Who did you miss?  
+    你怀念谁？
+38. Who was the best new person you met?  
+    你遇到的最好的新人是谁？
+39. What valuable life lesson did you learn this year?  
+    今年你学到了什么宝贵的人生教训？
+40. What is a quote that sums up your year?  
+    哪句话可以概括你这一年的生活？
+
+___
+
+This list was inspired by a set of questions posted [by coppermoss on Metafilter](http://ask.metafilter.com/254216/What-are-your-tools-and-rituals-for-reflecting-on-the-past-year).  
+
+这个列表的灵感来自coppermoss在Metafilter上发布的一组问题。

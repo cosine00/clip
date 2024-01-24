@@ -1,0 +1,87 @@
+---
+title: 每个人都应该写博客
+date: 2024-01-22T09:11:01+08:00
+updated: 2024-01-22T09:11:01+08:00
+taxonomies:
+  tags: []
+extra:
+  source: https://library.xandra.cc/everyone-should-blog/
+  hostname: library.xandra.cc
+  author: 
+  original_title: EveryoneShouldBlog.txt
+  original_lang: en
+---
+
+## Everyone Should Blog, And That Includes You  
+
+每个人都应该写博客，包括你在内
+
+one of the reasons why i'm so passionate about the personal web is because i want there to be a diverse range of the human experience documented online. especially now, there are more internet preservationists than ever, and a part of me believes a digital legacy is the closest someone could actually come to living forever.  
+
+我如此热衷于个人网络的原因之一是，我希望人类的各种经历都能在网上得到记录。尤其是现在，网络保护主义者比以往任何时候都多，我相信数字遗产是最接近永生的东西。
+
+i talked a little bit about this earlier this month on mastodon, centered around the challenge of getting more folks to build more personal websites.  
+
+本月早些时候，我在 mastodon 上围绕让更多人建立更多个人网站这一挑战谈了一点看法。
+
+when trying to evangelize creating a personal website to someone with little technical know-how, sometimes i find it's a harder sell than those already familiar with what it takes to build a website. searching out tools and resources often ends in a rabbit hole of technical jargon, gatekeeping behavior on development forums and communities, or over-engineered processes and tools for the layperson's beginning journey.  
+
+在向不懂技术的人宣传创建个人网站时，有时我发现这比那些已经熟悉网站建设的人更难推销。搜索工具和资源时，往往会陷入技术术语的兔子洞、开发论坛和社区的把关行为，或者对于外行人的初学者来说，过度设计的流程和工具。
+
+in the [32-bit cafe](https://32bit.cafe/), we talk a lot about how we can make building the web more accessible and approachable for folks without much technical experience. one of the best ways to get folks away from the fold of social media is by blogging on a self-managed platform (that isn't wordpress) or a small web service like [bearblog](https://bearblog.dev/) or [midnight.pub](https://midnight.pub/). when exiting social media into the personal web, though, the challenge begins.  
+
+在 32 位咖啡馆，我们经常谈论如何让没有太多技术经验的人更容易接触和使用网络。让人们远离社交媒体的最好方法之一，就是在一个自我管理的平台（非 wordpress）或小型网络服务（如 bearblog 或 midnight.pub）上写博客。
+
+throughout indieweb spaces, i've noticed there's a deep saturation of blogs that talk about similar things: technology from the perspective of being within the industry, programming projects, fixes in coding, very specific technical problems, or general establishing content to bolster the author's expertise in a subject. there's a professional edge to it, even on some "personal" websites. to someone's first exposure to the independent web, it can be a little overwhelming.  
+
+在整个独立网络空间，我注意到有很多博客都在谈论类似的话题：从行业角度出发的技术、编程项目、编码修正、非常具体的技术问题，或者是为了加强作者在某一主题上的专业知识而建立的一般性内容，这些博客都很专业，甚至在一些 "个人 "网站上也是如此。
+
+there's nothing wrong with this at all, of course! the folks that make up the indieweb are really the modern backbone of the internet; developers in tech publishing fixes on blogs and having places to discuss technical issues is foundational to this generation of technical troubleshooting and knowledge-sharing. it's integral to software and web development these days. and i must admit, as someone who works within the UX space professionally, blogs that center around these subjects are useful to me as well.  
+
+当然，这一点也没有错！组成独立网络的人们确实是现代互联网的中坚力量；技术开发人员在博客上发布修复信息，并在博客上讨论技术问题，是这一代技术故障排除和知识共享的基础。
+
+but what about someone who doesn't feel like they have anything to blog? someone who feels like they don't have anything to say? i want to help lead by example: i am not immune to these doubts, especially after slapping a label like **blog** on it. unlike my [other writing](https://xandra.cc/), i find myself asking, "what do i have to say that others haven't? i'm of `<insert demographic>`, haven't they heard enough from folks like me? i'm sure someone else has covered this from all angles, what else could i possibly add?"  
+
+我想以身作则：我不能免于这些怀疑，尤其是在贴上博客这样的标签之后。与我的其他写作不同，我发现自己在问："我有什么别人没有说过的话？
+
+i want and wish for more people feel like _they_ themselves can be what they show the world—not just their work or their projects. i want to read your thoughts, your feelings, your perceptions of the world as it's happening around you. romanticize your life; tell me the minute details of your commute—your perception is yours, after all, and i've never experienced it before. if it's common or unoriginal, that's okay; nobody can tell it the way you can as long as you're writing it.  
+
+我希望更多的人觉得他们自己可以向世界展示什么，而不仅仅是他们的作品或项目。我想读到你的想法、你的感受、你对发生在你身边的世界的感知。浪漫一下你的生活；告诉我你上下班的细枝末节--毕竟你的感知是你自己的，我从未体验过。
+
+someone recently commented that their life was too boring to blog about. i vehemently disagree. you could stay at home, staring at the ceiling for 12 hours a day, and i would still wonder what you think about. that would be interesting enough for me to read. to me, that is part of the human experience that can be encapsulated into ones and zeroes.  
+
+最近有人评论说，他们的生活太无聊了，不适合写博客。我坚决不同意。你可以待在家里，每天盯着天花板看 12 个小时，我还是会好奇你在想什么。
+
+we as humans experience the world in a multitude of variety; one's perception of an event is affected by the ripples of one's perspectives of circumstance, no matter your so-called "importance." your life is important, no matter how boring; your thoughts are interesting as long as you're thinking them.  
+
+我们人类经历的世界是多种多样的；一个人对事件的感知会受到他对环境的看法的影响，无论你所谓的 "重要性 "有多大。
+
+of course, i am not advocating for the tolerance of intolerance, but instead, the publishing and promotion of experiences of the alleged mundane.  
+
+当然，我并不是在提倡宽容不宽容，而是在提倡发表和推广所谓的世俗经验。
+
+your blog doesn't have to center around your political views, ethics, or beliefs. if the most important things someone has to talk about are things that tear down other people, what does that say about their life and the type of experience they want others to glean from their blog? this, to me, is not as integral to your identity as the way you move through the world, your thoughts, the way that you _choose_ to present yourself, how you impact others, and the perspective that powers the actions you take. i want to see your growth as a human being, your opinions changing, the type of thoughts you have after receiving additional information you never had before.  
+
+你的博客并不一定要围绕你的政治观点、道德或信仰展开。如果一个人要谈论的最重要的事情是拆别人台的事情，那么这说明了他的生活是怎样的，他希望别人从他的博客中获得怎样的体验？在我看来，这与你在这个世界上行走的方式、你的思想、你选择展现自己的方式、你如何影响他人以及你采取行动的视角一样，都不是你身份不可或缺的一部分。
+
+your blog doesn't _have_ to be a curated presentation of yourself to the world—it can be a byproduct of it. there is something to be said about the journey of self-discovery through the act of blogging: putting yourself through thought exercises, thinking critically about yourself and your place in the world, and exploring thoughts publicly as documentation of _someone_ thinking them. the concept of a [digital garden](https://maggieappleton.com/garden-history) shows us this is just as valuable and integral to the documentation of the human experience.  
+
+你的博客不一定是向世界展示你自己的精心策划--它可以是一个副产品。通过写博客进行自我发现的过程是值得一说的：让自己进行思考练习，批判性地思考自己和自己在世界上的位置，并作为一个人思考的记录公开探索自己的想法。"数字花园 "的概念告诉我们，这对于记录人类的经历同样有价值，同样不可或缺。
+
+your blog doesn't have to be as tedious as a diary of what you did that day. i want to read published blog entries about how you've grown out of the [kids' table](https://transrats.neocities.org/click/family) at thanksgiving, your [journaling strategies](https://lostletters.neocities.org/2023/11/25/no-more-blank-journal-entries), walking through a [park](https://jamesg.blog/2023/12/29/well-trodden-path/), or pushing back at the idea of only being [professional and serious](https://rubenerd.com/why-arent-you-more-serious/) on your blog. i want to read how you're personally experiencing economic downturns; how your favorite books affected you; your goal-setting and progress you've made on those goals; how your family celebrates traditions; your analysis of your favorite TV shows and movies; your concerns about modern technology affecting your life; what you do to organize yourself; or anything, anything at all.  
+
+你的博客不一定要像日记一样乏味地记录你当天做了什么。我想读到你发表的关于你如何在感恩节时从孩子们的餐桌上走出来、你的日记策略、漫步公园，或者对你的博客只能是专业和严肃的想法的反击的博客文章。我想读您个人如何经历经济衰退；您最喜欢的书对您有何影响；您的目标设定和您在实现这些目标方面取得的进展；您的家庭如何庆祝传统节日；您对最喜欢的电视节目和电影的分析；您对现代科技影响您生活的担忧；您如何组织自己的生活；或者任何东西，任何事情。
+
+in the age of the influencer, relatability has been commodified; the uncanny valley of their reality being "relatable" has been sold as the bar to reach. relatability, though, is hard to come by these days when we find ourselves too polarized to relate to anyone; i wager i have more to learn from [the teacher who blogs](https://foreverliketh.is/) in their free time than the self-professed truthsayer on social media. there's far more authenticity in a handcoded [html journal](https://journal.miso.town/) than an instagram profile.  
+
+在 "有影响力的人 "时代，亲和力被商品化了；他们的现实 "可亲近 "的不可思议的山谷已被作为必须达到的标准而出售。
+
+for me and my blog, i may not have any ideas that are groundbreaking or even all that original. but for this person, who happens to be a speck on a moving rock flying through space, at least there'll be some record of the type of person i was; what it was like in a cross-section of time in my life, even if i'm not that person for long: my opinions will change, my thoughts will evolve, and i will grow as a person, as we all hopefully do. this doesn't dissuade me from blogging, from being wrong at some point in time; if anything, it's a reminder that this isn't just a _digital_ garden i'm dealing with. my thoughts are sprouting, even now.  
+
+对于我和我的博客来说，我可能没有任何开创性的想法，甚至没有任何原创性。但对于这个碰巧是在太空中飞行的移动岩石上的一个小点的人来说，至少会有一些关于我曾经是什么样的人的记录；在我生命中的一个横截面上，我是什么样的人，即使我不再是那个人了：我的观点会改变，我的想法会发展，我作为一个人也会成长，我们都希望如此。这并不妨碍我写博客，也不妨碍我在某些时候出错；如果有的话，这也提醒我，我面对的不仅仅是一个数字花园。
+
+i hope to read your blog someday.  
+
+我希望有一天能读到你的博客。
+
+

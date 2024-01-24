@@ -1,0 +1,101 @@
+---
+title: 制造者的时间表, 管理者的时间表
+date: 2023-09-22T03:00:51.000Z
+updated: 2023-09-22T03:00:51.000Z
+taxonomies:
+  tags:
+    - readsomethingwonderful
+extra:
+  source: http://paulgraham.com/makersschedule.html
+  hostname: paulgraham.com
+  author: null
+  original_title: Maker's Schedule, Manager's Schedule --- 制造商的时间表，经理的时间表
+  original_lang: en
+
+---
+> 💡
+> 在职场工作中，我们经常遇到手头工作被打断，有时是因为临时性会议，有时则是某位领导的“你过来一下”。本来是按照自己的节奏安排进行着一件事情，但被外界中断，带来了大量的时间浪费和精力损耗，很烦的。 
+> 保罗·格雷厄姆14年前的这篇文章，真的应该给老板和管理者好好看看。 
+> 文章讨论了两种不同类型的时间表:管理者时间表和制造者时间表。管理者时间表是一小块一小块地，类似于积木一样可以任意拼接，可以频繁地更换他们的日常任务，说干就干。而制造者的时间表不同，他们更喜欢以半天或更长时间作业。工作中途的会议对于他们来说是一个灾难，对一整天产生负面影响。 
+   这篇文章提出,公司应允许不同的安排需求,制作者有时需要长时间无干扰地完成工作。在工作日结束时设定“服务小时”是一种在不中断的情况下进行会议的方法。
+   对管理者时间表来说成本很低的探索性会面,对制作者来说成本很高,因为它会造成时间损失。理解和尊重不同的安排方式可以帮助解决管理者时间表和制作者时间表碰撞时出现的冲突。
+
+> "...the mere consciousness of an engagement will sometimes worry a whole day."  
+"...仅仅意识到订婚有时会担心一整天。
+>
+–  Charles Dickens
+ ——查尔斯·狄更斯
+
+July 2009 2009年7月
+
+One reason programmers dislike meetings so much is that they're on a different type of schedule from other people. Meetings cost them more.  
+
+程序员如此不喜欢会议的一个原因是，他们的日程安排与其他人不同。会议花费更多。
+
+There are two types of schedule, which I'll call the manager's schedule and the maker's schedule. The manager's schedule is for bosses. It's embodied in the traditional appointment book, with each day cut into one hour intervals. You can block off several hours for a single task if you need to, but by default you change what you're doing every hour.  
+
+有两种类型的时间表，我称之为经理的时间表和制造商的时间表。经理的日程安排是给老板的。它体现在传统的约会簿中，每天间隔一小时。如果需要，您可以为单个任务留出几个小时，但默认情况下，您每小时都会更改要执行的操作。
+
+When you use time that way, it's merely a practical problem to meet with someone. Find an open slot in your schedule, book them, and you're done.  
+
+当你以这种方式使用时间时，与某人见面只是一个实际问题。在您的日程安排中找到一个空位，预订它们，您就完成了。
+
+Most powerful people are on the manager's schedule. It's the schedule of command. But there's another way of using time that's common among people who make things, like programmers and writers. They generally prefer to use time in units of half a day at least. You can't write or program well in units of an hour. That's barely enough time to get started.  
+
+大多数有权势的人都在经理的日程安排上。这是命令的时间表。但是还有另一种利用时间的方式，这在做东西的人中很常见，比如程序员和作家。他们通常更喜欢至少以半天为单位使用时间。你不能在一个小时内写好或编程。这几乎没有足够的时间开始。
+
+When you're operating on the maker's schedule, meetings are a disaster. A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in. Plus you have to remember to go to the meeting. That's no problem for someone on the manager's schedule. There's always something coming on the next hour; the only question is what. But when someone on the maker's schedule has a meeting, they have to think about it.  
+
+当您按照制作者的时间表进行操作时，会议是一场灾难。一次会议可以吹走整个下午，因为它分成两部分，每部分太小而无法做任何困难的事情。另外，您必须记住参加会议。对于经理日程表上的人来说，这没有问题。下一个小时总有事情发生;唯一的问题是什么。但是，当制造商日程安排中的某人开会时，他们必须考虑一下。
+
+For someone on the maker's schedule, having a meeting is like throwing an exception. It doesn't merely cause you to switch from one task to another; it changes the mode in which you work.  
+
+对于制作者日程安排中的人来说，开会就像抛出一个例外。它不仅会导致您从一个任务切换到另一个任务;它会更改您工作的方式。
+
+I find one meeting can sometimes affect a whole day. A meeting commonly blows at least half a day, by breaking up a morning or afternoon. But in addition there's sometimes a cascading effect. If I know the afternoon is going to be broken up, I'm slightly less likely to start something ambitious in the morning. I know this may sound oversensitive, but if you're a maker, think of your own case. Don't your spirits rise at the thought of having an entire day free to work, with no appointments at all? Well, that means your spirits are correspondingly depressed when you don't. And ambitious projects are by definition close to the limits of your capacity. A small decrease in morale is enough to kill them off.  
+
+我发现一个会议有时会影响一整天。一次会议通常至少吹半天，上午或下午分开。但除此之外，有时还会产生级联效应。如果我知道下午要被打破，我就不太可能在早上开始一些雄心勃勃的事情。我知道这听起来可能过于敏感，但如果你是一个制造者，想想你自己的情况。一想到有一整天的自由工作，根本没有约会，你的精神就不会振奋吗？嗯，这意味着当你不这样做时，你的精神会相应地沮丧。根据定义，雄心勃勃的项目接近您的能力极限。士气的轻微下降足以杀死他们。
+
+Each type of schedule works fine by itself. Problems arise when they meet. Since most powerful people operate on the manager's schedule, they're in a position to make everyone resonate at their frequency if they want to. But the smarter ones restrain themselves, if they know that some of the people working for them need long chunks of time to work in.  
+
+每种类型的计划本身都可以正常工作。当它们相遇时，问题就会出现。由于大多数有权势的人都按照经理的时间表运作，如果他们愿意，他们能够让每个人都以自己的频率产生共鸣。但是更聪明的人会克制自己，如果他们知道为他们工作的人需要很长时间才能工作。
+
+Our case is an unusual one. Nearly all investors, including all VCs I know, operate on the manager's schedule. But [Y Combinator](http://ycombinator.com/) runs on the maker's schedule. Rtm and Trevor and I do because we always have, and Jessica does too, mostly, because she's gotten into sync with us.  
+
+我们的情况是不寻常的。几乎所有的投资者，包括我认识的所有风险投资人，都按照经理的时间表运作。但Y Combinator按照制造商的时间表运行。Rtm、Trevor和我这样做，因为我们一直都有，杰西卡也这样做，主要是因为她和我们同步了。
+
+I wouldn't be surprised if there start to be more companies like us. I suspect founders may increasingly be able to resist, or at least postpone, turning into managers, just as a few decades ago they started to be able to resist switching from jeans to suits.  
+
+如果开始有更多像我们这样的公司，我不会感到惊讶。我怀疑创始人可能越来越能够抵制，或者至少推迟成为经理，就像几十年前他们开始能够抵制从牛仔裤转向西装一样。
+
+How do we manage to advise so many startups on the maker's schedule? By using the classic device for simulating the manager's schedule within the maker's: office hours. Several times a week I set aside a chunk of time to meet founders we've funded. These chunks of time are at the end of my working day, and I wrote a signup program that ensures all the appointments within a given set of office hours are clustered at the end. Because they come at the end of my day these meetings are never an interruption. (Unless their working day ends at the same time as mine, the meeting presumably interrupts theirs, but since they made the appointment it must be worth it to them.) During busy periods, office hours sometimes get long enough that they compress the day, but they never interrupt it. 
+
+我们如何设法在制造商的时间表上为这么多初创公司提供建议？通过使用经典设备模拟经理在制造商的办公时间内的日程安排。每周有几次，我都会留出大量时间与我们资助的创始人会面。这些时间块是在我的工作日结束时，我编写了一个注册程序，确保给定办公时间内的所有约会都集中在最后。因为它们是在我一天结束时举行的，所以这些会议永远不会中断。（除非他们的工作日和我的工作日同时结束，否则会议可能会打断他们的工作，但既然他们预约了，这对他们来说一定是值得的。在繁忙时期，办公时间有时会变得足够长，以至于他们压缩了一天，但他们从不打断它。
+
+When we were working on
+
+[our own startup](http://paulgraham.com/start.html), back in the 90s, I evolved another trick for partitioning the day. I used to program from dinner till about 3 am every day, because at night no one could interrupt me. Then I'd sleep till about 11 am, and come in and work until dinner on what I called "business stuff." I never thought of it in these terms, but in effect I had two workdays each day, one on the manager's schedule and one on the maker's.  
+
+早在 90 年代，当我们在做自己的创业公司时，我就开发了另一个划分一天的技巧。我以前每天从晚餐到凌晨3点左右编程，因为晚上没有人可以打扰我。然后我会睡到上午11点左右，然后进来工作到晚餐，我称之为“商业事务”。我从来没有这样想过，但实际上我每天有两个工作日，一个是经理的时间表，一个是制造商的时间表。
+
+When you're operating on the manager's schedule you can do something you'd never want to do on the maker's: you can have speculative meetings. You can meet someone just to get to know one another. If you have an empty slot in your schedule, why not? Maybe it will turn out you can help one another in some way.  
+
+当你按照经理的时间表运作时，你可以做一些你永远不想在制作者身上做的事情：你可以开投机会议。你可以认识一个人只是为了互相了解。如果您的日程安排中有空档，为什么不呢？也许事实证明你们可以以某种方式互相帮助。
+
+Business people in Silicon Valley (and the whole world, for that matter) have speculative meetings all the time. They're effectively free if you're on the manager's schedule. They're so common that there's distinctive language for proposing them: saying that you want to "grab coffee," for example.  
+
+硅谷（以及整个世界）的商界人士一直在开投机会议。如果你在经理的时间表上，他们实际上是免费的。它们是如此普遍，以至于有独特的语言来提出它们：例如，说你想“喝咖啡”。
+
+Speculative meetings are terribly costly if you're on the maker's schedule, though. Which puts us in something of a bind. Everyone assumes that, like other investors, we run on the manager's schedule. So they introduce us to someone they think we ought to meet, or send us an email proposing we grab coffee. At this point we have two options, neither of them good: we can meet with them, and lose half a day's work; or we can try to avoid meeting them, and probably offend them.  
+
+不过，如果你在制造商的日程安排上，投机性会议是非常昂贵的。这让我们陷入了某种困境。每个人都认为，像其他投资者一样，我们按照经理的时间表运行。所以他们把我们介绍给他们认为我们应该见面的人，或者给我们发一封电子邮件，建议我们喝咖啡。此时我们有两个选择，两个都不好：我们可以和他们见面，然后失去半天的工作;或者我们可以尽量避免与他们见面，并可能冒犯他们。
+
+Till recently we weren't clear in our own minds about the source of the problem. We just took it for granted that we had to either blow our schedules or offend people. But now that I've realized what's going on, perhaps there's a third option: to write something explaining the two types of schedule. Maybe eventually, if the conflict between the manager's schedule and the maker's schedule starts to be more widely understood, it will become less of a problem.  
+
+直到最近，我们自己还不清楚问题的根源。我们只是理所当然地认为，我们要么破坏我们的时间表，要么得罪人。但是现在我已经意识到发生了什么，也许还有第三种选择：写一些东西来解释这两种类型的时间表。也许最终，如果经理的日程安排和制造商的日程安排之间的冲突开始得到更广泛的理解，那么问题就会变得不那么严重。
+
+Those of us on the maker's schedule are willing to compromise. We know we have to have some number of meetings. All we ask from those on the manager's schedule is that they understand the cost.  
+
+我们这些在制造商时间表上的人愿意妥协。我们知道，我们必须举行一些会议。我们对经理日程表上的人的要求只是他们了解成本。
+
+
