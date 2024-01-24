@@ -1,14 +1,14 @@
-base_url = "https://clip.citrusea.cc/"
+base_url = "https://clip.hux.ink/"
 [book]
-title = "Citrusea's Clip"
-description = "Citrusea's Clip"
+title = "简悦花园"
+description = "简悦花园"
 src = "content"
 language = "zh"
 authors = ["Citrusea"]
 
 [output.html]
 default-theme = "light"
-git-repository-url = "https://github.com/Jamyein/clip"
+git-repository-url = "https://github.com/cosine00/clip"
 # edit-url-template = "https://github.com/theowenyoung/clip-template/edit/main/{path}"
 additional-css = ["custom.css"]
 
