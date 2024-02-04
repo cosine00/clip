@@ -4,7 +4,7 @@ title = "简悦花园"
 description = "简悦花园"
 src = "content"
 language = "zh"
-authors = ["Citrusea"]
+authors = ["落落vici"]
 
 [output.html]
 default-theme = "light"
