@@ -9,8 +9,6 @@ extra:
   hostname: blog.ursb.me
   author: Airing
 
-
-我是一只小小小小熊。
   original_title: "当下的快乐"
   original_lang: zh-CN
 ---
