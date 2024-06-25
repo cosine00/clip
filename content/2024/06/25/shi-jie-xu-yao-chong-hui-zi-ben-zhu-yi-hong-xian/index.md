@@ -1,5 +1,5 @@
 ---
-title: "世界需要重回资本主义 – 虹线"
+title: 世界需要重回资本主义
 date: 2024-06-25T10:39:38+08:00
 updated: 2024-06-25T10:39:38+08:00
 taxonomies:
@@ -8,7 +8,7 @@ extra:
   source: https://1q43.blog/post/5901
   hostname: 1q43.blog
   author: 评论尸
-  original_title: "世界需要重回资本主义 – 虹线"
+  original_title: 世界需要重回资本主义 – 虹线
   original_lang: zh-CN
 ---
 >所谓技术封建主义，就是指大科技公司不再以创造新的价值，而是以垄断赛博土地要素为主要盈利方式。这种转变使得它们不再关注市场中整体利润的增长，转而专注于固定资产的增值。
