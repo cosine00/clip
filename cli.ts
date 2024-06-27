@@ -702,37 +702,38 @@ ${body}
       }
     }
 
-// add table of content to index
-const indexContent = await Deno.readTextFile(
-  path.join(
-    bookSourceFileDist,
-    bookConfig.book.src as string,
-    "README.md",
-  ),
-);
+    // add table of content to index
+    const indexContent = await Deno.readTextFile(
+      path.join(
+        bookSourceFileDist,
+        bookConfig.book.src as string,
+        "README.md",
+      ),
+    );
 
-if (indexContent.includes("<!-- Table of Content-->")) {
-  // replace it
-  let tableOfContent = ``;
+    if (indexContent.includes("<!-- Table of Content-->")) {
+      // replace it
+      let tableOfContent = ``;
 
-  for (const chapter of allChapters) {      
-    tableOfContent +=
-      `- ${chapter.day} [${chapter.title}](/content/${chapter.id})\n`;
-  }
-  // replace it with table of content
-  const newContent = indexContent.replace(
-    "<!-- Table of Content-->",
-    tableOfContent,
-  );
-  await Deno.writeTextFile(
-    path.join(
-      bookSourceFileDist,
-      bookConfig.book.src as string,
-      "README.md",
-    ),
-    newContent,
-  );
-}
+      for (const chapter of allChapters) {
+        const urlPathname = chapter.relativePath.replace(/^content\//, "");
+        tableOfContent +=
+          `- ${chapter.day} [${chapter.title}](${urlPathname})\n`;
+      }
+      // replace it with table of content
+      const newContent = indexContent.replace(
+        "<!-- Table of Content-->",
+        tableOfContent,
+      );
+      await Deno.writeTextFile(
+        path.join(
+          bookSourceFileDist,
+          bookConfig.book.src as string,
+          "README.md",
+        ),
+        newContent,
+      );
+    }
 
     // write book.toml
     const bookToml = stringify(
