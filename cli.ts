@@ -715,10 +715,9 @@ ${body}
       // replace it
       let tableOfContent = ``;
 
-      for (const chapter of allChapters) {
-        const urlPathname = `${chapter.id}`;
+      for (const chapter of allChapters) {      
         tableOfContent +=
-          `- ${chapter.day} [${chapter.title}](${urlPathname})\n`;
+          `- ${chapter.day} [${chapter.title}](${chapter.id})\n`;
       }
       // replace it with table of content
       const newContent = indexContent.replace(
