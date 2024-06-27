@@ -716,7 +716,7 @@ ${body}
       let tableOfContent = ``;
 
       for (const chapter of allChapters) {
-        const urlPathname = chapter.relativePath.replace(/^content\//, "");
+        const urlPathname = `${chapter.id}`;
         tableOfContent +=
           `- ${chapter.day} [${chapter.title}](${urlPathname})\n`;
       }
