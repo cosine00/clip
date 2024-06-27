@@ -1,5 +1,5 @@
 ---
-title: "Life is Short"
+title: "LifeisShort"
 date: 2023-10-12T11:55:14+08:00
 tags:
 url: https://limboy.me/posts/life-is-short/
