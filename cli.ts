@@ -711,11 +711,12 @@ ${body}
     if (indexContent.includes("<!-- Table of Content-->")) {
       // replace it
       let tableOfContent = ``;
-
+    
       for (const chapter of allChapters) {
-        const urlPathname = chapter.relativePath.replace(/^content\//, "");
+        // 对文件名进行 URL 编码,替换空格为 %20
+        const urlPathname = encodeURIComponent(chapter.relativePath.replace(/^content\//, ""));
         tableOfContent +=
-          `- ${chapter.day} [${chapter.title}](${urlPathname})\n`;
+          `- [${chapter.day} ${chapter.title}](${urlPathname})\n`;
       }
       // replace it with table of content
       const newContent = indexContent.replace(
