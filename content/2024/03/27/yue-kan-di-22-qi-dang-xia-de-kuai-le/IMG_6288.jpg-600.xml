@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8' ?>
-<Error>
-	<Code>NoSuchKey</Code>
-	<Message>The specified key does not exist.</Message>
-	<Resource>/image/blog/IMG_6288.jpg-600.jpg</Resource>
-	<RequestId>NjYwMzg3ODZfNWIyZjJjMGJfNjBmYV9kMTQ2MGI4</RequestId>
-	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc0OWRkZjk0ZDM1NmI1M2E2MTRlY2MzZDhmNmI5MWI1OTVlNGMxNDIzNDk3MzBjZDllZGY1MzE5MTM5N2ZmOTE4YWRmYWFlOTAxZWZhNDY4NzIyYTZlMDI3ZTk0YWU4MjE=</TraceId>
-</Error>
-

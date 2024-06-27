@@ -410,11 +410,8 @@ async function main() {
       markdownContent += chapter.content;
 
       // add original url
-      if (chapter.frontMatter) {
-        const extra = chapter.frontMatter.extra;
-        if (extra && extra.source) {
-          markdownContent += `\n\n原文链接：[${extra.source}](${extra.source})`;
-        }
+      if (chapter.frontMatter && chapter.frontMatter.url) {
+        markdownContent += `\n\n原文链接：[${chapter.frontMatter.url}](${chapter.frontMatter.url})`;
       }
       targetMarkdownFiles[chapter.relativePath] = markdownContent;
       if (!allFiles.includes(chapter.relativePath)) {
