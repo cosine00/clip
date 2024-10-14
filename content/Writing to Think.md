@@ -1,7 +1,7 @@
 ---
-title: "Writing to Think"
-date: 2023-12-12T16:57:26+08:00
-tags:
+title: Writing to Think
+date: 2023-12-12
+tags: 
 url: https://fs.blog/writing-to-think/
 ---
 
