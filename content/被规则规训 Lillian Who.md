@@ -1,7 +1,7 @@
 ---
 url: https://lillianwho.com/posts/%E8%A2%AB%E8%A7%84%E5%88%99%E8%A7%84%E8%AE%AD/
 title: 被规则规训  Lillian Who
-date: 2024-11-01 16:01:46
+date: 2024-11-01
 tags: 
 id: 241101160146
 banner: https://images.unsplash.com/photo-1727791962712-1d36ec09b068?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Njc1ODd8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzMwNDQ4MTAyfA&ixlib=rb-4.0.3&q=85&fit=crop&w=772&max-h=540

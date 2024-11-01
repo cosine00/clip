@@ -1,7 +1,7 @@
 ---
 url: https://www.paulgraham.com/writes.html
 title: Writes and Write-Nots  写与不写
-date: 2024-10-30 09:04:04
+date: 2024-10-30
 tags: 
 id: 241030090404
 banner: https://images.unsplash.com/photo-1727462490269-67dd2b9c49a9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0Njc1ODd8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzMwMjUwMjM2fA&ixlib=rb-4.0.3&q=85&fit=crop&w=772&max-h=540
