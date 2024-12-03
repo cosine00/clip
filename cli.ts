@@ -714,7 +714,7 @@ ${body}
     
       for (const chapter of allChapters) {
         // 对文件名进行 URL 编码,替换空格为 %20
-        const urlPathname = encodeURIComponent(chapter.relativePath.replace(/^content\//, "");
+        const urlPathname = encodeURIComponent(chapter.relativePath.replace(/^content\//, ""));
         tableOfContent +=
           `- [${chapter.day} ${chapter.title}](${urlPathname})\n`;
       }
