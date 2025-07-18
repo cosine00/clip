@@ -1,7 +1,7 @@
 ---
 url: https://nesslabs.com/fear-framework?utm_source=rss&utm_medium=rss&utm_campaign=fear-framework
 title: 如何与恐惧交朋友：F.E.A.R.框架
-date: 2024-10-30 08:58:20
+date: 2024-10-30
 tags: 
 id: 241030085820
 banner: https://nesslabs.com/wp-content/uploads/2024/10/fear-framework-banner.webp
