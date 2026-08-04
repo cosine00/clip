@@ -69,6 +69,7 @@ export interface WeekOfYear {
 }
 interface Chapter {
   relativePath: string;
+  outputRelativePath: string;
   path: string;
   title: string;
   date: Date;
@@ -348,6 +349,7 @@ async function main() {
         const chapter = {
           path: filepath,
           relativePath,
+          outputRelativePath: "",
           title: attrs.title,
           date: new Date(attrs.date),
           updated: attrs.updated
@@ -366,6 +368,21 @@ async function main() {
       }
     }
   }
+  // assign unique output paths based on date and per-day order
+  const chaptersForOutputPath = [...allChapters].sort((a, b) =>
+    a.date.getTime() - b.date.getTime() || a.relativePath.localeCompare(b.relativePath)
+  );
+  const dayCounter: Record<string, number> = {};
+  for (const chapter of chaptersForOutputPath) {
+    const dayKey = chapter.day.replace(/-/g, "");
+    if (!dayCounter[dayKey]) {
+      dayCounter[dayKey] = 0;
+    }
+    dayCounter[dayKey] += 1;
+    const serial = String(dayCounter[dayKey]).padStart(2, "0");
+    chapter.outputRelativePath = `${dayKey}${serial}/index.md`;
+  }
+
   for (const key of booksKeys) {
     let keyType = "";
     if (key === "archive") {
@@ -413,9 +430,9 @@ async function main() {
       if (chapter.frontMatter && chapter.frontMatter.url) {
         markdownContent += `\n\n原文链接：[${chapter.frontMatter.url}](${chapter.frontMatter.url})`;
       }
-      targetMarkdownFiles[chapter.relativePath] = markdownContent;
-      if (!allFiles.includes(chapter.relativePath)) {
-        allFiles.push(chapter.relativePath);
+      targetMarkdownFiles[chapter.outputRelativePath] = markdownContent;
+      if (!allFiles.includes(chapter.outputRelativePath)) {
+        allFiles.push(chapter.outputRelativePath);
       }
       // if chapter is a folder, also copy assets
       if (/index.(\w+\.)?md$/.test(chapter.path)) {
@@ -445,6 +462,7 @@ async function main() {
     for (const relativePath of Object.keys(targetMarkdownFiles)) {
       const distPath = path.join(
         bookSourceFileDist,
+        bookConfig.book.src as string,
         relativePath,
       );
       // ensure folder exists
@@ -488,10 +506,7 @@ async function main() {
             }
           }
           if (match) {
-            const relativePathToSummary = chapter.relativePath.replace(
-              /^content\//,
-              "",
-            );
+            const relativePathToSummary = chapter.outputRelativePath;
 
             if (!summarySection.subSections) {
               summarySection.subSections = [];
@@ -503,7 +518,6 @@ async function main() {
             const source = chapter.frontMatter?.extra?.source;
             const originalTitle = chapter.frontMatter?.extra?.original_title;
 
-            // TODO
             summarySection.subSections.push({
               title: chapter.title,
               path: relativePathToSummary,
@@ -534,10 +548,7 @@ async function main() {
           title: yearStr + "-" + monthStr + "-" + dayStr,
           path: daySummaryPath,
           subSections: groups[day].map((chapter: Chapter) => {
-            const relativePathToSummary = chapter.relativePath.replace(
-              /^content\//,
-              "",
-            );
+              const relativePathToSummary = chapter.outputRelativePath;
             const relativePathToSection = path.relative(
               path.dirname(daySummaryPath),
               relativePathToSummary,
@@ -713,8 +724,8 @@ ${body}
       let tableOfContent = ``;
     
       for (const chapter of allChapters) {
-        // 对文件名进行 URL 编码,替换空格为 %20
-        const urlPathname = encodeURIComponent(chapter.relativePath.replace(/^content\//, ""));
+        // 对路径进行 URL 编码，但保留路径分隔符
+        const urlPathname = encodeURI(chapter.outputRelativePath);
         tableOfContent +=
           `- [${chapter.day} ${chapter.title}](${urlPathname})\n`;
       }
@@ -845,9 +856,9 @@ ${body}
       allChapters.slice(0, 25).forEach((post) => {
         feed.addItem({
           title: post.title,
-          id: relativePathToAbsoluteUrl(post.relativePath, baseUrl),
-          link: relativePathToAbsoluteUrl(post.relativePath, baseUrl),
-          content: renderMarkdown(post.relativePath, post.content, baseUrl),
+          id: relativePathToAbsoluteUrl(post.outputRelativePath, baseUrl),
+          link: relativePathToAbsoluteUrl(post.outputRelativePath, baseUrl),
+          content: renderMarkdown(post.outputRelativePath, post.content, baseUrl),
           date: post.date,
         });
       });
@@ -1133,6 +1144,12 @@ function formatMarkdownPath(path: string): string {
 function relativePathToAbsoluteUrl(relativePath: string, host: string): string {
   if (relativePath.startsWith("content/")) {
     relativePath = relativePath.slice("content/".length);
+  }
+
+  if (relativePath.endsWith("/index.md")) {
+    const folderPath = relativePath.slice(0, -"/index.md".length);
+    const finalUrl = new URL(folderPath, host).toString();
+    return finalUrl;
   }
 
   if (relativePath.endsWith(".md")) {
