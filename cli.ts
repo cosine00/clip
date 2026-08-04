@@ -725,7 +725,9 @@ ${body}
     
       for (const chapter of allChapters) {
         // 对路径进行 URL 编码，但保留路径分隔符
-        const urlPathname = encodeURI(chapter.outputRelativePath);
+        const urlPathname = encodeURI(
+          chapter.outputRelativePath.replace(/\/index\.md$/, "/"),
+        );
         tableOfContent +=
           `- [${chapter.day} ${chapter.title}](${urlPathname})\n`;
       }
@@ -1212,7 +1214,9 @@ function internalMarkdownLinkToAbsoluteUrl(
   }
 
   let finalPath = path.join(parentPath, targetlink);
-  if (finalPath.endsWith(".md")) {
+  if (finalPath.endsWith("/index.md")) {
+    finalPath = finalPath.slice(0, -"/index.md".length);
+  } else if (finalPath.endsWith(".md")) {
     finalPath = finalPath.slice(0, -3) + ".html";
   }
   const finalUrl = new URL(finalPath, host).toString();
